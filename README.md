@@ -5,7 +5,12 @@ department, using [OpenAlex](https://openalex.org) author IDs. The output is a
 single self-contained HTML file you can project at a faculty meeting, host
 anywhere, or print.
 
-No API key, no dependencies — Python 3.8+ standard library only.
+Python 3.8+ standard library only, no dependencies.
+
+You need a **free OpenAlex API key**: sign up at [openalex.org](https://openalex.org)
+and copy it from [openalex.org/settings/api](https://openalex.org/settings/api)
+(about 30 seconds). Since February 2026 OpenAlex expects a key for anything
+beyond demo use. Set it as `OPENALEX_API_KEY`, or pass `--api-key`.
 
 ## Setup
 
@@ -59,7 +64,9 @@ That fetches everything published in the last 2 years and writes
 | `--serve` | rebuild, then serve at `http://localhost:8000` |
 
 Passing `--mailto` puts you in OpenAlex's "polite pool", which is faster and
-more reliable. You can set `OPENALEX_MAILTO` in your environment instead.
+more reliable. Both it and `--api-key` fall back to the `OPENALEX_MAILTO` and
+`OPENALEX_API_KEY` environment variables, so you can export them once instead of
+passing flags every time.
 
 The page itself has a search box (title, author, journal), a per-faculty
 filter, and a preprint toggle. Papers are grouped by year, newest first, with
@@ -68,15 +75,23 @@ everyone involved.
 
 ## If you hit the rate limit
 
-OpenAlex's free tier is a **daily budget of 1000 requests, counted per IP and
-reset at midnight UTC**. Exceeding it returns HTTP 429 for the rest of the day,
-and `mailto` does not raise the cap.
+OpenAlex bills API calls against a daily budget that resets at midnight UTC.
+What budget you get depends entirely on whether you send a key:
 
-A full run of a ~30-person roster costs only a handful of requests, because
-author IDs are OR-batched 25 at a time rather than queried one per person. You
-would have to run it dozens of times a day to run out on your own — but the
-budget is shared by everyone behind your campus IP, so it can be exhausted by
-someone else.
+| | Daily budget | Tied to |
+|---|---|---|
+| No API key | ~$0.10, demo use only | **your IP address** |
+| Free API key | $1 (~10,000 list calls) | **your key** |
+
+The distinction matters more than the size. Without a key the budget belongs to
+the IP address, so on any shared host — a CI runner, a campus NAT — somebody
+else may already have spent it before you start. This is exactly why the GitHub
+Actions job needs a key: runners use shared cloud IPs whose keyless budget is
+routinely gone.
+
+A full run of a ~30-person roster costs about 3 calls, because author IDs are
+OR-batched 25 at a time rather than queried one per person. Against a free key's
+10,000 that is unlimited for practical purposes.
 
 If it happens, `fetch_pubs.py` stops immediately (exit code 2) rather than
 retrying, since every retry spends another credit for nothing. It reports when
@@ -112,8 +127,9 @@ Setup, once:
    information anyway.)
 2. **Settings > Pages > Build and deployment > Source: GitHub Actions.** This is
    the step people forget — without it, the deploy step fails.
-3. **Settings > Secrets and variables > Actions > New repository secret**, named
-   `OPENALEX_MAILTO`, set to your email.
+3. **Settings > Secrets and variables > Actions > New repository secret**. Add
+   `OPENALEX_API_KEY` (required — see the rate limit section above for why), and
+   `OPENALEX_MAILTO` set to your email.
 4. **Actions > Refresh publications > Run workflow** to publish immediately
    rather than waiting for the first scheduled run.
 
@@ -174,8 +190,10 @@ Deliberately **not** in the repo:
 | `.DS_Store` | macOS clutter |
 | `.claude/` | local assistant/editor settings, specific to one machine |
 
-There are no secrets in the repo. Your email reaches the workflow through the
-`OPENALEX_MAILTO` GitHub secret, and OpenAlex needs no API key at all.
+There are no secrets in the repo. The API key and your email reach the workflow
+through the `OPENALEX_API_KEY` and `OPENALEX_MAILTO` GitHub secrets. The key is
+sent as a query parameter and is redacted from every error message, so it cannot
+leak into a workflow log or into the published page.
 
 The fetch and build steps are separate so you can rebuild the page (retitle it,
 tweak the styling) without re-querying the API.

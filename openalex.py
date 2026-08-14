@@ -1,19 +1,43 @@
 """Minimal OpenAlex API client (standard library only).
 
 Docs: https://docs.openalex.org/
-We use the "polite pool" by sending a mailto, which gets us faster, more
-reliable service. No API key is needed.
+Sending a mailto puts us in the "polite pool". Since February 2026 OpenAlex
+also expects an API key for anything beyond demo use; a free one covers this
+tool many times over. See configure() below.
 """
 
 from __future__ import annotations
 
 import json
+import re
 import time
 import urllib.error
 import urllib.parse
 import urllib.request
 
 API_ROOT = "https://api.openalex.org"
+
+# OpenAlex has required an API key for production use since February 2026.
+# A free key gives $1 of usage per day (about 10,000 list calls) and is tied to
+# the key rather than your IP address, which matters on shared hosts like CI
+# runners. Get one in ~30 seconds at https://openalex.org/settings/api
+_api_key = ""
+
+
+def configure(api_key=""):
+    """Set the API key sent with every request."""
+    global _api_key
+    _api_key = (api_key or "").strip()
+
+
+def has_api_key():
+    return bool(_api_key)
+
+
+def _safe(url):
+    """Redact the key so it never reaches a log, an error, or the built page."""
+    return re.sub(r"(api_key=)[^&]*", r"\1<redacted>", url)
+
 
 # Fields we actually render. Requesting only these keeps responses ~10x smaller.
 WORK_FIELDS = [
@@ -54,11 +78,23 @@ class RateLimitError(OpenAlexError):
     def __init__(self, retry_after, detail=""):
         self.retry_after = retry_after
         minutes = max(1, int(round(retry_after / 60.0)))
-        super().__init__(
+        message = (
             "OpenAlex daily request budget is exhausted. It resets at midnight UTC, "
-            "in about {} minute{}.{}".format(minutes, "" if minutes == 1 else "s",
-                                             " " + detail if detail else "")
+            "in about {} minute{}.".format(minutes, "" if minutes == 1 else "s")
         )
+        if not has_api_key():
+            # Without a key the budget is tied to the IP address, so on a shared
+            # host (a CI runner, a campus NAT) somebody else may have spent it.
+            message += (
+                " No API key is set. Keyless access is only meant for demos and is "
+                "shared with everyone on your IP address. A free key gives $1/day "
+                "of its own budget (~10,000 calls): sign up at openalex.org and "
+                "copy the key from openalex.org/settings/api, then set "
+                "OPENALEX_API_KEY."
+            )
+        if detail:
+            message += " " + detail
+        super().__init__(message)
 
 
 def _record_budget(headers):
@@ -96,6 +132,8 @@ def _get(path, params, mailto, max_retries=4):
     params = dict(params)
     if mailto:
         params["mailto"] = mailto
+    if _api_key:
+        params["api_key"] = _api_key
     url = "{}/{}?{}".format(API_ROOT, path.lstrip("/"), urllib.parse.urlencode(params))
 
     delay = 2.0
@@ -120,14 +158,14 @@ def _get(path, params, mailto, max_retries=4):
                 delay *= 2
                 continue
             if exc.code not in (500, 502, 503, 504) or attempt == max_retries:
-                raise OpenAlexError("HTTP {} for {}".format(exc.code, url)) from exc
+                raise OpenAlexError("HTTP {} for {}".format(exc.code, _safe(url))) from exc
         except (urllib.error.URLError, TimeoutError) as exc:
             if attempt == max_retries:
-                raise OpenAlexError("network error for {}: {}".format(url, exc)) from exc
+                raise OpenAlexError("network error for {}: {}".format(_safe(url), exc)) from exc
         time.sleep(delay)
         delay *= 2
 
-    raise OpenAlexError("exhausted retries for {}".format(url))
+    raise OpenAlexError("exhausted retries for {}".format(_safe(url)))
 
 
 def short_id(openalex_id):

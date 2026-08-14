@@ -318,6 +318,13 @@ def main(argv=None):
         help="list preprint and published versions of a paper separately",
     )
     parser.add_argument(
+        "--api-key",
+        default=os.environ.get("OPENALEX_API_KEY", ""),
+        help="OpenAlex API key (free at openalex.org/settings/api). Its daily "
+             "budget follows the key, not your IP, which is what makes this work "
+             "on shared hosts like CI runners. Defaults to $OPENALEX_API_KEY.",
+    )
+    parser.add_argument(
         "--mailto",
         default=os.environ.get("OPENALEX_MAILTO", ""),
         help="your email; puts you in OpenAlex's faster 'polite pool'",
@@ -332,6 +339,8 @@ def main(argv=None):
         since = args.since
     else:
         since = (dt.date.today() - dt.timedelta(days=730)).isoformat()
+
+    openalex.configure(args.api_key)
 
     try:
         people = load_roster(args.roster) if args.roster else load_roster()

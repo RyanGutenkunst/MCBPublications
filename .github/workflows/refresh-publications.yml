@@ -28,14 +28,19 @@ jobs:
       name: github-pages
       url: ${{ steps.deploy.outputs.page_url }}
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v7
 
-      - uses: actions/setup-python@v5
+      - uses: actions/setup-python@v7
         with:
           python-version: "3.12"
 
       - name: Fetch publications and rebuild the page
         env:
+          # A free key ($1/day, ~10,000 calls) is required here in practice:
+          # without one the budget is tied to the runner's IP address, which is
+          # shared with every other GitHub-hosted job and is routinely already
+          # spent. Get one at https://openalex.org/settings/api
+          OPENALEX_API_KEY: ${{ secrets.OPENALEX_API_KEY }}
           OPENALEX_MAILTO: ${{ secrets.OPENALEX_MAILTO }}
         # Exits non-zero if OpenAlex is rate limited. That fails the job before
         # the deploy step, so the currently published page stays live.
@@ -57,12 +62,12 @@ jobs:
             git push
           fi
 
-      - uses: actions/configure-pages@v5
+      - uses: actions/configure-pages@v6
 
-      - uses: actions/upload-pages-artifact@v4
+      - uses: actions/upload-pages-artifact@v5
         with:
           path: ./site
 
       - name: Deploy to GitHub Pages
         id: deploy
-        uses: actions/deploy-pages@v4
+        uses: actions/deploy-pages@v5

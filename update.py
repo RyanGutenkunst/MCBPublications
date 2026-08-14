@@ -27,6 +27,8 @@ def main(argv=None):
     parser.add_argument("--keep-abstracts", action="store_true", help="include conference/meeting abstracts")
     parser.add_argument("--no-collapse", action="store_true", help="list preprint and published versions separately")
     parser.add_argument("--title", default="MCB Recent Publications", help="page heading")
+    parser.add_argument("--api-key", default=os.environ.get("OPENALEX_API_KEY", ""),
+                        help="OpenAlex API key; defaults to $OPENALEX_API_KEY")
     parser.add_argument("--mailto", default=os.environ.get("OPENALEX_MAILTO", ""), help="your email")
     parser.add_argument("--serve", action="store_true", help="serve the site locally when done")
     parser.add_argument("--port", type=int, default=8000, help="port for --serve")
@@ -43,6 +45,8 @@ def main(argv=None):
         fetch_argv.append("--keep-abstracts")
     if args.no_collapse:
         fetch_argv.append("--no-collapse")
+    if args.api_key:
+        fetch_argv += ["--api-key", args.api_key]
     if args.mailto:
         fetch_argv += ["--mailto", args.mailto]
 
