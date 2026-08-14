@@ -1,0 +1,18 @@
+# Build output. GitHub Pages serves this as a workflow artifact, so it never
+# needs committing; run `python3 build_site.py` to regenerate it locally.
+site/
+
+# Python bytecode
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
+
+# Local editor/assistant settings — machine-specific, not project config.
+.claude/
+
+# Note: data/publications.json is intentionally NOT ignored. Committing it
+# gives a history of what changed between meetings, and the commit counts as
+# repository activity, which keeps GitHub from auto-disabling the scheduled
+# workflow after 60 quiet days.

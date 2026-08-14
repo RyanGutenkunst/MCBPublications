@@ -1,0 +1,68 @@
+name: Refresh publications
+
+# Fetches from OpenAlex, rebuilds the page, and publishes it to GitHub Pages.
+# No external host is involved: Pages serves the built HTML directly.
+
+on:
+  schedule:
+    # 11:17 UTC = 4:17 AM Arizona (UTC-7 year round, no DST).
+    # Deliberately off the top of the hour: GitHub delays scheduled runs during
+    # the congestion at :00. For weekly instead, use "17 11 * * 1" (Mondays).
+    - cron: "17 11 * * *"
+  workflow_dispatch:        # "Run workflow" button, for refreshing before a meeting
+
+permissions:
+  contents: write           # commit the refreshed data file
+  pages: write              # publish to Pages
+  id-token: write           # required by deploy-pages
+
+# Never let two publishes overlap, but don't cancel one already in flight.
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Fetch publications and rebuild the page
+        env:
+          OPENALEX_MAILTO: ${{ secrets.OPENALEX_MAILTO }}
+        # Exits non-zero if OpenAlex is rate limited. That fails the job before
+        # the deploy step, so the currently published page stays live.
+        run: python3 update.py --title "MCB Recent Publications"
+
+      - name: Commit the refreshed data
+        # The HTML is deployed as an artifact and does not need committing, but
+        # the JSON is worth keeping: it gives a history of what changed between
+        # meetings, and the commit counts as repository activity, which keeps
+        # GitHub from auto-disabling this schedule after 60 quiet days.
+        run: |
+          git config user.name "publications-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/publications.json
+          if git diff --staged --quiet; then
+            echo "No change in publications since the last run."
+          else
+            git commit -m "Refresh publications ($(date -u +%Y-%m-%d))"
+            git push
+          fi
+
+      - uses: actions/configure-pages@v5
+
+      - uses: actions/upload-pages-artifact@v4
+        with:
+          path: ./site
+
+      - name: Deploy to GitHub Pages
+        id: deploy
+        uses: actions/deploy-pages@v4

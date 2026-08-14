@@ -1,0 +1,34 @@
+name,openalex_ids
+# Add one row per faculty member. Lines starting with # are ignored.
+# If OpenAlex has split someone across several author records, list every ID
+# separated by semicolons (as above) and they'll be merged.
+# Look up IDs by searching a name at https://openalex.org
+Ross Buchan,A5021452315
+Gail Burd,A5010637474
+Andrew Capaldi,A5082372066;A5136575930
+Stephanie Capaldi,A5109955720
+Pascale Charest,A5026878426
+Carol Dieckmann,A5008837415
+Solange Duhamel,A5059742751
+Lisa Elfring,A5078462453
+Corin Gray,A5109636506
+Ryan Gutenkunst,A5056381387;A5138474539
+Susan Hester,A5109261066
+Nancy Horton,A5054751436
+Nicole Leitner,A5011035343
+Keith Maggert,A5083613320
+Claire McWhite,A5041221517;A5134475570
+Lisa Nagy,A5091549168
+Megha Padi,A5057903275;A5110947107
+Andrew Paek,A5054257493
+Chad Park,A5038845656
+Angel Pimentel,A5041799794;A5046866429
+Lisa Rezende,A5113678115
+Ingmar Riedel-Kruse,A5019814011
+Joyce Schroeder,A5020891622
+Daryn Stover,A5050073123
+Abhinav Sur,A5037763610
+George Sutphin,A5064932278
+Frans Tax,A5009035523
+Ted Weinert,A5000170362
+Guang Yao,A5111756850;A5103474506
