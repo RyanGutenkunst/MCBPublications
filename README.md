@@ -50,8 +50,11 @@ the person simply published nothing in the window.
 python3 update.py --mailto you@example.edu
 ```
 
-That fetches everything published in the last 2 years and writes
-`site/index.html`. Useful options:
+That fetches everything published in the last year and writes
+`site/index.html`. To change that window permanently, edit
+`DEFAULT_WINDOW_DAYS` at the top of `fetch_pubs.py` — it is a rolling window
+measured from the day of the run, so the scheduled job keeps moving forward.
+Per-run options:
 
 | Option | Effect |
 |---|---|

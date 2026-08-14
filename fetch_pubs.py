@@ -32,6 +32,11 @@ NOISE_TYPES = {
     "supplementary-materials",
 }
 
+# How far back to look when no --since is given. This is a rolling window
+# measured from the day of the run, so a scheduled job keeps moving forward
+# instead of freezing on a fixed date. 365 = one year, 730 = two.
+DEFAULT_WINDOW_DAYS = 365
+
 # Conference/meeting abstracts are real records but usually clutter a
 # department publication list, so they're dropped unless --keep-abstracts.
 ABSTRACT_TYPES = {"conference-abstract", "abstract"}
@@ -307,7 +312,7 @@ def main(argv=None):
         "--since",
         default=None,
         help="only fetch works published on or after this date (YYYY-MM-DD). "
-        "Default: 2 years ago. Use --all for no limit.",
+        "Default: {} days ago. Use --all for no limit.".format(DEFAULT_WINDOW_DAYS),
     )
     parser.add_argument("--all", action="store_true", help="fetch every publication, no date limit")
     parser.add_argument("--no-preprints", action="store_true", help="exclude preprints (bioRxiv etc.)")
@@ -338,7 +343,7 @@ def main(argv=None):
     elif args.since:
         since = args.since
     else:
-        since = (dt.date.today() - dt.timedelta(days=730)).isoformat()
+        since = (dt.date.today() - dt.timedelta(days=DEFAULT_WINDOW_DAYS)).isoformat()
 
     openalex.configure(args.api_key)
 

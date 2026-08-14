@@ -1,6 +1,6 @@
 {
- "generated": "2026-08-14T22:41:44",
- "since": "2024-08-14",
+ "generated": "2026-08-14T15:52:57",
+ "since": "2025-08-14",
  "faculty": [
   "Ross Buchan",
   "Gail Burd",
@@ -123,38 +123,38 @@
    "A5000170362"
   ],
   "Guang Yao": [
-   "A5111756850",
-   "A5103474506"
+   "A5103474506",
+   "A5041753886"
   ]
  },
  "counts": {
-  "Ross Buchan": 2,
+  "Ross Buchan": 1,
   "Gail Burd": 0,
-  "Andrew Capaldi": 2,
+  "Andrew Capaldi": 1,
   "Stephanie Capaldi": 0,
   "Pascale Charest": 0,
   "Carol Dieckmann": 1,
-  "Solange Duhamel": 13,
-  "Lisa Elfring": 1,
+  "Solange Duhamel": 10,
+  "Lisa Elfring": 0,
   "Corin Gray": 0,
-  "Ryan Gutenkunst": 15,
-  "Susan Hester": 2,
-  "Nancy Horton": 2,
+  "Ryan Gutenkunst": 9,
+  "Susan Hester": 1,
+  "Nancy Horton": 1,
   "Nicole Leitner": 0,
-  "Keith Maggert": 3,
-  "Claire McWhite": 7,
-  "Lisa Nagy": 2,
-  "Megha Padi": 10,
-  "Andrew Paek": 7,
+  "Keith Maggert": 2,
+  "Claire McWhite": 5,
+  "Lisa Nagy": 0,
+  "Megha Padi": 5,
+  "Andrew Paek": 2,
   "Chad Park": 0,
   "Angel Pimentel": 0,
   "Lisa Rezende": 2,
-  "Ingmar Riedel-Kruse": 9,
-  "Joyce Schroeder": 3,
+  "Ingmar Riedel-Kruse": 4,
+  "Joyce Schroeder": 1,
   "Daryn Stover": 0,
-  "Abhinav Sur": 8,
-  "George Sutphin": 6,
-  "Frans Tax": 2,
+  "Abhinav Sur": 6,
+  "George Sutphin": 3,
+  "Frans Tax": 1,
   "Ted Weinert": 0,
   "Guang Yao": 6
  },
@@ -518,6 +518,57 @@
    "has_preprint": false
   },
   {
+   "id": "W7167095407",
+   "title": "Reversible reorientation of the helimagnetic q-director in a cubic chiral magnet by electric-current polarity",
+   "date": "2026-07-01",
+   "year": 2026,
+   "type": "article",
+   "journal": "Communications Materials",
+   "source_type": "journal",
+   "volume": "7",
+   "issue": "1",
+   "pages": "",
+   "doi": "https://doi.org/10.1038/s43246-026-01211-z",
+   "url": "https://doi.org/10.1038/s43246-026-01211-z",
+   "is_oa": true,
+   "oa_url": "https://www.nature.com/articles/s43246-026-01211-z.pdf",
+   "citations": 0,
+   "authors": [
+    {
+     "id": "A5102542918",
+     "name": "Soju Furuta"
+    },
+    {
+     "id": "A5041753886",
+     "name": "Guang Yao"
+    },
+    {
+     "id": "A5075427947",
+     "name": "Kosuke Karube"
+    },
+    {
+     "id": "A5019525180",
+     "name": "Y. Taguchi"
+    },
+    {
+     "id": "A5139915296",
+     "name": "Wataru Koshibae"
+    },
+    {
+     "id": "A5022210183",
+     "name": "Xiuzhen Yu"
+    },
+    {
+     "id": "A5026360115",
+     "name": "Fumitaka Kagawa"
+    }
+   ],
+   "faculty": [
+    "Guang Yao"
+   ],
+   "has_preprint": false
+  },
+  {
    "id": "W7166464848",
    "title": "PARROT: Phase-Altering Regulatory Rewiring Over Time",
    "date": "2026-06-28",
@@ -777,6 +828,73 @@
    "has_preprint": false
   },
   {
+   "id": "W7160378674",
+   "title": "Viral and host network analysis of the human cytomegalovirus transcriptome in latency.",
+   "date": "2026-05-06",
+   "year": 2026,
+   "type": "article",
+   "journal": "UNC Libraries",
+   "source_type": "repository",
+   "volume": "",
+   "issue": "",
+   "pages": "",
+   "doi": "https://doi.org/10.17615/hjqx-zv56",
+   "url": "https://doi.org/10.17615/hjqx-zv56",
+   "is_oa": true,
+   "oa_url": "https://doi.org/10.17615/hjqx-zv56",
+   "citations": 0,
+   "authors": [
+    {
+     "id": "A5135447247",
+     "name": "Nathaniel J Moorman"
+    },
+    {
+     "id": "A5028947843",
+     "name": "David R. McKinzey"
+    },
+    {
+     "id": "A5057903275",
+     "name": "Megha Padi"
+    },
+    {
+     "id": "A5135431007",
+     "name": "Diogo De Oliveira Pessoa"
+    },
+    {
+     "id": "A5125390998",
+     "name": "Michael Daily"
+    },
+    {
+     "id": "A5135520674",
+     "name": "Kristen Zarrella"
+    },
+    {
+     "id": "A5045201171",
+     "name": "Christopher J. Parkins"
+    },
+    {
+     "id": "A5006646838",
+     "name": "Jeremy P. Kamil"
+    },
+    {
+     "id": "A5135441285",
+     "name": "Donna Collins-McMillen"
+    },
+    {
+     "id": "A5060181765",
+     "name": "Patrizia Caposio"
+    },
+    {
+     "id": "A5065542116",
+     "name": "Felicia Goodrum"
+    }
+   ],
+   "faculty": [
+    "Megha Padi"
+   ],
+   "has_preprint": false
+  },
+  {
    "id": "W7155559116",
    "title": "Cross-Attention Over RNA And Protein Sequences Enables Generalizable Interaction Prediction",
    "date": "2026-04-23",
@@ -846,7 +964,7 @@
    "url": "https://doi.org/10.1128/aem.02391-25",
    "is_oa": true,
    "oa_url": "https://doi.org/10.1128/aem.02391-25",
-   "citations": 1,
+   "citations": 0,
    "authors": [
     {
      "id": "A5082978585",
@@ -876,7 +994,7 @@
    "faculty": [
     "Solange Duhamel"
    ],
-   "has_preprint": true
+   "has_preprint": false
   },
   {
    "id": "W7153259173",
@@ -1419,6 +1537,49 @@
    "has_preprint": false
   },
   {
+   "id": "W7143346719",
+   "title": "Global, Regional, and National Burden and Trends of Hypertensive Heart Disease Among Women of Childbearing Age from 1992 to 2021",
+   "date": "2026-03-01",
+   "year": 2026,
+   "type": "article",
+   "journal": "International Journal of Women s Health",
+   "source_type": "journal",
+   "volume": "Volume 18",
+   "issue": "",
+   "pages": "1-14",
+   "doi": "https://doi.org/10.2147/ijwh.s588257",
+   "url": "https://doi.org/10.2147/ijwh.s588257",
+   "is_oa": true,
+   "oa_url": "https://www.dovepress.com/article/download/113621",
+   "citations": 0,
+   "authors": [
+    {
+     "id": "A5037450963",
+     "name": "Jinglei Huang"
+    },
+    {
+     "id": "A5122316812",
+     "name": "Wenkai Jiang"
+    },
+    {
+     "id": "A5124209097",
+     "name": "Jiawei Zhai"
+    },
+    {
+     "id": "A5024925624",
+     "name": "Kangting Zhang"
+    },
+    {
+     "id": "A5041753886",
+     "name": "Guang Yao"
+    }
+   ],
+   "faculty": [
+    "Guang Yao"
+   ],
+   "has_preprint": false
+  },
+  {
    "id": "W7131867172",
    "title": "Helping people navigate and make sense of cancer information: challenges and perspectives",
    "date": "2026-02-27",
@@ -1669,7 +1830,7 @@
    "url": "https://doi.org/10.1038/s42003-025-09487-6",
    "is_oa": true,
    "oa_url": "https://doi.org/10.1038/s42003-025-09487-6",
-   "citations": 3,
+   "citations": 1,
    "authors": [
     {
      "id": "A5124283249",
@@ -1715,7 +1876,7 @@
    "faculty": [
     "Guang Yao"
    ],
-   "has_preprint": true
+   "has_preprint": false
   },
   {
    "id": "W7119156777",
@@ -1732,7 +1893,7 @@
    "url": "https://doi.org/10.1038/s41416-025-03323-8",
    "is_oa": true,
    "oa_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12960840/",
-   "citations": 1,
+   "citations": 0,
    "authors": [
     {
      "id": "A5025975072",
@@ -1782,7 +1943,7 @@
    "faculty": [
     "Megha Padi"
    ],
-   "has_preprint": true
+   "has_preprint": false
   },
   {
    "id": "W7164486307",
@@ -2025,6 +2186,61 @@
    "has_preprint": false
   },
   {
+   "id": "W4416854499",
+   "title": "Transluminal attenuation gradient derived from coronary CT angiography predicts anastomosis occlusion in coronary artery bypass grafts: a retrospective cohort study",
+   "date": "2025-12-01",
+   "year": 2025,
+   "type": "article",
+   "journal": "BMC Medical Imaging",
+   "source_type": "journal",
+   "volume": "26",
+   "issue": "1",
+   "pages": "3-3",
+   "doi": "https://doi.org/10.1186/s12880-025-02063-8",
+   "url": "https://doi.org/10.1186/s12880-025-02063-8",
+   "is_oa": true,
+   "oa_url": "https://doi.org/10.1186/s12880-025-02063-8",
+   "citations": 0,
+   "authors": [
+    {
+     "id": "A5111063171",
+     "name": "Junli Ren"
+    },
+    {
+     "id": "A5029730673",
+     "name": "Jun Li"
+    },
+    {
+     "id": "A5041753886",
+     "name": "Guang Yao"
+    },
+    {
+     "id": "A5100450114",
+     "name": "Xiaolei Zhang"
+    },
+    {
+     "id": "A5074069807",
+     "name": "Yu Hu"
+    },
+    {
+     "id": "A5100320738",
+     "name": "Jiawei Liu"
+    },
+    {
+     "id": "A5102004467",
+     "name": "Jianbo Gao"
+    },
+    {
+     "id": "A5038169864",
+     "name": "Yonggao Zhang"
+    }
+   ],
+   "faculty": [
+    "Guang Yao"
+   ],
+   "has_preprint": false
+  },
+  {
    "id": "W7118066534",
    "title": "Targeting kynurenine metabolism in aging and age-associated disease",
    "date": "2025-12-01",
@@ -2196,73 +2412,6 @@
    ],
    "faculty": [
     "Claire McWhite"
-   ],
-   "has_preprint": false
-  },
-  {
-   "id": "W4416544982",
-   "title": "The modifying role of selenium in the association between heavy metals exposure and mortality risk in adults: A cohort study based on NHANES",
-   "date": "2025-11-01",
-   "year": 2025,
-   "type": "article",
-   "journal": "Ecotoxicology and Environmental Safety",
-   "source_type": "journal",
-   "volume": "307",
-   "issue": "",
-   "pages": "119461-119461",
-   "doi": "https://doi.org/10.1016/j.ecoenv.2025.119461",
-   "url": "https://doi.org/10.1016/j.ecoenv.2025.119461",
-   "is_oa": true,
-   "oa_url": "https://doi.org/10.1016/j.ecoenv.2025.119461",
-   "citations": 0,
-   "authors": [
-    {
-     "id": "",
-     "name": "Zicong Shao"
-    },
-    {
-     "id": "A5111756850",
-     "name": "Guang Chun Yao"
-    },
-    {
-     "id": "A5100318608",
-     "name": "Qian Liu"
-    },
-    {
-     "id": "A5013434471",
-     "name": "Keni Zhang"
-    },
-    {
-     "id": "A5100722761",
-     "name": "Kaiwen Wang"
-    },
-    {
-     "id": "A5100370285",
-     "name": "Xinyi Li"
-    },
-    {
-     "id": "A5021205962",
-     "name": "Weize Kong"
-    },
-    {
-     "id": "A5100409286",
-     "name": "Hui Xu"
-    },
-    {
-     "id": "A5054595864",
-     "name": "Yanan Wu"
-    },
-    {
-     "id": "A5030739072",
-     "name": "Yongbin Lu"
-    },
-    {
-     "id": "A5068696071",
-     "name": "Li Ma"
-    }
-   ],
-   "faculty": [
-    "Guang Yao"
    ],
    "has_preprint": false
   },
@@ -2523,6 +2672,53 @@
    ],
    "faculty": [
     "Ross Buchan"
+   ],
+   "has_preprint": false
+  },
+  {
+   "id": "W4415297402",
+   "title": "A Stretchable and Transparent Electrode for Visual Electrophysiological Acquisition",
+   "date": "2025-10-17",
+   "year": 2025,
+   "type": "article",
+   "journal": "Biosensors",
+   "source_type": "journal",
+   "volume": "15",
+   "issue": "10",
+   "pages": "701-701",
+   "doi": "https://doi.org/10.3390/bios15100701",
+   "url": "https://doi.org/10.3390/bios15100701",
+   "is_oa": true,
+   "oa_url": "https://www.mdpi.com/2079-6374/15/10/701/pdf?version=1760693116",
+   "citations": 1,
+   "authors": [
+    {
+     "id": "A5068478411",
+     "name": "Qiwei Dong"
+    },
+    {
+     "id": "A5055581241",
+     "name": "Maowen Xie"
+    },
+    {
+     "id": "A5048237467",
+     "name": "Mengyao Yuan"
+    },
+    {
+     "id": "A5002529947",
+     "name": "Wenhao Lou"
+    },
+    {
+     "id": "A5041753886",
+     "name": "Guang Yao"
+    },
+    {
+     "id": "A5047564266",
+     "name": "Yuan Lin"
+    }
+   ],
+   "faculty": [
+    "Guang Yao"
    ],
    "has_preprint": false
   },
@@ -2822,7 +3018,7 @@
    "url": "https://doi.org/10.1093/molbev/msaf236",
    "is_oa": true,
    "oa_url": "https://academic.oup.com/mbe/advance-article-pdf/doi/10.1093/molbev/msaf236/64378016/msaf236.pdf",
-   "citations": 8,
+   "citations": 7,
    "authors": [
     {
      "id": "A5047340843",
@@ -2952,7 +3148,7 @@
    "faculty": [
     "Ryan Gutenkunst"
    ],
-   "has_preprint": true
+   "has_preprint": false
   },
   {
    "id": "W4413902577",
@@ -3144,1918 +3340,6 @@
    ],
    "faculty": [
     "Abhinav Sur"
-   ],
-   "has_preprint": true
-  },
-  {
-   "id": "W4413167135",
-   "title": "GHIST 2024: The 1st Genomic History Inference Strategies Tournament",
-   "date": "2025-08-11",
-   "year": 2025,
-   "type": "preprint",
-   "journal": "bioRxiv (Cold Spring Harbor Laboratory)",
-   "source_type": "repository",
-   "volume": "",
-   "issue": "",
-   "pages": "",
-   "doi": "https://doi.org/10.1101/2025.08.05.668560",
-   "url": "https://doi.org/10.1101/2025.08.05.668560",
-   "is_oa": true,
-   "oa_url": "https://doi.org/10.1101/2025.08.05.668560",
-   "citations": 0,
-   "authors": [
-    {
-     "id": "A5077990872",
-     "name": "Travis J. Struck"
-    },
-    {
-     "id": "A5075407148",
-     "name": "Andrew H. Vaughn"
-    },
-    {
-     "id": "A5044597921",
-     "name": "Austin Daigle"
-    },
-    {
-     "id": "A5059483109",
-     "name": "Dylan D. Ray"
-    },
-    {
-     "id": "A5074914078",
-     "name": "Ekaterina Noskova"
-    },
-    {
-     "id": "A5086473982",
-     "name": "Jaison Jeevan Sequeira"
-    },
-    {
-     "id": "A5119288263",
-     "name": "Svetlana Antonets"
-    },
-    {
-     "id": "A5068831906",
-     "name": "E. S. Alekseevskaya"
-    },
-    {
-     "id": "A5017934786",
-     "name": "Elizaveta Grigoreva"
-    },
-    {
-     "id": "A5062770417",
-     "name": "Evgenii Raines"
-    },
-    {
-     "id": "A5099018808",
-     "name": "Eilish S. McMaster"
-    },
-    {
-     "id": "A5023778523",
-     "name": "Toby G. L. Kovacs"
-    },
-    {
-     "id": "A5000274356",
-     "name": "Aaron P. Ragsdale"
-    },
-    {
-     "id": "A5087718113",
-     "name": "Andr\u00e9s Moreno\u2010Estrada"
-    },
-    {
-     "id": "A5040130605",
-     "name": "Katie E. Lotterhos"
-    },
-    {
-     "id": "A5061240989",
-     "name": "Adam Siepel"
-    },
-    {
-     "id": "A5056381387",
-     "name": "Ryan N. Gutenkunst"
-    }
-   ],
-   "faculty": [
-    "Ryan Gutenkunst"
-   ],
-   "has_preprint": false
-  },
-  {
-   "id": "W4412084247",
-   "title": "The molecular logic of Gtr1/2- and Pib2-dependent TORC1 regulation in budding yeast",
-   "date": "2025-07-07",
-   "year": 2025,
-   "type": "article",
-   "journal": "eLife",
-   "source_type": "journal",
-   "volume": "13",
-   "issue": "",
-   "pages": "",
-   "doi": "https://doi.org/10.7554/elife.94628.2",
-   "url": "https://doi.org/10.7554/elife.94628.2",
-   "is_oa": true,
-   "oa_url": "https://doi.org/10.7554/elife.94628.2",
-   "citations": 2,
-   "authors": [
-    {
-     "id": "A5078321793",
-     "name": "Jacob H. Cecil"
-    },
-    {
-     "id": "A5077958899",
-     "name": "Cristina M. Padilla"
-    },
-    {
-     "id": "A5087969776",
-     "name": "Austin A. Lipinski"
-    },
-    {
-     "id": "A5014904840",
-     "name": "Paul R. Langlais"
-    },
-    {
-     "id": "A5086544319",
-     "name": "Xiangxia Luo"
-    },
-    {
-     "id": "A5082372066",
-     "name": "Andrew P. Capaldi"
-    }
-   ],
-   "faculty": [
-    "Andrew Capaldi"
-   ],
-   "has_preprint": false
-  },
-  {
-   "id": "W4411969573",
-   "title": "Disruption of spindle orientation and protein localization during asymmetric cleavage by pharmacological inhibition of serotonin signaling",
-   "date": "2025-07-02",
-   "year": 2025,
-   "type": "article",
-   "journal": "Developmental Biology",
-   "source_type": "journal",
-   "volume": "526",
-   "issue": "",
-   "pages": "26-37",
-   "doi": "https://doi.org/10.1016/j.ydbio.2025.06.025",
-   "url": "https://doi.org/10.1016/j.ydbio.2025.06.025",
-   "is_oa": true,
-   "oa_url": "https://doi.org/10.1016/j.ydbio.2025.06.025",
-   "citations": 0,
-   "authors": [
-    {
-     "id": "A5037139698",
-     "name": "Ayaki Nakamoto"
-    },
-    {
-     "id": "A5091549168",
-     "name": "Lisa M. Nagy"
-    }
-   ],
-   "faculty": [
-    "Lisa Nagy"
-   ],
-   "has_preprint": true
-  },
-  {
-   "id": "W4412437711",
-   "title": "CEPR1 regulates Arabidopsis thaliana root architecture by modulating auxin production via NIT1",
-   "date": "2025-07-01",
-   "year": 2025,
-   "type": "article",
-   "journal": "The Plant Journal",
-   "source_type": "journal",
-   "volume": "123",
-   "issue": "2",
-   "pages": "e70331-e70331",
-   "doi": "https://doi.org/10.1111/tpj.70331",
-   "url": "https://doi.org/10.1111/tpj.70331",
-   "is_oa": false,
-   "oa_url": "",
-   "citations": 2,
-   "authors": [
-    {
-     "id": "A5118992672",
-     "name": "Austin A. Frisbey"
-    },
-    {
-     "id": "A5090701111",
-     "name": "Tara E. Nash"
-    },
-    {
-     "id": "A5049381657",
-     "name": "Michael B. Goshe"
-    },
-    {
-     "id": "A5061777509",
-     "name": "Steven D. Clouse"
-    },
-    {
-     "id": "A5076126339",
-     "name": "Christopher J. Frost"
-    },
-    {
-     "id": "A5009035523",
-     "name": "Frans E. Tax"
-    }
-   ],
-   "faculty": [
-    "Frans Tax"
-   ],
-   "has_preprint": false
-  },
-  {
-   "id": "W4413374754",
-   "title": "The synthesis of sphingomyelin-derived Paclitaxel protocol v1",
-   "date": "2025-06-11",
-   "year": 2025,
-   "type": "preprint",
-   "journal": "",
-   "source_type": "",
-   "volume": "",
-   "issue": "",
-   "pages": "",
-   "doi": "https://doi.org/10.17504/protocols.io.6qpvrqjnblmk/v1",
-   "url": "https://doi.org/10.17504/protocols.io.6qpvrqjnblmk/v1",
-   "is_oa": true,
-   "oa_url": "https://www.protocols.io/view/the-synthesis-of-sphingomyelin-derived-paclitaxel-g2z6byf9f.pdf",
-   "citations": 1,
-   "authors": [
-    {
-     "id": "A5012816071",
-     "name": "Zhiren Wang"
-    },
-    {
-     "id": "A5085333141",
-     "name": "Wenpan Li"
-    },
-    {
-     "id": "A5042932504",
-     "name": "Yanhao Jiang"
-    },
-    {
-     "id": "A5101510386",
-     "name": "Teng Ma"
-    },
-    {
-     "id": "A5007220341",
-     "name": "M J Li"
-    },
-    {
-     "id": "A5063912185",
-     "name": "Shuang Wu"
-    },
-    {
-     "id": "A5108876956",
-     "name": "Tuyen Ba Tran"
-    },
-    {
-     "id": "A5064956926",
-     "name": "Leyla Estrella Cordova"
-    },
-    {
-     "id": "",
-     "name": "Ethan Lin"
-    },
-    {
-     "id": "A5025510544",
-     "name": "Aaron J. Scott"
-    },
-    {
-     "id": "A5030086536",
-     "name": "Jennifer Erdrich"
-    },
-    {
-     "id": "A5020891622",
-     "name": "Joyce A. Schroeder"
-    },
-    {
-     "id": "A5082690204",
-     "name": "Pavani Chalasani"
-    },
-    {
-     "id": "A5090431009",
-     "name": "Jianqin Lu"
-    }
-   ],
-   "faculty": [
-    "Joyce Schroeder"
-   ],
-   "has_preprint": false
-  },
-  {
-   "id": "W4411075175",
-   "title": "Tuning viscoelasticity and fine structure of living materials via synthetic adhesion logic and rheological perturbations",
-   "date": "2025-06-04",
-   "year": 2025,
-   "type": "preprint",
-   "journal": "bioRxiv (Cold Spring Harbor Laboratory)",
-   "source_type": "repository",
-   "volume": "",
-   "issue": "",
-   "pages": "",
-   "doi": "https://doi.org/10.1101/2025.06.04.657808",
-   "url": "https://doi.org/10.1101/2025.06.04.657808",
-   "is_oa": true,
-   "oa_url": "https://www.biorxiv.org/content/biorxiv/early/2025/06/04/2025.06.04.657808.full.pdf",
-   "citations": 0,
-   "authors": [
-    {
-     "id": "A5078164642",
-     "name": "Stefana A. Costan"
-    },
-    {
-     "id": "A5117848070",
-     "name": "Kira Hallerbach"
-    },
-    {
-     "id": "A5101761653",
-     "name": "S. Kim"
-    },
-    {
-     "id": "A5073005916",
-     "name": "Chris Camp"
-    },
-    {
-     "id": "A5100377713",
-     "name": "Minkyu Kim"
-    },
-    {
-     "id": "A5019814011",
-     "name": "Ingmar H. Riedel\u2010Kruse"
-    }
-   ],
-   "faculty": [
-    "Ingmar Riedel-Kruse"
-   ],
-   "has_preprint": true
-  },
-  {
-   "id": "W4412555180",
-   "title": "The Drosophila FM7-A Strain Contains a Fixed Translocation Involving the X and 4 Chromosomes",
-   "date": "2025-05-31",
-   "year": 2025,
-   "type": "article",
-   "journal": "PubMed",
-   "source_type": "repository",
-   "volume": "2025",
-   "issue": "",
-   "pages": "",
-   "doi": "https://doi.org/10.17912/micropub.biology.001664",
-   "url": "https://doi.org/10.17912/micropub.biology.001664",
-   "is_oa": true,
-   "oa_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/12272177",
-   "citations": 0,
-   "authors": [
-    {
-     "id": "A5083613320",
-     "name": "Keith A. Maggert"
-    },
-    {
-     "id": "A5084672880",
-     "name": "Selina Kindelay"
-    }
-   ],
-   "faculty": [
-    "Keith Maggert"
-   ],
-   "has_preprint": false
-  },
-  {
-   "id": "W4410817154",
-   "title": "Viral and host network analysis of the human cytomegalovirus transcriptome in latency",
-   "date": "2025-05-28",
-   "year": 2025,
-   "type": "article",
-   "journal": "Proceedings of the National Academy of Sciences",
-   "source_type": "journal",
-   "volume": "122",
-   "issue": "22",
-   "pages": "e2416114122-e2416114122",
-   "doi": "https://doi.org/10.1073/pnas.2416114122",
-   "url": "https://doi.org/10.1073/pnas.2416114122",
-   "is_oa": true,
-   "oa_url": "https://doi.org/10.1073/pnas.2416114122",
-   "citations": 10,
-   "authors": [
-    {
-     "id": "A5050587638",
-     "name": "Donna Collins-McMillen"
-    },
-    {
-     "id": "A5004434437",
-     "name": "Diogo de Oliveira Pess\u00f4a"
-    },
-    {
-     "id": "A5068837504",
-     "name": "Kristen Zarrella"
-    },
-    {
-     "id": "A5045201171",
-     "name": "Christopher J. Parkins"
-    },
-    {
-     "id": "A5073944438",
-     "name": "Michael F. Daily"
-    },
-    {
-     "id": "A5028947843",
-     "name": "David R. McKinzey"
-    },
-    {
-     "id": "A5047825308",
-     "name": "Nathaniel J. Moorman"
-    },
-    {
-     "id": "A5006646838",
-     "name": "Jeremy P. Kamil"
-    },
-    {
-     "id": "A5060181765",
-     "name": "Patrizia Caposio"
-    },
-    {
-     "id": "A5057903275",
-     "name": "Megha Padi"
-    },
-    {
-     "id": "A5065542116",
-     "name": "Felicia Goodrum"
-    }
-   ],
-   "faculty": [
-    "Megha Padi"
-   ],
-   "has_preprint": false
-  },
-  {
-   "id": "W4410807681",
-   "title": "VerteBrain reveals novel neural and non-neural protein assemblies conserved across vertebrate evolution",
-   "date": "2025-05-28",
-   "year": 2025,
-   "type": "preprint",
-   "journal": "bioRxiv (Cold Spring Harbor Laboratory)",
-   "source_type": "repository",
-   "volume": "",
-   "issue": "",
-   "pages": "",
-   "doi": "https://doi.org/10.1101/2025.05.26.656196",
-   "url": "https://doi.org/10.1101/2025.05.26.656196",
-   "is_oa": true,
-   "oa_url": "https://www.biorxiv.org/content/biorxiv/early/2025/05/28/2025.05.26.656196.full.pdf",
-   "citations": 1,
-   "authors": [
-    {
-     "id": "A5102571915",
-     "name": "Van Dang"
-    },
-    {
-     "id": "A5081538789",
-     "name": "Brittney Voigt"
-    },
-    {
-     "id": "A5088771820",
-     "name": "David T. Yang"
-    },
-    {
-     "id": "A5002031090",
-     "name": "Gabriel Hoogerbrugge"
-    },
-    {
-     "id": "A5016390830",
-     "name": "Muyoung Lee"
-    },
-    {
-     "id": "A5037690893",
-     "name": "Rachael M. Cox"
-    },
-    {
-     "id": "A5058271316",
-     "name": "Ophelia Papoulas"
-    },
-    {
-     "id": "A5041221517",
-     "name": "Claire D. McWhite"
-    },
-    {
-     "id": "",
-     "name": "Raksha Pradeep"
-    },
-    {
-     "id": "A5037584115",
-     "name": "Janelle C. Leggere"
-    },
-    {
-     "id": "A5028983911",
-     "name": "Benjamin A. Neely"
-    },
-    {
-     "id": "A5023546937",
-     "name": "Ryan S. Gray"
-    },
-    {
-     "id": "A5079751395",
-     "name": "Edward M. Marcotte"
-    }
-   ],
-   "faculty": [
-    "Claire McWhite"
-   ],
-   "has_preprint": false
-  },
-  {
-   "id": "W4410607365",
-   "title": "Cell-based high-content approach for SARS-CoV-2 neutralization identifies unique monoclonal antibodies and PI3K pathway inhibitors",
-   "date": "2025-05-22",
-   "year": 2025,
-   "type": "article",
-   "journal": "Frontiers in Cell and Developmental Biology",
-   "source_type": "journal",
-   "volume": "13",
-   "issue": "",
-   "pages": "1538934-1538934",
-   "doi": "https://doi.org/10.3389/fcell.2025.1538934",
-   "url": "https://doi.org/10.3389/fcell.2025.1538934",
-   "is_oa": true,
-   "oa_url": "https://www.frontiersin.org/journals/cell-and-developmental-biology/articles/10.3389/fcell.2025.1538934/pdf",
-   "citations": 1,
-   "authors": [
-    {
-     "id": "A5027035033",
-     "name": "Carly R. Cabel"
-    },
-    {
-     "id": "A5109797507",
-     "name": "Briana A. Guzman"
-    },
-    {
-     "id": "A5070748573",
-     "name": "Elaheh Alizadeh"
-    },
-    {
-     "id": "A5000043485",
-     "name": "Shuaizhi Li"
-    },
-    {
-     "id": "A5113321151",
-     "name": "Cameron Holberg"
-    },
-    {
-     "id": "A5058755648",
-     "name": "Chonlarat Wichaidit"
-    },
-    {
-     "id": "A5077807984",
-     "name": "Darren A. Cusanovich"
-    },
-    {
-     "id": "A5054257493",
-     "name": "Andrew L. Paek"
-    },
-    {
-     "id": "A5020757036",
-     "name": "Gregory R. J. Thatcher"
-    },
-    {
-     "id": "A5033962433",
-     "name": "Koenraad Van Doorslaer"
-    },
-    {
-     "id": "A5049116044",
-     "name": "Rachel S. Nargi"
-    },
-    {
-     "id": "A5016621847",
-     "name": "Rachel E. Sutton"
-    },
-    {
-     "id": "A5056393456",
-     "name": "Naveenchandra Suryadevara"
-    },
-    {
-     "id": "A5046971682",
-     "name": "James E. Crowe"
-    },
-    {
-     "id": "A5015712888",
-     "name": "Robert H. Carnahan"
-    },
-    {
-     "id": "A5082944335",
-     "name": "Samuel K. Campos"
-    },
-    {
-     "id": "A5041069157",
-     "name": "Curtis A. Thorne"
-    }
-   ],
-   "faculty": [
-    "Andrew Paek"
-   ],
-   "has_preprint": true
-  },
-  {
-   "id": "W4410474988",
-   "title": "Foundations and Strategic Vision of the Canadian Translational Geroscience Network",
-   "date": "2025-05-18",
-   "year": 2025,
-   "type": "article",
-   "journal": "The Journals of Gerontology Series A",
-   "source_type": "journal",
-   "volume": "80",
-   "issue": "7",
-   "pages": "",
-   "doi": "https://doi.org/10.1093/gerona/glaf111",
-   "url": "https://doi.org/10.1093/gerona/glaf111",
-   "is_oa": true,
-   "oa_url": "https://academic.oup.com/biomedgerontology/advance-article-pdf/doi/10.1093/gerona/glaf111/63220265/glaf111.pdf",
-   "citations": 0,
-   "authors": [
-    {
-     "id": "A5090596622",
-     "name": "Guy Hajj\u2010Boutros"
-    },
-    {
-     "id": "A5029428612",
-     "name": "Andr\u00e9a Faust"
-    },
-    {
-     "id": "A5057732909",
-     "name": "John Muscedere"
-    },
-    {
-     "id": "A5002636355",
-     "name": "Perry Kim"
-    },
-    {
-     "id": "A5034307714",
-     "name": "Gilles Gouspillou"
-    },
-    {
-     "id": "A5032127149",
-     "name": "Lea Harrington"
-    },
-    {
-     "id": "A5009102749",
-     "name": "James L. Kirkland"
-    },
-    {
-     "id": "A5056759771",
-     "name": "George A. Kuchel"
-    },
-    {
-     "id": "A5047648680",
-     "name": "Jeremy M. Van Raamsdonk"
-    },
-    {
-     "id": "A5018971090",
-     "name": "R. Jane Rylett"
-    },
-    {
-     "id": "A5020478244",
-     "name": "Chantal Autexier"
-    },
-    {
-     "id": "A5015196204",
-     "name": "Louis R. Lapierre"
-    },
-    {
-     "id": "A5082761941",
-     "name": "Michael S. Kobor"
-    },
-    {
-     "id": "A5089785707",
-     "name": "Mohammad Auais"
-    },
-    {
-     "id": "A5117588724",
-     "name": "Ann Beli\u00ebn"
-    },
-    {
-     "id": "A5048949272",
-     "name": "Jeroen Aerssens"
-    },
-    {
-     "id": "A5064932278",
-     "name": "George L. Sutphin"
-    },
-    {
-     "id": "A5108467147",
-     "name": "Kenneth Rockwood"
-    },
-    {
-     "id": "A5059955804",
-     "name": "\u0391\u03bb\u03b5\u03be\u03ac\u03bd\u03b4\u03c1\u03b1 \u03a0\u03b1\u03c0\u03b1\u03ca\u03c9\u03ac\u03bd\u03bd\u03bf\u03c5"
-    },
-    {
-     "id": "A5035076717",
-     "name": "Marc Sim"
-    },
-    {
-     "id": "A5019907813",
-     "name": "Jamie N. Justice"
-    },
-    {
-     "id": "A5070727871",
-     "name": "Nancy E. Mayo"
-    },
-    {
-     "id": "A5059544360",
-     "name": "Gustavo Duque"
-    }
-   ],
-   "faculty": [
-    "George Sutphin"
-   ],
-   "has_preprint": false
-  },
-  {
-   "id": "W4410304313",
-   "title": "Insights from an instructional team model focused on formative assessment with the support of learning researchers",
-   "date": "2025-05-12",
-   "year": 2025,
-   "type": "article",
-   "journal": "Journal of Microbiology and Biology Education",
-   "source_type": "journal",
-   "volume": "26",
-   "issue": "2",
-   "pages": "e0004325-e0004325",
-   "doi": "https://doi.org/10.1128/jmbe.00043-25",
-   "url": "https://doi.org/10.1128/jmbe.00043-25",
-   "is_oa": true,
-   "oa_url": "https://doi.org/10.1128/jmbe.00043-25",
-   "citations": 1,
-   "authors": [
-    {
-     "id": "A5034005866",
-     "name": "Patricia Moreira"
-    },
-    {
-     "id": "A5002233468",
-     "name": "Paul Blowers"
-    },
-    {
-     "id": "A5078462453",
-     "name": "Lisa Elfring"
-    },
-    {
-     "id": "A5015068672",
-     "name": "Vicente Talanquer"
-    }
-   ],
-   "faculty": [
-    "Lisa Elfring"
-   ],
-   "has_preprint": false
-  },
-  {
-   "id": "W4410724429",
-   "title": "Nonhypermutator Cancers Access Driver Mutations Through Reversals in Germline Mutational Bias",
-   "date": "2025-04-30",
-   "year": 2025,
-   "type": "article",
-   "journal": "Molecular Biology and Evolution",
-   "source_type": "journal",
-   "volume": "42",
-   "issue": "5",
-   "pages": "",
-   "doi": "https://doi.org/10.1093/molbev/msaf105",
-   "url": "https://doi.org/10.1093/molbev/msaf105",
-   "is_oa": true,
-   "oa_url": "https://academic.oup.com/mbe/article-pdf/42/5/msaf105/63350355/msaf105.pdf",
-   "citations": 0,
-   "authors": [
-    {
-     "id": "A5020142672",
-     "name": "Marwa Z. Tuffaha"
-    },
-    {
-     "id": "A5024480613",
-     "name": "David Castellano"
-    },
-    {
-     "id": "A5052195690",
-     "name": "Cl\u00e0udia Serrano Colom\u00e9"
-    },
-    {
-     "id": "A5056381387",
-     "name": "Ryan N. Gutenkunst"
-    },
-    {
-     "id": "A5077870673",
-     "name": "Lindi M. Wahl"
-    }
-   ],
-   "faculty": [
-    "Ryan Gutenkunst"
-   ],
-   "has_preprint": false
-  },
-  {
-   "id": "W4409566733",
-   "title": "Anatomical and Molecular Characterization of the Zebrafish Meninges",
-   "date": "2025-04-16",
-   "year": 2025,
-   "type": "preprint",
-   "journal": "bioRxiv (Cold Spring Harbor Laboratory)",
-   "source_type": "repository",
-   "volume": "",
-   "issue": "",
-   "pages": "",
-   "doi": "https://doi.org/10.1101/2025.04.09.646894",
-   "url": "https://doi.org/10.1101/2025.04.09.646894",
-   "is_oa": true,
-   "oa_url": "https://www.biorxiv.org/content/biorxiv/early/2025/04/16/2025.04.09.646894.full.pdf",
-   "citations": 8,
-   "authors": [
-    {
-     "id": "A5068482859",
-     "name": "Marina Venero Galanternik"
-    },
-    {
-     "id": "A5031602962",
-     "name": "Daniel Castranova"
-    },
-    {
-     "id": "A5008659531",
-     "name": "Ryan Gober"
-    },
-    {
-     "id": "A5102497688",
-     "name": "Tuyet A. Nguyen"
-    },
-    {
-     "id": "A5075819506",
-     "name": "Madeleine I. Kenton"
-    },
-    {
-     "id": "A5064888640",
-     "name": "Gennady Margolin"
-    },
-    {
-     "id": "A5087584559",
-     "name": "Aurora Kraus"
-    },
-    {
-     "id": "A5037763610",
-     "name": "Abhinav Sur"
-    },
-    {
-     "id": "A5014845998",
-     "name": "Louis Dye"
-    },
-    {
-     "id": "A5111270901",
-     "name": "Van N. Pham"
-    },
-    {
-     "id": "A5029577084",
-     "name": "A. Christopher Maese"
-    },
-    {
-     "id": "A5038321770",
-     "name": "Melanie Holmgren"
-    },
-    {
-     "id": "A5001729529",
-     "name": "Aniket V. Gore"
-    },
-    {
-     "id": "A5057811725",
-     "name": "Bakary Samasa"
-    },
-    {
-     "id": "A5089347534",
-     "name": "Allison Goldstein"
-    },
-    {
-     "id": "A5032124056",
-     "name": "Andrew Davis"
-    },
-    {
-     "id": "A5071871168",
-     "name": "Avery Angell Swearer"
-    },
-    {
-     "id": "A5004150482",
-     "name": "James Iben"
-    },
-    {
-     "id": "A5069316332",
-     "name": "Tianwei Li"
-    },
-    {
-     "id": "A5068515709",
-     "name": "Steven L. Coon"
-    },
-    {
-     "id": "A5046206826",
-     "name": "Ryan Dale"
-    },
-    {
-     "id": "A5073647023",
-     "name": "Jeffrey A. Farrell"
-    },
-    {
-     "id": "A5039020080",
-     "name": "Brant M. Weinstein"
-    }
-   ],
-   "faculty": [
-    "Abhinav Sur"
-   ],
-   "has_preprint": false
-  },
-  {
-   "id": "W4408906966",
-   "title": "Detection of domestication signals through the analysis of the full distribution of fitness effects",
-   "date": "2025-03-27",
-   "year": 2025,
-   "type": "article",
-   "journal": "Peer Community Journal",
-   "source_type": "journal",
-   "volume": "5",
-   "issue": "",
-   "pages": "",
-   "doi": "https://doi.org/10.24072/pcjournal.540",
-   "url": "https://doi.org/10.24072/pcjournal.540",
-   "is_oa": true,
-   "oa_url": "https://peercommunityjournal.org/item/10.24072/pcjournal.540.pdf",
-   "citations": 2,
-   "authors": [
-    {
-     "id": "A5024480613",
-     "name": "David Castellano"
-    },
-    {
-     "id": "A5109583222",
-     "name": "Ioanna\u2010Theoni Vourlaki"
-    },
-    {
-     "id": "A5056381387",
-     "name": "Ryan N. Gutenkunst"
-    },
-    {
-     "id": "A5055336012",
-     "name": "Sebasti\u00e1n E. Ramos\u2010Onsins"
-    }
-   ],
-   "faculty": [
-    "Ryan Gutenkunst"
-   ],
-   "has_preprint": false
-  },
-  {
-   "id": "W4408907996",
-   "title": "ConfuseNN: Interpreting convolutional neural network inferences in population genomics with data shuffling",
-   "date": "2025-03-27",
-   "year": 2025,
-   "type": "preprint",
-   "journal": "bioRxiv (Cold Spring Harbor Laboratory)",
-   "source_type": "repository",
-   "volume": "",
-   "issue": "",
-   "pages": "",
-   "doi": "https://doi.org/10.1101/2025.03.24.644668",
-   "url": "https://doi.org/10.1101/2025.03.24.644668",
-   "is_oa": true,
-   "oa_url": "https://www.biorxiv.org/content/biorxiv/early/2025/03/27/2025.03.24.644668.full.pdf",
-   "citations": 0,
-   "authors": [
-    {
-     "id": "A5003286107",
-     "name": "Linh N. Tran"
-    },
-    {
-     "id": "A5024480613",
-     "name": "David Castellano"
-    },
-    {
-     "id": "A5056381387",
-     "name": "Ryan N. Gutenkunst"
-    }
-   ],
-   "faculty": [
-    "Ryan Gutenkunst"
-   ],
-   "has_preprint": false
-  },
-  {
-   "id": "W4408377446",
-   "title": "Phosphorylation of an RNA \u2010Binding Protein Rck/Me31b by Hippo Is Essential for Adipose Tissue Aging",
-   "date": "2025-03-11",
-   "year": 2025,
-   "type": "article",
-   "journal": "Aging Cell",
-   "source_type": "journal",
-   "volume": "24",
-   "issue": "6",
-   "pages": "e70022-e70022",
-   "doi": "https://doi.org/10.1111/acel.70022",
-   "url": "https://doi.org/10.1111/acel.70022",
-   "is_oa": true,
-   "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/acel.70022",
-   "citations": 8,
-   "authors": [
-    {
-     "id": "A5002369996",
-     "name": "Eunbyul Yeom"
-    },
-    {
-     "id": "A5090112509",
-     "name": "Hyejin Mun"
-    },
-    {
-     "id": "A5084335500",
-     "name": "Jinhwan Lim"
-    },
-    {
-     "id": "A5009230591",
-     "name": "Yoo Lim Chun"
-    },
-    {
-     "id": "A5033231162",
-     "name": "Kyung\u2010Won Min"
-    },
-    {
-     "id": "A5070099284",
-     "name": "Johana M. Lambert"
-    },
-    {
-     "id": "A5038797261",
-     "name": "L. Ashley Cowart"
-    },
-    {
-     "id": "A5004429066",
-     "name": "Jason S. Pierce"
-    },
-    {
-     "id": "A5011733159",
-     "name": "Besim \u00d6\u011fretmen"
-    },
-    {
-     "id": "A5062106437",
-     "name": "Jung\u2010Hyun Cho"
-    },
-    {
-     "id": "A5034633599",
-     "name": "Jeong Ho Chang"
-    },
-    {
-     "id": "A5021452315",
-     "name": "J. Ross Buchan"
-    },
-    {
-     "id": "A5038973017",
-     "name": "Jason N. Pitt"
-    },
-    {
-     "id": "A5072624010",
-     "name": "Matt Kaeberlein"
-    },
-    {
-     "id": "A5022156655",
-     "name": "Sung-Ung Kang"
-    },
-    {
-     "id": "A5004345453",
-     "name": "Eun\u2010Soo Kwon"
-    },
-    {
-     "id": "A5035298853",
-     "name": "Seungbeom Ko"
-    },
-    {
-     "id": "A5051791419",
-     "name": "Kyoung\u2010Min Choi"
-    },
-    {
-     "id": "A5018058696",
-     "name": "Yong Sun Lee"
-    },
-    {
-     "id": "A5110846770",
-     "name": "Yoon-su Ha"
-    },
-    {
-     "id": "A5086002093",
-     "name": "Seung\u2010Jin Kim"
-    },
-    {
-     "id": "A5051809827",
-     "name": "Kwang\u2010Pyo Lee"
-    },
-    {
-     "id": "A5051809827",
-     "name": "Kwang\u2010Pyo Lee"
-    },
-    {
-     "id": "A5057710011",
-     "name": "H. R. Kim"
-    },
-    {
-     "id": "A5061731265",
-     "name": "Seo Young Yang"
-    },
-    {
-     "id": "A5101001089",
-     "name": "Chang Hoon Shin"
-    },
-    {
-     "id": "A5013145287",
-     "name": "Je\u2010Hyun Yoon"
-    },
-    {
-     "id": "A5058455540",
-     "name": "Kyu\u2010Sun Lee"
-    },
-    {
-     "id": "A5058455540",
-     "name": "Kyu\u2010Sun Lee"
-    }
-   ],
-   "faculty": [
-    "Ross Buchan"
-   ],
-   "has_preprint": false
-  },
-  {
-   "id": "W4407978280",
-   "title": "Structure, motion, and multiscale search of traveling networks",
-   "date": "2025-02-26",
-   "year": 2025,
-   "type": "article",
-   "journal": "Nature Communications",
-   "source_type": "journal",
-   "volume": "16",
-   "issue": "1",
-   "pages": "1922-1922",
-   "doi": "https://doi.org/10.1038/s41467-024-54342-7",
-   "url": "https://doi.org/10.1038/s41467-024-54342-7",
-   "is_oa": true,
-   "oa_url": "https://www.nature.com/articles/s41467-024-54342-7.pdf",
-   "citations": 4,
-   "authors": [
-    {
-     "id": "A5085394549",
-     "name": "Nate Cira"
-    },
-    {
-     "id": "A5059624212",
-     "name": "Morgan L Paull"
-    },
-    {
-     "id": "A5073407878",
-     "name": "Shayandev Sinha"
-    },
-    {
-     "id": "A5085566500",
-     "name": "Fabio Zanini"
-    },
-    {
-     "id": "A5101452954",
-     "name": "Yue Ma"
-    },
-    {
-     "id": "A5019814011",
-     "name": "Ingmar H. Riedel\u2010Kruse"
-    }
-   ],
-   "faculty": [
-    "Ingmar Riedel-Kruse"
-   ],
-   "has_preprint": false
-  },
-  {
-   "id": "W4407355878",
-   "title": "Integrative analysis reveals therapeutic potential of pyrvinium pamoate in Merkel cell carcinoma",
-   "date": "2025-02-11",
-   "year": 2025,
-   "type": "article",
-   "journal": "Journal of Clinical Investigation",
-   "source_type": "journal",
-   "volume": "135",
-   "issue": "7",
-   "pages": "",
-   "doi": "https://doi.org/10.1172/jci177724",
-   "url": "https://doi.org/10.1172/jci177724",
-   "is_oa": true,
-   "oa_url": "https://doi.org/10.1172/jci177724",
-   "citations": 4,
-   "authors": [
-    {
-     "id": "A5101188544",
-     "name": "Jiawen Yang"
-    },
-    {
-     "id": "A5078320628",
-     "name": "James T. Lim"
-    },
-    {
-     "id": "A5104303481",
-     "name": "Paul Victor Santiago Raj"
-    },
-    {
-     "id": "A5033029463",
-     "name": "M. Corona"
-    },
-    {
-     "id": "A5100418380",
-     "name": "Chen Chen"
-    },
-    {
-     "id": "A5101738805",
-     "name": "Hunain Khawaja"
-    },
-    {
-     "id": "A5053862338",
-     "name": "Qiong Pan"
-    },
-    {
-     "id": "A5044507315",
-     "name": "Gillian Paine-Murrieta"
-    },
-    {
-     "id": "A5004628839",
-     "name": "Rick G. Schnellmann"
-    },
-    {
-     "id": "A5016715621",
-     "name": "Denise J. Roe"
-    },
-    {
-     "id": "A5080775024",
-     "name": "Prafulla C. Gokhale"
-    },
-    {
-     "id": "A5081560191",
-     "name": "James A. DeCaprio"
-    },
-    {
-     "id": "A5110947107",
-     "name": "Megha Padi"
-    }
-   ],
-   "faculty": [
-    "Megha Padi"
-   ],
-   "has_preprint": false
-  },
-  {
-   "id": "W4407276221",
-   "title": "Identifying Sex Differences in Lung Adenocarcinoma Using Multi-Omics Integrative Protein Signaling Networks",
-   "date": "2025-02-07",
-   "year": 2025,
-   "type": "preprint",
-   "journal": "bioRxiv (Cold Spring Harbor Laboratory)",
-   "source_type": "repository",
-   "volume": "",
-   "issue": "",
-   "pages": "",
-   "doi": "https://doi.org/10.1101/2025.02.03.636354",
-   "url": "https://doi.org/10.1101/2025.02.03.636354",
-   "is_oa": true,
-   "oa_url": "https://doi.org/10.1101/2025.02.03.636354",
-   "citations": 2,
-   "authors": [
-    {
-     "id": "A5109199470",
-     "name": "Chen Chen"
-    },
-    {
-     "id": "A5018639463",
-     "name": "Enakshi Saha"
-    },
-    {
-     "id": "A5101449901",
-     "name": "Jonas Fischer"
-    },
-    {
-     "id": "A5087387706",
-     "name": "Marouen Ben Guebila"
-    },
-    {
-     "id": "A5036980166",
-     "name": "Viola Fanfani"
-    },
-    {
-     "id": "A5054782849",
-     "name": "Katherine H. Shutta"
-    },
-    {
-     "id": "A5057903275",
-     "name": "Megha Padi"
-    },
-    {
-     "id": "A5075746488",
-     "name": "Kimberly Glass"
-    },
-    {
-     "id": "A5051093934",
-     "name": "Dawn L. DeMeo"
-    },
-    {
-     "id": "A5024467494",
-     "name": "Camila M. Lopes\u2010Ramos"
-    },
-    {
-     "id": "A5084245470",
-     "name": "John Quackenbush"
-    }
-   ],
-   "faculty": [
-    "Megha Padi"
-   ],
-   "has_preprint": false
-  },
-  {
-   "id": "W4406223890",
-   "title": "Landscape of human protein-coding somatic mutations across tissues and individuals",
-   "date": "2025-01-09",
-   "year": 2025,
-   "type": "preprint",
-   "journal": "bioRxiv (Cold Spring Harbor Laboratory)",
-   "source_type": "repository",
-   "volume": "",
-   "issue": "",
-   "pages": "",
-   "doi": "https://doi.org/10.1101/2025.01.07.631808",
-   "url": "https://doi.org/10.1101/2025.01.07.631808",
-   "is_oa": true,
-   "oa_url": "https://doi.org/10.1101/2025.01.07.631808",
-   "citations": 2,
-   "authors": [
-    {
-     "id": "A5101470709",
-     "name": "Huixin Xu"
-    },
-    {
-     "id": "A5081216012",
-     "name": "Rob Bierman"
-    },
-    {
-     "id": "A5001431060",
-     "name": "Dayna T. Akey"
-    },
-    {
-     "id": "A5115827190",
-     "name": "Cooper Koers"
-    },
-    {
-     "id": "A5067605290",
-     "name": "Troy J. Comi"
-    },
-    {
-     "id": "A5041221517",
-     "name": "Claire D. McWhite"
-    },
-    {
-     "id": "A5103033565",
-     "name": "Joshua M. Akey"
-    }
-   ],
-   "faculty": [
-    "Claire McWhite"
-   ],
-   "has_preprint": false
-  },
-  {
-   "id": "W4406097129",
-   "title": "SICKO: Systematic Imaging of Caenorhabditis Killing Organisms",
-   "date": "2025-01-06",
-   "year": 2025,
-   "type": "preprint",
-   "journal": "eLife",
-   "source_type": "journal",
-   "volume": "",
-   "issue": "",
-   "pages": "",
-   "doi": "https://doi.org/10.7554/elife.102518",
-   "url": "https://doi.org/10.7554/elife.102518",
-   "is_oa": true,
-   "oa_url": "https://elifesciences.org/reviewed-preprints/102518.pdf",
-   "citations": 0,
-   "authors": [
-    {
-     "id": "A5012129184",
-     "name": "Luis Espejo"
-    },
-    {
-     "id": "A5014588741",
-     "name": "Samuel Freitas"
-    },
-    {
-     "id": "A5093679271",
-     "name": "Vanessa Hofschneider"
-    },
-    {
-     "id": "A5041824702",
-     "name": "Leah Chang"
-    },
-    {
-     "id": "A5080288342",
-     "name": "Angelo Antenor"
-    },
-    {
-     "id": "A5093497092",
-     "name": "Jonah Balsa"
-    },
-    {
-     "id": "A5054396913",
-     "name": "Anne Haskins"
-    },
-    {
-     "id": "A5082562308",
-     "name": "Destiny DeNicola"
-    },
-    {
-     "id": "A5110831004",
-     "name": "Hope Dang"
-    },
-    {
-     "id": "A5049948297",
-     "name": "Sage Hamming"
-    },
-    {
-     "id": "A5026880090",
-     "name": "Delaney Kelser"
-    },
-    {
-     "id": "A5064932278",
-     "name": "George L. Sutphin"
-    }
-   ],
-   "faculty": [
-    "George Sutphin"
-   ],
-   "has_preprint": true
-  },
-  {
-   "id": "W4406758517",
-   "title": "Modeling Biases from Low-Pass Genome Sequencing to Enable Accurate Population Genetic Inferences",
-   "date": "2025-01-01",
-   "year": 2025,
-   "type": "article",
-   "journal": "Molecular Biology and Evolution",
-   "source_type": "journal",
-   "volume": "42",
-   "issue": "1",
-   "pages": "",
-   "doi": "https://doi.org/10.1093/molbev/msaf002",
-   "url": "https://doi.org/10.1093/molbev/msaf002",
-   "is_oa": true,
-   "oa_url": "https://doi.org/10.1093/molbev/msaf002",
-   "citations": 6,
-   "authors": [
-    {
-     "id": "A5073987659",
-     "name": "Emanuel M. Fonseca"
-    },
-    {
-     "id": "A5003286107",
-     "name": "Linh N. Tran"
-    },
-    {
-     "id": "A5108959222",
-     "name": "H. J. Castro Mendoza"
-    },
-    {
-     "id": "A5056381387",
-     "name": "Ryan N. Gutenkunst"
-    }
-   ],
-   "faculty": [
-    "Ryan Gutenkunst"
-   ],
-   "has_preprint": false
-  },
-  {
-   "id": "W4405203429",
-   "title": "Study on structural analysis technique of loess tunnel based on multi-index evaluation",
-   "date": "2024-12-01",
-   "year": 2024,
-   "type": "conference-paper",
-   "journal": "Journal of Physics Conference Series",
-   "source_type": "journal",
-   "volume": "2913",
-   "issue": "1",
-   "pages": "012027-012027",
-   "doi": "https://doi.org/10.1088/1742-6596/2913/1/012027",
-   "url": "https://doi.org/10.1088/1742-6596/2913/1/012027",
-   "is_oa": true,
-   "oa_url": "https://doi.org/10.1088/1742-6596/2913/1/012027",
-   "citations": 0,
-   "authors": [
-    {
-     "id": "A5111756850",
-     "name": "Guang Chun Yao"
-    }
-   ],
-   "faculty": [
-    "Guang Yao"
-   ],
-   "has_preprint": false
-  },
-  {
-   "id": "W4405724245",
-   "title": "Adaptive Responses of Cyanobacteria to Phosphate Limitation: A Focus on Marine Diazotrophs",
-   "date": "2024-12-01",
-   "year": 2024,
-   "type": "article",
-   "journal": "Environmental Microbiology",
-   "source_type": "journal",
-   "volume": "26",
-   "issue": "12",
-   "pages": "e70023-e70023",
-   "doi": "https://doi.org/10.1111/1462-2920.70023",
-   "url": "https://doi.org/10.1111/1462-2920.70023",
-   "is_oa": true,
-   "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/1462-2920.70023",
-   "citations": 14,
-   "authors": [
-    {
-     "id": "A5109023648",
-     "name": "Chlo\u00e9 Caille"
-    },
-    {
-     "id": "A5059742751",
-     "name": "Solange Duhamel"
-    },
-    {
-     "id": "A5002105338",
-     "name": "Amel Latifi"
-    },
-    {
-     "id": "A5013420971",
-     "name": "Sophie Rabouille"
-    }
-   ],
-   "faculty": [
-    "Solange Duhamel"
-   ],
-   "has_preprint": false
-  },
-  {
-   "id": "W4404568131",
-   "title": "Measuring FOXO Nuclear Shuttling Dynamics by Fluorescence Microscopy",
-   "date": "2024-11-20",
-   "year": 2024,
-   "type": "book-chapter",
-   "journal": "Methods in molecular biology",
-   "source_type": "book series",
-   "volume": "2871",
-   "issue": "",
-   "pages": "131-143",
-   "doi": "https://doi.org/10.1007/978-1-0716-4217-7_12",
-   "url": "https://doi.org/10.1007/978-1-0716-4217-7_12",
-   "is_oa": false,
-   "oa_url": "",
-   "citations": 0,
-   "authors": [
-    {
-     "id": "A5030356162",
-     "name": "Elizabeth Jose"
-    },
-    {
-     "id": "A5054257493",
-     "name": "Andrew L. Paek"
-    }
-   ],
-   "faculty": [
-    "Andrew Paek"
-   ],
-   "has_preprint": false
-  },
-  {
-   "id": "W4404317873",
-   "title": "Light-dependent switching between two flagellar beating states selects versatile phototaxis strategies in microswimmers",
-   "date": "2024-11-13",
-   "year": 2024,
-   "type": "article",
-   "journal": "Proceedings of the National Academy of Sciences",
-   "source_type": "journal",
-   "volume": "121",
-   "issue": "47",
-   "pages": "e2408082121-e2408082121",
-   "doi": "https://doi.org/10.1073/pnas.2408082121",
-   "url": "https://doi.org/10.1073/pnas.2408082121",
-   "is_oa": true,
-   "oa_url": "https://doi.org/10.1073/pnas.2408082121",
-   "citations": 11,
-   "authors": [
-    {
-     "id": "A5029204173",
-     "name": "Alan Cheng Hou Tsang"
-    },
-    {
-     "id": "A5019814011",
-     "name": "Ingmar H. Riedel\u2010Kruse"
-    }
-   ],
-   "faculty": [
-    "Ingmar Riedel-Kruse"
-   ],
-   "has_preprint": false
-  },
-  {
-   "id": "W4404227654",
-   "title": "The microbial phosphorus cycle in aquatic ecosystems",
-   "date": "2024-11-11",
-   "year": 2024,
-   "type": "article",
-   "journal": "Nature Reviews Microbiology",
-   "source_type": "journal",
-   "volume": "23",
-   "issue": "4",
-   "pages": "239-255",
-   "doi": "https://doi.org/10.1038/s41579-024-01119-w",
-   "url": "https://doi.org/10.1038/s41579-024-01119-w",
-   "is_oa": false,
-   "oa_url": "",
-   "citations": 142,
-   "authors": [
-    {
-     "id": "A5059742751",
-     "name": "Solange Duhamel"
-    }
-   ],
-   "faculty": [
-    "Solange Duhamel"
-   ],
-   "has_preprint": false
-  },
-  {
-   "id": "W4404199955",
-   "title": "Nuclear EGFR in breast cancer suppresses NK cell recruitment and cytotoxicity",
-   "date": "2024-11-09",
-   "year": 2024,
-   "type": "article",
-   "journal": "Oncogene",
-   "source_type": "journal",
-   "volume": "44",
-   "issue": "5",
-   "pages": "288-295",
-   "doi": "https://doi.org/10.1038/s41388-024-03211-0",
-   "url": "https://doi.org/10.1038/s41388-024-03211-0",
-   "is_oa": true,
-   "oa_url": "https://www.nature.com/articles/s41388-024-03211-0.pdf",
-   "citations": 3,
-   "authors": [
-    {
-     "id": "A5006568246",
-     "name": "Angelica Escoto"
-    },
-    {
-     "id": "A5057733924",
-     "name": "Ryan Hecksel"
-    },
-    {
-     "id": "A5000709709",
-     "name": "Chance Parkinson"
-    },
-    {
-     "id": "",
-     "name": "Sara Crane"
-    },
-    {
-     "id": "A5064314541",
-     "name": "Benjamin Atwell"
-    },
-    {
-     "id": "A5023719722",
-     "name": "Sharon King"
-    },
-    {
-     "id": "A5010442079",
-     "name": "Daniela Ortiz Chavez"
-    },
-    {
-     "id": "A5064438446",
-     "name": "Alison L. Jannuzi"
-    },
-    {
-     "id": "A5113599801",
-     "name": "Barbara Sands"
-    },
-    {
-     "id": "A5009792132",
-     "name": "Benjamin G. Bitler"
-    },
-    {
-     "id": "A5016323798",
-     "name": "Todd A. Fehniger"
-    },
-    {
-     "id": "A5054257493",
-     "name": "Andrew L. Paek"
-    },
-    {
-     "id": "A5110947107",
-     "name": "Megha Padi"
-    },
-    {
-     "id": "A5020891622",
-     "name": "Joyce A. Schroeder"
-    }
-   ],
-   "faculty": [
-    "Andrew Paek",
-    "Joyce Schroeder",
-    "Megha Padi"
-   ],
-   "has_preprint": false
-  },
-  {
-   "id": "W4405570393",
-   "title": "Structures, mechanisms, and kinetic advantages of the SgrAI filament forming mechanism",
-   "date": "2024-11-01",
-   "year": 2024,
-   "type": "article",
-   "journal": "Critical Reviews in Biochemistry and Molecular Biology",
-   "source_type": "journal",
-   "volume": "59",
-   "issue": "6",
-   "pages": "363-401",
-   "doi": "https://doi.org/10.1080/10409238.2024.2440315",
-   "url": "https://doi.org/10.1080/10409238.2024.2440315",
-   "is_oa": false,
-   "oa_url": "",
-   "citations": 0,
-   "authors": [
-    {
-     "id": "A5054751436",
-     "name": "Nancy C. Horton"
-    },
-    {
-     "id": "A5077915889",
-     "name": "Dmitry Lyumkis"
-    }
-   ],
-   "faculty": [
-    "Nancy Horton"
-   ],
-   "has_preprint": false
-  },
-  {
-   "id": "W4403965112",
-   "title": "Optogenetic patterning generates multi-strain biofilms with spatially distributed antibiotic resistance",
-   "date": "2024-11-01",
-   "year": 2024,
-   "type": "article",
-   "journal": "Nature Communications",
-   "source_type": "journal",
-   "volume": "15",
-   "issue": "1",
-   "pages": "9443-9443",
-   "doi": "https://doi.org/10.1038/s41467-024-53546-1",
-   "url": "https://doi.org/10.1038/s41467-024-53546-1",
-   "is_oa": true,
-   "oa_url": "https://www.nature.com/articles/s41467-024-53546-1.pdf",
-   "citations": 12,
-   "authors": [
-    {
-     "id": "A5026426411",
-     "name": "Xiaofan Jin"
-    },
-    {
-     "id": "A5019814011",
-     "name": "Ingmar H. Riedel\u2010Kruse"
-    }
-   ],
-   "faculty": [
-    "Ingmar Riedel-Kruse"
-   ],
-   "has_preprint": false
-  },
-  {
-   "id": "W4403814266",
-   "title": "How do Laboratory Teaching Assistants Learn to Support Science Practices? Exploring the Intersection Between Instructor Reasoning and Actions",
-   "date": "2024-10-28",
-   "year": 2024,
-   "type": "article",
-   "journal": "CBE\u2014Life Sciences Education",
-   "source_type": "journal",
-   "volume": "23",
-   "issue": "4",
-   "pages": "ar56-ar56",
-   "doi": "https://doi.org/10.1187/cbe.24-03-0118",
-   "url": "https://doi.org/10.1187/cbe.24-03-0118",
-   "is_oa": true,
-   "oa_url": "https://doi.org/10.1187/cbe.24-03-0118",
-   "citations": 5,
-   "authors": [
-    {
-     "id": "A5081344149",
-     "name": "Alexandra Christine Cooper"
-    },
-    {
-     "id": "A5026141345",
-     "name": "J. B. Osness"
-    },
-    {
-     "id": "A5109261066",
-     "name": "Susan D. Hester"
-    },
-    {
-     "id": "A5034474325",
-     "name": "Molly Bolger"
-    }
-   ],
-   "faculty": [
-    "Susan Hester"
-   ],
-   "has_preprint": false
-  },
-  {
-   "id": "W4403580717",
-   "title": "Examining the Link Between Peroxiredoxin Proteins and Mutually Exclusive Transcription Factor Activation With a Mathematical Model",
-   "date": "2024-10-14",
-   "year": 2024,
-   "type": "preprint",
-   "journal": "arXiv (Cornell University)",
-   "source_type": "repository",
-   "volume": "",
-   "issue": "",
-   "pages": "",
-   "doi": "https://doi.org/10.48550/arxiv.2410.10145",
-   "url": "https://doi.org/10.48550/arxiv.2410.10145",
-   "is_oa": true,
-   "oa_url": "https://arxiv.org/pdf/2410.10145",
-   "citations": 0,
-   "authors": [
-    {
-     "id": "A5114338337",
-     "name": "Zachary Schlamowitz"
-    },
-    {
-     "id": "A5054257493",
-     "name": "Andrew L. Paek"
-    },
-    {
-     "id": "A5074764224",
-     "name": "Kevin Lin"
-    }
-   ],
-   "faculty": [
-    "Andrew Paek"
-   ],
-   "has_preprint": false
-  },
-  {
-   "id": "W4402854168",
-   "title": "Effect of gypsum on low-heat Portland cement early mechanical properties and hydration in the presence of DEIPA",
-   "date": "2024-09-26",
-   "year": 2024,
-   "type": "article",
-   "journal": "Construction and Building Materials",
-   "source_type": "journal",
-   "volume": "449",
-   "issue": "",
-   "pages": "138477-138477",
-   "doi": "https://doi.org/10.1016/j.conbuildmat.2024.138477",
-   "url": "https://doi.org/10.1016/j.conbuildmat.2024.138477",
-   "is_oa": false,
-   "oa_url": "",
-   "citations": 16,
-   "authors": [
-    {
-     "id": "A5111756850",
-     "name": "Guang Chun Yao"
-    },
-    {
-     "id": "A5029525185",
-     "name": "Hao Wan"
-    },
-    {
-     "id": "A5055517976",
-     "name": "Guanbao Tang"
-    },
-    {
-     "id": "A5020714583",
-     "name": "Xianshu Gao"
-    },
-    {
-     "id": "A5086158571",
-     "name": "Kunyue Zhang"
-    },
-    {
-     "id": "A5102261211",
-     "name": "Wen Huang"
-    },
-    {
-     "id": "A5113301916",
-     "name": "Yang Yu"
-    },
-    {
-     "id": "A5029007458",
-     "name": "Xin Shen"
-    },
-    {
-     "id": "A5064192037",
-     "name": "Suping Cui"
-    }
-   ],
-   "faculty": [
-    "Guang Yao"
    ],
    "has_preprint": false
   }
