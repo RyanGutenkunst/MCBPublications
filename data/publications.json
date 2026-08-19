@@ -1,6 +1,6 @@
 {
- "generated": "2026-08-18T11:40:12",
- "since": "2025-08-18",
+ "generated": "2026-08-19T11:39:45",
+ "since": "2025-08-19",
  "faculty": [
   "Ross Buchan",
   "Gail Burd",
@@ -149,10 +149,10 @@
   "Chad Park": 0,
   "Angel Pimentel": 0,
   "Lisa Rezende": 2,
-  "Ingmar Riedel-Kruse": 4,
+  "Ingmar Riedel-Kruse": 5,
   "Joyce Schroeder": 1,
   "Daryn Stover": 0,
-  "Abhinav Sur": 6,
+  "Abhinav Sur": 5,
   "George Sutphin": 3,
   "Frans Tax": 1,
   "Ted Weinert": 0,
@@ -160,6 +160,49 @@
  },
  "errors": [],
  "publications": [
+  {
+   "id": "W7203640933",
+   "title": "A traveling network model predicts emergent dynamics and search behavior from local remodeling in Physarum polycephalum",
+   "date": "2026-08-16",
+   "year": 2026,
+   "type": "preprint",
+   "journal": "bioRxiv (Cold Spring Harbor Laboratory)",
+   "source_type": "repository",
+   "volume": "",
+   "issue": "",
+   "pages": "",
+   "doi": "https://doi.org/10.64898/2026.08.13.744445",
+   "url": "https://doi.org/10.64898/2026.08.13.744445",
+   "is_oa": true,
+   "oa_url": "https://www.biorxiv.org/content/biorxiv/early/2026/08/16/2026.08.13.744445.full.pdf",
+   "citations": 0,
+   "authors": [
+    {
+     "id": "A5069908801",
+     "name": "Arnold Chen"
+    },
+    {
+     "id": "A5053828363",
+     "name": "Shenghao Tan"
+    },
+    {
+     "id": "A5147345767",
+     "name": "Yash V Mundewadi"
+    },
+    {
+     "id": "A5019814011",
+     "name": "Ingmar H. Riedel\u2010Kruse"
+    },
+    {
+     "id": "A5085394549",
+     "name": "Nate Cira"
+    }
+   ],
+   "faculty": [
+    "Ingmar Riedel-Kruse"
+   ],
+   "has_preprint": false
+  },
   {
    "id": "W7201904266",
    "title": "A conserved Notch\u2013Meis1\u2013Pbx cascade specifies secretory progenitors into spatially diverse intestinal best4 + cells",
@@ -3164,7 +3207,7 @@
    "doi": "https://doi.org/10.1101/2025.08.28.672890",
    "url": "https://doi.org/10.1101/2025.08.28.672890",
    "is_oa": true,
-   "oa_url": "https://www.biorxiv.org/content/biorxiv/early/2025/09/01/2025.08.28.672890.full.pdf",
+   "oa_url": "https://doi.org/10.1101/2025.08.28.672890",
    "citations": 0,
    "authors": [
     {
@@ -3203,7 +3246,7 @@
    "doi": "https://doi.org/10.1038/s43018-025-01029-7",
    "url": "https://doi.org/10.1038/s43018-025-01029-7",
    "is_oa": true,
-   "oa_url": "https://www.nature.com/articles/s43018-025-01029-7.pdf",
+   "oa_url": "https://doi.org/10.1038/s43018-025-01029-7",
    "citations": 13,
    "authors": [
     {
@@ -3265,81 +3308,6 @@
    ],
    "faculty": [
     "Joyce Schroeder"
-   ],
-   "has_preprint": false
-  },
-  {
-   "id": "W4413295862",
-   "title": "prdm1a drives a fate switch between hair cells of different mechanosensory organs",
-   "date": "2025-08-18",
-   "year": 2025,
-   "type": "article",
-   "journal": "Nature Communications",
-   "source_type": "journal",
-   "volume": "16",
-   "issue": "1",
-   "pages": "7662-7662",
-   "doi": "https://doi.org/10.1038/s41467-025-62942-0",
-   "url": "https://doi.org/10.1038/s41467-025-62942-0",
-   "is_oa": true,
-   "oa_url": "https://www.nature.com/articles/s41467-025-62942-0.pdf",
-   "citations": 2,
-   "authors": [
-    {
-     "id": "A5084238659",
-     "name": "Jeremy E. Sandler"
-    },
-    {
-     "id": "A5059852783",
-     "name": "Ya-Yin Tsai"
-    },
-    {
-     "id": "A5080154231",
-     "name": "Shiyuan Chen"
-    },
-    {
-     "id": "A5117832605",
-     "name": "Logan Sabin"
-    },
-    {
-     "id": "A5073365688",
-     "name": "Mark E. Lush"
-    },
-    {
-     "id": "A5037763610",
-     "name": "Abhinav Sur"
-    },
-    {
-     "id": "A5111983239",
-     "name": "E. Ellis"
-    },
-    {
-     "id": "A5041063764",
-     "name": "Nhung T. T. Tran"
-    },
-    {
-     "id": "A5046246733",
-     "name": "Malcolm Cook"
-    },
-    {
-     "id": "A5112543180",
-     "name": "Allison Scott"
-    },
-    {
-     "id": "A5006020820",
-     "name": "Jonathan S. Kniss"
-    },
-    {
-     "id": "A5073647023",
-     "name": "Jeffrey A. Farrell"
-    },
-    {
-     "id": "A5070899084",
-     "name": "Tatjana Piotrowski"
-    }
-   ],
-   "faculty": [
-    "Abhinav Sur"
    ],
    "has_preprint": false
   }
