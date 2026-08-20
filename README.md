@@ -139,9 +139,11 @@ Setup, once:
 The site lands at `https://<user>.github.io/<repo>/`. Point a departmental
 subdomain at it with a `CNAME` file if you want a nicer URL.
 
-It then refreshes nightly at 11:17 UTC (4:17 AM Arizona). For weekly, change the
-cron to `"17 11 * * 1"` (Mondays). The **Run workflow** button refreshes on
-demand before a meeting.
+It then refreshes weekly on Sunday night, at 10:17 PM Arizona time. The cron
+line reads `"17 5 * * 1"` — that is 05:17 UTC on **Monday**, because cron runs in
+UTC and Arizona is UTC-7, so Sunday evening here is already Monday there. Setting
+the day to `0` would fire Sunday morning instead, a day early. The **Run
+workflow** button refreshes on demand before a meeting.
 
 ### Things worth knowing about the scheduled run
 
