@@ -1,6 +1,6 @@
 {
- "generated": "2026-08-19T11:39:45",
- "since": "2025-08-19",
+ "generated": "2026-08-20T11:42:02",
+ "since": "2025-08-20",
  "faculty": [
   "Ross Buchan",
   "Gail Burd",
@@ -661,7 +661,7 @@
    "url": "https://doi.org/10.1016/j.immuni.2026.05.005",
    "is_oa": true,
    "oa_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13428410/",
-   "citations": 0,
+   "citations": 1,
    "authors": [
     {
      "id": "A5046674028",
