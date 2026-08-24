@@ -1,6 +1,6 @@
 {
- "generated": "2026-08-20T11:42:02",
- "since": "2025-08-20",
+ "generated": "2026-08-24T05:51:28",
+ "since": "2025-08-24",
  "faculty": [
   "Ross Buchan",
   "Gail Burd",
@@ -150,7 +150,7 @@
   "Angel Pimentel": 0,
   "Lisa Rezende": 2,
   "Ingmar Riedel-Kruse": 5,
-  "Joyce Schroeder": 1,
+  "Joyce Schroeder": 0,
   "Daryn Stover": 0,
   "Abhinav Sur": 5,
   "George Sutphin": 3,
@@ -1679,7 +1679,7 @@
      "name": "Billie E. Davies"
     },
     {
-     "id": "",
+     "id": "A5146857667",
      "name": "Paul Gonzalez"
     },
     {
@@ -1747,8 +1747,8 @@
      "name": "Andreas D. Baxevanis"
     },
     {
-     "id": "",
-     "name": "Jos\u00e9 M Mart\u00edn-Dur\u00e1n"
+     "id": "A5046495620",
+     "name": "Jos\u00e9 M. Mart\u00edn\u2010Dur\u00e1n"
     }
    ],
    "faculty": [
@@ -1880,7 +1880,7 @@
      "name": "Sophia Hu"
     },
     {
-     "id": "",
+     "id": "A5100625796",
      "name": "Yong Lu"
     },
     {
@@ -2438,7 +2438,7 @@
    "url": "https://doi.org/10.1007/s00239-025-10282-4",
    "is_oa": true,
    "oa_url": "https://link.springer.com/content/pdf/10.1007/s00239-025-10282-4.pdf",
-   "citations": 11,
+   "citations": 12,
    "authors": [
     {
      "id": "A5108483152",
@@ -3229,85 +3229,6 @@
    ],
    "faculty": [
     "Ryan Gutenkunst"
-   ],
-   "has_preprint": false
-  },
-  {
-   "id": "W4413401175",
-   "title": "A sphingolipid-derived paclitaxel nanovesicle enhances efficacy of combination therapies in triple-negative breast cancer and pancreatic cancer",
-   "date": "2025-08-21",
-   "year": 2025,
-   "type": "article",
-   "journal": "Nature Cancer",
-   "source_type": "journal",
-   "volume": "6",
-   "issue": "10",
-   "pages": "1734-1753",
-   "doi": "https://doi.org/10.1038/s43018-025-01029-7",
-   "url": "https://doi.org/10.1038/s43018-025-01029-7",
-   "is_oa": true,
-   "oa_url": "https://doi.org/10.1038/s43018-025-01029-7",
-   "citations": 13,
-   "authors": [
-    {
-     "id": "A5012816071",
-     "name": "Zhiren Wang"
-    },
-    {
-     "id": "A5085333141",
-     "name": "Wenpan Li"
-    },
-    {
-     "id": "A5042932504",
-     "name": "Yanhao Jiang"
-    },
-    {
-     "id": "A5101510386",
-     "name": "Teng Ma"
-    },
-    {
-     "id": "A5007220341",
-     "name": "M J Li"
-    },
-    {
-     "id": "A5063912185",
-     "name": "Shuang Wu"
-    },
-    {
-     "id": "A5108876956",
-     "name": "Tuyen Ba Tran"
-    },
-    {
-     "id": "A5064956926",
-     "name": "Leyla Estrella Cordova"
-    },
-    {
-     "id": "",
-     "name": "Ethan Lin"
-    },
-    {
-     "id": "A5025510544",
-     "name": "Aaron J. Scott"
-    },
-    {
-     "id": "A5030086536",
-     "name": "Jennifer Erdrich"
-    },
-    {
-     "id": "A5020891622",
-     "name": "Joyce A. Schroeder"
-    },
-    {
-     "id": "A5082690204",
-     "name": "Pavani Chalasani"
-    },
-    {
-     "id": "A5090431009",
-     "name": "Jianqin Lu"
-    }
-   ],
-   "faculty": [
-    "Joyce Schroeder"
    ],
    "has_preprint": false
   }
