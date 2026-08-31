@@ -1,6 +1,6 @@
 {
- "generated": "2026-08-24T05:51:28",
- "since": "2025-08-24",
+ "generated": "2026-08-31T11:34:26",
+ "since": "2025-08-31",
  "faculty": [
   "Ross Buchan",
   "Gail Burd",
@@ -211,9 +211,9 @@
    "type": "preprint",
    "journal": "Genes & Development",
    "source_type": "journal",
-   "volume": "",
-   "issue": "",
-   "pages": "",
+   "volume": "40",
+   "issue": "17-18",
+   "pages": "1553-1574",
    "doi": "https://doi.org/10.1101/gad.353662.126",
    "url": "https://doi.org/10.1101/gad.353662.126",
    "is_oa": true,
@@ -744,7 +744,7 @@
    "url": "https://doi.org/10.64898/2026.06.09.731149",
    "is_oa": true,
    "oa_url": "https://doi.org/10.64898/2026.06.09.731149",
-   "citations": 2,
+   "citations": 3,
    "authors": [
     {
      "id": "A5065750826",
