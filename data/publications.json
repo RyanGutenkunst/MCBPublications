@@ -1,6 +1,6 @@
 {
- "generated": "2026-08-31T11:34:26",
- "since": "2025-08-31",
+ "generated": "2026-09-07T10:14:05",
+ "since": "2025-09-07",
  "faculty": [
   "Ross Buchan",
   "Gail Burd",
@@ -160,6 +160,1296 @@
  },
  "errors": [],
  "publications": [
+  {
+   "id": "W7208717190",
+   "title": "Data for EMSL Project 50414 from September 2025",
+   "date": "2026-09-04",
+   "year": 2026,
+   "type": "dataset",
+   "journal": "DOE Pacific Northwest National Laboratory (PNNL) Repository",
+   "source_type": "repository",
+   "volume": "",
+   "issue": "",
+   "pages": "",
+   "doi": "https://doi.org/10.25582/data.2025-09.3576165/3681318",
+   "url": "https://doi.org/10.25582/data.2025-09.3576165/3681318",
+   "is_oa": true,
+   "oa_url": "https://doi.org/10.25582/data.2025-09.3576165/3681318",
+   "citations": 0,
+   "authors": [
+    {
+     "id": "A5075571602",
+     "name": "Marat Valiev"
+    },
+    {
+     "id": "A5150033633",
+     "name": "David Cowley"
+    },
+    {
+     "id": "A5053192926",
+     "name": "David Baker"
+    },
+    {
+     "id": "A5009158927",
+     "name": "David Brown"
+    },
+    {
+     "id": "A5019884843",
+     "name": "Scott Baker"
+    },
+    {
+     "id": "A5133775302",
+     "name": "Evan Felix"
+    },
+    {
+     "id": "A5100362078",
+     "name": "Jun Liu"
+    },
+    {
+     "id": "A5000749808",
+     "name": "Bradley M. Tebo"
+    },
+    {
+     "id": "A5100422167",
+     "name": "Rui Zhang"
+    },
+    {
+     "id": "A5020468097",
+     "name": "Elan Eisenmesser"
+    },
+    {
+     "id": "A5021584861",
+     "name": "Jaydeep P. Bardhan"
+    },
+    {
+     "id": "A5108945422",
+     "name": "Kenneth Schmidt"
+    },
+    {
+     "id": "A5150046812",
+     "name": "Ryan Wright"
+    },
+    {
+     "id": "A5132564885",
+     "name": "James Evans"
+    },
+    {
+     "id": "A5132564885",
+     "name": "James Evans"
+    },
+    {
+     "id": "A5132564885",
+     "name": "James Evans"
+    },
+    {
+     "id": "A5132564885",
+     "name": "James Evans"
+    },
+    {
+     "id": "A5008050382",
+     "name": "Eric Barklis"
+    },
+    {
+     "id": "A5149993016",
+     "name": "Alexandra Soldatova"
+    },
+    {
+     "id": "A5078603869",
+     "name": "Jochen Zimmer"
+    },
+    {
+     "id": "A5134927615",
+     "name": "Trevor Moser"
+    },
+    {
+     "id": "A5134927615",
+     "name": "Trevor Moser"
+    },
+    {
+     "id": "A5033295580",
+     "name": "Michelle O\u2019Malley"
+    },
+    {
+     "id": "A5149985608",
+     "name": "Irina El Khoury"
+    },
+    {
+     "id": "A5149985608",
+     "name": "Irina El Khoury"
+    },
+    {
+     "id": "A5061217668",
+     "name": "Todd O. Yeates"
+    },
+    {
+     "id": "A5076724110",
+     "name": "Benjamin Philmus"
+    },
+    {
+     "id": "A5088125571",
+     "name": "Eric Gouaux"
+    },
+    {
+     "id": "A5088125571",
+     "name": "Eric Gouaux"
+    },
+    {
+     "id": "A5150014409",
+     "name": "Michael Chapman"
+    },
+    {
+     "id": "A5150014409",
+     "name": "Michael Chapman"
+    },
+    {
+     "id": "A5090735854",
+     "name": "Show\u2010Ling Shyng"
+    },
+    {
+     "id": "A5037692933",
+     "name": "Peter Shen"
+    },
+    {
+     "id": "A5048966571",
+     "name": "John J. Tanner"
+    },
+    {
+     "id": "A5084950637",
+     "name": "Heidi Schubert"
+    },
+    {
+     "id": "A5085520710",
+     "name": "Isabelle Baconguis"
+    },
+    {
+     "id": "A5041178823",
+     "name": "Richard Posert"
+    },
+    {
+     "id": "A5026207979",
+     "name": "Damian C. Ekiert"
+    },
+    {
+     "id": "A5066717627",
+     "name": "Gira Bhabha"
+    },
+    {
+     "id": "A5055117782",
+     "name": "Nicolas Coudray"
+    },
+    {
+     "id": "A5013854148",
+     "name": "Craig Yoshioka"
+    },
+    {
+     "id": "A5008247931",
+     "name": "Po\u2010Lin Chiu"
+    },
+    {
+     "id": "A5004711858",
+     "name": "Matthew R. Whorton"
+    },
+    {
+     "id": "A5150009123",
+     "name": "Claudia Lopez"
+    },
+    {
+     "id": "A5067790213",
+     "name": "Andrew B. Ward"
+    },
+    {
+     "id": "A5036859117",
+     "name": "Thomas Tomasiak"
+    },
+    {
+     "id": "A5059977504",
+     "name": "Chih\u2010Chia Su"
+    },
+    {
+     "id": "A5064290751",
+     "name": "Hong Zhan"
+    },
+    {
+     "id": "A5026899432",
+     "name": "Paul Ahlquist"
+    },
+    {
+     "id": "A5029389368",
+     "name": "Tarjani Thaker"
+    },
+    {
+     "id": "A5010162864",
+     "name": "Steve Reichow"
+    },
+    {
+     "id": "A5010100856",
+     "name": "Jonathan Flores"
+    },
+    {
+     "id": "A5068462974",
+     "name": "Janette B. Myers"
+    },
+    {
+     "id": "A5016341309",
+     "name": "Alastair G. Stewart"
+    },
+    {
+     "id": "A5077915889",
+     "name": "Dmitry Lyumkis"
+    },
+    {
+     "id": "A5086058438",
+     "name": "Barry M. Willardson"
+    },
+    {
+     "id": "A5034897475",
+     "name": "Brenda Bass"
+    },
+    {
+     "id": "A5101511308",
+     "name": "Avinash B. Patel"
+    },
+    {
+     "id": "A5034946559",
+     "name": "Eva Nogales"
+    },
+    {
+     "id": "A5149977499",
+     "name": "Karim Armache"
+    },
+    {
+     "id": "A5060948888",
+     "name": "Adam Miller"
+    },
+    {
+     "id": "A5036278166",
+     "name": "Stephen G. Brohawn"
+    },
+    {
+     "id": "A5091645168",
+     "name": "Eduardo Perozo"
+    },
+    {
+     "id": "A5033326746",
+     "name": "Marie Pancera"
+    },
+    {
+     "id": "A5062858479",
+     "name": "Suruchi Singh"
+    },
+    {
+     "id": "A5086715753",
+     "name": "Christopher P. Hill"
+    },
+    {
+     "id": "A5134859685",
+     "name": "Lauren Vega"
+    },
+    {
+     "id": "A5065010425",
+     "name": "Alexis Rohou"
+    },
+    {
+     "id": "A5101481871",
+     "name": "Sun Hur"
+    },
+    {
+     "id": "A5086350164",
+     "name": "Erhu Cao"
+    },
+    {
+     "id": "A5056113892",
+     "name": "Da\u2010Neng Wang"
+    },
+    {
+     "id": "A5087284111",
+     "name": "Richard H. Ebright"
+    },
+    {
+     "id": "A5000452367",
+     "name": "Carlos Escalante"
+    },
+    {
+     "id": "A5030009532",
+     "name": "Hongjin Zheng"
+    },
+    {
+     "id": "A5012592139",
+     "name": "Terje Dokland"
+    },
+    {
+     "id": "A5100673141",
+     "name": "Wei L\u00fc"
+    },
+    {
+     "id": "A5009342054",
+     "name": "Juan Du"
+    },
+    {
+     "id": "A5062277314",
+     "name": "Ryan Hibbs"
+    },
+    {
+     "id": "A5088752189",
+     "name": "Harry Scott"
+    },
+    {
+     "id": "A5036231502",
+     "name": "Nancy Meyer"
+    },
+    {
+     "id": "A5000708308",
+     "name": "Drew S. Gingerich"
+    },
+    {
+     "id": "A5069632365",
+     "name": "Elitza I. Tocheva"
+    },
+    {
+     "id": "A5052217265",
+     "name": "Yongna Xing"
+    },
+    {
+     "id": "A5024189487",
+     "name": "Steven Mansoor"
+    },
+    {
+     "id": "A5048958731",
+     "name": "Songi Han"
+    },
+    {
+     "id": "A5012939975",
+     "name": "Nitesh Khandelwal"
+    },
+    {
+     "id": "A5001461580",
+     "name": "Grant J. Jensen"
+    },
+    {
+     "id": "A5000967722",
+     "name": "Elizabeth Wright"
+    },
+    {
+     "id": "A5062306958",
+     "name": "Nadine M. Shaban"
+    },
+    {
+     "id": "A5035901749",
+     "name": "Reuben S. Harris"
+    },
+    {
+     "id": "A5069672297",
+     "name": "Prashant Rao"
+    },
+    {
+     "id": "A5044199343",
+     "name": "Betty Shen"
+    },
+    {
+     "id": "A5058301775",
+     "name": "Nicholas Schnicker"
+    },
+    {
+     "id": "A5076214468",
+     "name": "Juliette Tinker"
+    },
+    {
+     "id": "A5061620397",
+     "name": "Ronen Marmorstein"
+    },
+    {
+     "id": "A5070766526",
+     "name": "Navtej Toor"
+    },
+    {
+     "id": "A5015579596",
+     "name": "David W. Christianson"
+    },
+    {
+     "id": "A5003693891",
+     "name": "R.M. Voorhees"
+    },
+    {
+     "id": "A5040105991",
+     "name": "Louis Hollingsworth"
+    },
+    {
+     "id": "A5015056220",
+     "name": "Hao Wu"
+    }
+   ],
+   "faculty": [],
+   "has_preprint": false
+  },
+  {
+   "id": "W7208735787",
+   "title": "Data for EMSL Project 50414 from July 2025",
+   "date": "2026-09-04",
+   "year": 2026,
+   "type": "dataset",
+   "journal": "DOE Pacific Northwest National Laboratory (PNNL) Repository",
+   "source_type": "repository",
+   "volume": "",
+   "issue": "",
+   "pages": "",
+   "doi": "https://doi.org/10.25582/data.2025-07.3545266/3682246",
+   "url": "https://doi.org/10.25582/data.2025-07.3545266/3682246",
+   "is_oa": true,
+   "oa_url": "https://doi.org/10.25582/data.2025-07.3545266/3682246",
+   "citations": 0,
+   "authors": [
+    {
+     "id": "A5075571602",
+     "name": "Marat Valiev"
+    },
+    {
+     "id": "A5150033633",
+     "name": "David Cowley"
+    },
+    {
+     "id": "A5053192926",
+     "name": "David Baker"
+    },
+    {
+     "id": "A5009158927",
+     "name": "David Brown"
+    },
+    {
+     "id": "A5019884843",
+     "name": "Scott Baker"
+    },
+    {
+     "id": "A5133775302",
+     "name": "Evan Felix"
+    },
+    {
+     "id": "A5100362078",
+     "name": "Jun Liu"
+    },
+    {
+     "id": "A5000749808",
+     "name": "Bradley M. Tebo"
+    },
+    {
+     "id": "A5100422167",
+     "name": "Rui Zhang"
+    },
+    {
+     "id": "A5020468097",
+     "name": "Elan Eisenmesser"
+    },
+    {
+     "id": "A5021584861",
+     "name": "Jaydeep P. Bardhan"
+    },
+    {
+     "id": "A5108945422",
+     "name": "Kenneth Schmidt"
+    },
+    {
+     "id": "A5150046812",
+     "name": "Ryan Wright"
+    },
+    {
+     "id": "A5132564885",
+     "name": "James Evans"
+    },
+    {
+     "id": "A5132564885",
+     "name": "James Evans"
+    },
+    {
+     "id": "A5132564885",
+     "name": "James Evans"
+    },
+    {
+     "id": "A5132564885",
+     "name": "James Evans"
+    },
+    {
+     "id": "A5008050382",
+     "name": "Eric Barklis"
+    },
+    {
+     "id": "A5149993016",
+     "name": "Alexandra Soldatova"
+    },
+    {
+     "id": "A5078603869",
+     "name": "Jochen Zimmer"
+    },
+    {
+     "id": "A5134927615",
+     "name": "Trevor Moser"
+    },
+    {
+     "id": "A5134927615",
+     "name": "Trevor Moser"
+    },
+    {
+     "id": "A5033295580",
+     "name": "Michelle O\u2019Malley"
+    },
+    {
+     "id": "A5149985608",
+     "name": "Irina El Khoury"
+    },
+    {
+     "id": "A5149985608",
+     "name": "Irina El Khoury"
+    },
+    {
+     "id": "A5061217668",
+     "name": "Todd O. Yeates"
+    },
+    {
+     "id": "A5076724110",
+     "name": "Benjamin Philmus"
+    },
+    {
+     "id": "A5088125571",
+     "name": "Eric Gouaux"
+    },
+    {
+     "id": "A5088125571",
+     "name": "Eric Gouaux"
+    },
+    {
+     "id": "A5150014409",
+     "name": "Michael Chapman"
+    },
+    {
+     "id": "A5150014409",
+     "name": "Michael Chapman"
+    },
+    {
+     "id": "A5090735854",
+     "name": "Show\u2010Ling Shyng"
+    },
+    {
+     "id": "A5037692933",
+     "name": "Peter Shen"
+    },
+    {
+     "id": "A5048966571",
+     "name": "John J. Tanner"
+    },
+    {
+     "id": "A5084950637",
+     "name": "Heidi Schubert"
+    },
+    {
+     "id": "A5085520710",
+     "name": "Isabelle Baconguis"
+    },
+    {
+     "id": "A5041178823",
+     "name": "Richard Posert"
+    },
+    {
+     "id": "A5026207979",
+     "name": "Damian C. Ekiert"
+    },
+    {
+     "id": "A5066717627",
+     "name": "Gira Bhabha"
+    },
+    {
+     "id": "A5055117782",
+     "name": "Nicolas Coudray"
+    },
+    {
+     "id": "A5013854148",
+     "name": "Craig Yoshioka"
+    },
+    {
+     "id": "A5008247931",
+     "name": "Po\u2010Lin Chiu"
+    },
+    {
+     "id": "A5004711858",
+     "name": "Matthew R. Whorton"
+    },
+    {
+     "id": "A5150009123",
+     "name": "Claudia Lopez"
+    },
+    {
+     "id": "A5067790213",
+     "name": "Andrew B. Ward"
+    },
+    {
+     "id": "A5036859117",
+     "name": "Thomas Tomasiak"
+    },
+    {
+     "id": "A5059977504",
+     "name": "Chih\u2010Chia Su"
+    },
+    {
+     "id": "A5064290751",
+     "name": "Hong Zhan"
+    },
+    {
+     "id": "A5026899432",
+     "name": "Paul Ahlquist"
+    },
+    {
+     "id": "A5029389368",
+     "name": "Tarjani Thaker"
+    },
+    {
+     "id": "A5010162864",
+     "name": "Steve Reichow"
+    },
+    {
+     "id": "A5010100856",
+     "name": "Jonathan Flores"
+    },
+    {
+     "id": "A5068462974",
+     "name": "Janette B. Myers"
+    },
+    {
+     "id": "A5016341309",
+     "name": "Alastair G. Stewart"
+    },
+    {
+     "id": "A5077915889",
+     "name": "Dmitry Lyumkis"
+    },
+    {
+     "id": "A5086058438",
+     "name": "Barry M. Willardson"
+    },
+    {
+     "id": "A5034897475",
+     "name": "Brenda Bass"
+    },
+    {
+     "id": "A5101511308",
+     "name": "Avinash B. Patel"
+    },
+    {
+     "id": "A5034946559",
+     "name": "Eva Nogales"
+    },
+    {
+     "id": "A5149977499",
+     "name": "Karim Armache"
+    },
+    {
+     "id": "A5060948888",
+     "name": "Adam Miller"
+    },
+    {
+     "id": "A5036278166",
+     "name": "Stephen G. Brohawn"
+    },
+    {
+     "id": "A5091645168",
+     "name": "Eduardo Perozo"
+    },
+    {
+     "id": "A5033326746",
+     "name": "Marie Pancera"
+    },
+    {
+     "id": "A5062858479",
+     "name": "Suruchi Singh"
+    },
+    {
+     "id": "A5086715753",
+     "name": "Christopher P. Hill"
+    },
+    {
+     "id": "A5134859685",
+     "name": "Lauren Vega"
+    },
+    {
+     "id": "A5065010425",
+     "name": "Alexis Rohou"
+    },
+    {
+     "id": "A5101481871",
+     "name": "Sun Hur"
+    },
+    {
+     "id": "A5086350164",
+     "name": "Erhu Cao"
+    },
+    {
+     "id": "A5056113892",
+     "name": "Da\u2010Neng Wang"
+    },
+    {
+     "id": "A5087284111",
+     "name": "Richard H. Ebright"
+    },
+    {
+     "id": "A5000452367",
+     "name": "Carlos Escalante"
+    },
+    {
+     "id": "A5030009532",
+     "name": "Hongjin Zheng"
+    },
+    {
+     "id": "A5012592139",
+     "name": "Terje Dokland"
+    },
+    {
+     "id": "A5100673141",
+     "name": "Wei L\u00fc"
+    },
+    {
+     "id": "A5009342054",
+     "name": "Juan Du"
+    },
+    {
+     "id": "A5062277314",
+     "name": "Ryan Hibbs"
+    },
+    {
+     "id": "A5088752189",
+     "name": "Harry Scott"
+    },
+    {
+     "id": "A5036231502",
+     "name": "Nancy Meyer"
+    },
+    {
+     "id": "A5000708308",
+     "name": "Drew S. Gingerich"
+    },
+    {
+     "id": "A5069632365",
+     "name": "Elitza I. Tocheva"
+    },
+    {
+     "id": "A5052217265",
+     "name": "Yongna Xing"
+    },
+    {
+     "id": "A5024189487",
+     "name": "Steven Mansoor"
+    },
+    {
+     "id": "A5048958731",
+     "name": "Songi Han"
+    },
+    {
+     "id": "A5012939975",
+     "name": "Nitesh Khandelwal"
+    },
+    {
+     "id": "A5001461580",
+     "name": "Grant J. Jensen"
+    },
+    {
+     "id": "A5000967722",
+     "name": "Elizabeth Wright"
+    },
+    {
+     "id": "A5062306958",
+     "name": "Nadine M. Shaban"
+    },
+    {
+     "id": "A5035901749",
+     "name": "Reuben S. Harris"
+    },
+    {
+     "id": "A5069672297",
+     "name": "Prashant Rao"
+    },
+    {
+     "id": "A5044199343",
+     "name": "Betty Shen"
+    },
+    {
+     "id": "A5058301775",
+     "name": "Nicholas Schnicker"
+    },
+    {
+     "id": "A5076214468",
+     "name": "Juliette Tinker"
+    },
+    {
+     "id": "A5061620397",
+     "name": "Ronen Marmorstein"
+    },
+    {
+     "id": "A5070766526",
+     "name": "Navtej Toor"
+    },
+    {
+     "id": "A5015579596",
+     "name": "David W. Christianson"
+    },
+    {
+     "id": "A5003693891",
+     "name": "R.M. Voorhees"
+    },
+    {
+     "id": "A5040105991",
+     "name": "Louis Hollingsworth"
+    },
+    {
+     "id": "A5015056220",
+     "name": "Hao Wu"
+    }
+   ],
+   "faculty": [],
+   "has_preprint": false
+  },
+  {
+   "id": "W7208720713",
+   "title": "Data for EMSL Project 50414 from August 2025",
+   "date": "2026-09-04",
+   "year": 2026,
+   "type": "dataset",
+   "journal": "DOE Pacific Northwest National Laboratory (PNNL) Repository",
+   "source_type": "repository",
+   "volume": "",
+   "issue": "",
+   "pages": "",
+   "doi": "https://doi.org/10.25582/data.2025-08.3552568/3682251",
+   "url": "https://doi.org/10.25582/data.2025-08.3552568/3682251",
+   "is_oa": true,
+   "oa_url": "https://doi.org/10.25582/data.2025-08.3552568/3682251",
+   "citations": 0,
+   "authors": [
+    {
+     "id": "A5075571602",
+     "name": "Marat Valiev"
+    },
+    {
+     "id": "A5150033633",
+     "name": "David Cowley"
+    },
+    {
+     "id": "A5053192926",
+     "name": "David Baker"
+    },
+    {
+     "id": "A5009158927",
+     "name": "David Brown"
+    },
+    {
+     "id": "A5019884843",
+     "name": "Scott Baker"
+    },
+    {
+     "id": "A5133775302",
+     "name": "Evan Felix"
+    },
+    {
+     "id": "A5100362078",
+     "name": "Jun Liu"
+    },
+    {
+     "id": "A5000749808",
+     "name": "Bradley M. Tebo"
+    },
+    {
+     "id": "A5100422167",
+     "name": "Rui Zhang"
+    },
+    {
+     "id": "A5020468097",
+     "name": "Elan Eisenmesser"
+    },
+    {
+     "id": "A5021584861",
+     "name": "Jaydeep P. Bardhan"
+    },
+    {
+     "id": "A5108945422",
+     "name": "Kenneth Schmidt"
+    },
+    {
+     "id": "A5150046812",
+     "name": "Ryan Wright"
+    },
+    {
+     "id": "A5132564885",
+     "name": "James Evans"
+    },
+    {
+     "id": "A5132564885",
+     "name": "James Evans"
+    },
+    {
+     "id": "A5132564885",
+     "name": "James Evans"
+    },
+    {
+     "id": "A5132564885",
+     "name": "James Evans"
+    },
+    {
+     "id": "A5008050382",
+     "name": "Eric Barklis"
+    },
+    {
+     "id": "A5149993016",
+     "name": "Alexandra Soldatova"
+    },
+    {
+     "id": "A5078603869",
+     "name": "Jochen Zimmer"
+    },
+    {
+     "id": "A5134927615",
+     "name": "Trevor Moser"
+    },
+    {
+     "id": "A5134927615",
+     "name": "Trevor Moser"
+    },
+    {
+     "id": "A5033295580",
+     "name": "Michelle O\u2019Malley"
+    },
+    {
+     "id": "A5149985608",
+     "name": "Irina El Khoury"
+    },
+    {
+     "id": "A5149985608",
+     "name": "Irina El Khoury"
+    },
+    {
+     "id": "A5061217668",
+     "name": "Todd O. Yeates"
+    },
+    {
+     "id": "A5076724110",
+     "name": "Benjamin Philmus"
+    },
+    {
+     "id": "A5088125571",
+     "name": "Eric Gouaux"
+    },
+    {
+     "id": "A5088125571",
+     "name": "Eric Gouaux"
+    },
+    {
+     "id": "A5150014409",
+     "name": "Michael Chapman"
+    },
+    {
+     "id": "A5150014409",
+     "name": "Michael Chapman"
+    },
+    {
+     "id": "A5090735854",
+     "name": "Show\u2010Ling Shyng"
+    },
+    {
+     "id": "A5037692933",
+     "name": "Peter Shen"
+    },
+    {
+     "id": "A5048966571",
+     "name": "John J. Tanner"
+    },
+    {
+     "id": "A5084950637",
+     "name": "Heidi Schubert"
+    },
+    {
+     "id": "A5085520710",
+     "name": "Isabelle Baconguis"
+    },
+    {
+     "id": "A5041178823",
+     "name": "Richard Posert"
+    },
+    {
+     "id": "A5026207979",
+     "name": "Damian C. Ekiert"
+    },
+    {
+     "id": "A5066717627",
+     "name": "Gira Bhabha"
+    },
+    {
+     "id": "A5055117782",
+     "name": "Nicolas Coudray"
+    },
+    {
+     "id": "A5013854148",
+     "name": "Craig Yoshioka"
+    },
+    {
+     "id": "A5008247931",
+     "name": "Po\u2010Lin Chiu"
+    },
+    {
+     "id": "A5004711858",
+     "name": "Matthew R. Whorton"
+    },
+    {
+     "id": "A5150009123",
+     "name": "Claudia Lopez"
+    },
+    {
+     "id": "A5067790213",
+     "name": "Andrew B. Ward"
+    },
+    {
+     "id": "A5036859117",
+     "name": "Thomas Tomasiak"
+    },
+    {
+     "id": "A5059977504",
+     "name": "Chih\u2010Chia Su"
+    },
+    {
+     "id": "A5064290751",
+     "name": "Hong Zhan"
+    },
+    {
+     "id": "A5026899432",
+     "name": "Paul Ahlquist"
+    },
+    {
+     "id": "A5029389368",
+     "name": "Tarjani Thaker"
+    },
+    {
+     "id": "A5010162864",
+     "name": "Steve Reichow"
+    },
+    {
+     "id": "A5010100856",
+     "name": "Jonathan Flores"
+    },
+    {
+     "id": "A5068462974",
+     "name": "Janette B. Myers"
+    },
+    {
+     "id": "A5016341309",
+     "name": "Alastair G. Stewart"
+    },
+    {
+     "id": "A5077915889",
+     "name": "Dmitry Lyumkis"
+    },
+    {
+     "id": "A5086058438",
+     "name": "Barry M. Willardson"
+    },
+    {
+     "id": "A5034897475",
+     "name": "Brenda Bass"
+    },
+    {
+     "id": "A5101511308",
+     "name": "Avinash B. Patel"
+    },
+    {
+     "id": "A5034946559",
+     "name": "Eva Nogales"
+    },
+    {
+     "id": "A5149977499",
+     "name": "Karim Armache"
+    },
+    {
+     "id": "A5060948888",
+     "name": "Adam Miller"
+    },
+    {
+     "id": "A5036278166",
+     "name": "Stephen G. Brohawn"
+    },
+    {
+     "id": "A5091645168",
+     "name": "Eduardo Perozo"
+    },
+    {
+     "id": "A5033326746",
+     "name": "Marie Pancera"
+    },
+    {
+     "id": "A5062858479",
+     "name": "Suruchi Singh"
+    },
+    {
+     "id": "A5086715753",
+     "name": "Christopher P. Hill"
+    },
+    {
+     "id": "A5134859685",
+     "name": "Lauren Vega"
+    },
+    {
+     "id": "A5065010425",
+     "name": "Alexis Rohou"
+    },
+    {
+     "id": "A5101481871",
+     "name": "Sun Hur"
+    },
+    {
+     "id": "A5086350164",
+     "name": "Erhu Cao"
+    },
+    {
+     "id": "A5056113892",
+     "name": "Da\u2010Neng Wang"
+    },
+    {
+     "id": "A5087284111",
+     "name": "Richard H. Ebright"
+    },
+    {
+     "id": "A5000452367",
+     "name": "Carlos Escalante"
+    },
+    {
+     "id": "A5030009532",
+     "name": "Hongjin Zheng"
+    },
+    {
+     "id": "A5012592139",
+     "name": "Terje Dokland"
+    },
+    {
+     "id": "A5100673141",
+     "name": "Wei L\u00fc"
+    },
+    {
+     "id": "A5009342054",
+     "name": "Juan Du"
+    },
+    {
+     "id": "A5062277314",
+     "name": "Ryan Hibbs"
+    },
+    {
+     "id": "A5088752189",
+     "name": "Harry Scott"
+    },
+    {
+     "id": "A5036231502",
+     "name": "Nancy Meyer"
+    },
+    {
+     "id": "A5000708308",
+     "name": "Drew S. Gingerich"
+    },
+    {
+     "id": "A5069632365",
+     "name": "Elitza I. Tocheva"
+    },
+    {
+     "id": "A5052217265",
+     "name": "Yongna Xing"
+    },
+    {
+     "id": "A5024189487",
+     "name": "Steven Mansoor"
+    },
+    {
+     "id": "A5048958731",
+     "name": "Songi Han"
+    },
+    {
+     "id": "A5012939975",
+     "name": "Nitesh Khandelwal"
+    },
+    {
+     "id": "A5001461580",
+     "name": "Grant J. Jensen"
+    },
+    {
+     "id": "A5000967722",
+     "name": "Elizabeth Wright"
+    },
+    {
+     "id": "A5062306958",
+     "name": "Nadine M. Shaban"
+    },
+    {
+     "id": "A5035901749",
+     "name": "Reuben S. Harris"
+    },
+    {
+     "id": "A5069672297",
+     "name": "Prashant Rao"
+    },
+    {
+     "id": "A5044199343",
+     "name": "Betty Shen"
+    },
+    {
+     "id": "A5058301775",
+     "name": "Nicholas Schnicker"
+    },
+    {
+     "id": "A5076214468",
+     "name": "Juliette Tinker"
+    },
+    {
+     "id": "A5061620397",
+     "name": "Ronen Marmorstein"
+    },
+    {
+     "id": "A5070766526",
+     "name": "Navtej Toor"
+    },
+    {
+     "id": "A5015579596",
+     "name": "David W. Christianson"
+    },
+    {
+     "id": "A5003693891",
+     "name": "R.M. Voorhees"
+    },
+    {
+     "id": "A5040105991",
+     "name": "Louis Hollingsworth"
+    },
+    {
+     "id": "A5015056220",
+     "name": "Hao Wu"
+    }
+   ],
+   "faculty": [],
+   "has_preprint": false
+  },
+  {
+   "id": "W7204814780",
+   "title": "Two blind spots in the demographic inference of human origins from genomic data",
+   "date": "2026-08-27",
+   "year": 2026,
+   "type": "preprint",
+   "journal": "PubMed",
+   "source_type": "repository",
+   "volume": "",
+   "issue": "",
+   "pages": "",
+   "doi": "https://doi.org/10.48550/arxiv.2608.27591",
+   "url": "https://doi.org/10.48550/arxiv.2608.27591",
+   "is_oa": true,
+   "oa_url": "https://arxiv.org/pdf/2608.27591",
+   "citations": 0,
+   "authors": [
+    {
+     "id": "A5056381387",
+     "name": "Ryan N. Gutenkunst"
+    }
+   ],
+   "faculty": [
+    "Ryan Gutenkunst"
+   ],
+   "has_preprint": false
+  },
   {
    "id": "W7203640933",
    "title": "A traveling network model predicts emergent dynamics and search behavior from local remodeling in Physarum polycephalum",
@@ -394,7 +1684,7 @@
    "date": "2026-07-16",
    "year": 2026,
    "type": "dataset",
-   "journal": "Open MIND",
+   "journal": "ReDATA",
    "source_type": "repository",
    "volume": "",
    "issue": "",
@@ -402,7 +1692,7 @@
    "doi": "https://doi.org/10.25422/azu.data.32953157",
    "url": "https://doi.org/10.25422/azu.data.32953157",
    "is_oa": true,
-   "oa_url": "https://repository.oceanbestpractices.org/bitstream/handle/11329/1994/Strickland-Parsons_1972.pdf?sequence=1&isAllowed=y",
+   "oa_url": "https://doi.org/10.25422/azu.data.32953157",
    "citations": 0,
    "authors": [
     {
@@ -431,13 +1721,13 @@
    "type": "article",
    "journal": "Genetics",
    "source_type": "journal",
-   "volume": "",
-   "issue": "",
+   "volume": "234",
+   "issue": "1",
    "pages": "",
    "doi": "https://doi.org/10.1093/genetics/iyag183",
    "url": "https://doi.org/10.1093/genetics/iyag183",
    "is_oa": true,
-   "oa_url": "",
+   "oa_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13535224/",
    "citations": 0,
    "authors": [
     {
@@ -489,7 +1779,7 @@
    "url": "https://doi.org/10.55730/1300-008x.2906",
    "is_oa": true,
    "oa_url": "https://doi.org/10.55730/1300-008x.2906",
-   "citations": 0,
+   "citations": 1,
    "authors": [
     {
      "id": "A5100561344",
@@ -3186,45 +4476,6 @@
     {
      "id": "A5005571919",
      "name": "Andrew D. Kern"
-    }
-   ],
-   "faculty": [
-    "Ryan Gutenkunst"
-   ],
-   "has_preprint": false
-  },
-  {
-   "id": "W4413902577",
-   "title": "Bistable Mutation-Selection Equilibria and Violations of Fisher\u2019s Theorem in Tetraploids: Insights from Nonlinear Dynamics",
-   "date": "2025-09-01",
-   "year": 2025,
-   "type": "preprint",
-   "journal": "bioRxiv (Cold Spring Harbor Laboratory)",
-   "source_type": "repository",
-   "volume": "",
-   "issue": "",
-   "pages": "",
-   "doi": "https://doi.org/10.1101/2025.08.28.672890",
-   "url": "https://doi.org/10.1101/2025.08.28.672890",
-   "is_oa": true,
-   "oa_url": "https://doi.org/10.1101/2025.08.28.672890",
-   "citations": 0,
-   "authors": [
-    {
-     "id": "A5119509029",
-     "name": "Samuel R Gibbon"
-    },
-    {
-     "id": "A5088672847",
-     "name": "Justin L. Conover"
-    },
-    {
-     "id": "A5024260603",
-     "name": "Michael S. Barker"
-    },
-    {
-     "id": "A5056381387",
-     "name": "Ryan N. Gutenkunst"
     }
    ],
    "faculty": [
