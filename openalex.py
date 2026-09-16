@@ -210,6 +210,16 @@ def works_by_authors(author_ids, mailto, from_date=None, pause=0.2, on_request=N
                 time.sleep(pause)
 
 
+def full_authorships(work_id, mailto):
+    """Complete author list for one work.
+
+    List endpoints truncate authorships at 100 entries, so a department member
+    far down a large consortium paper is invisible there. The single-work
+    endpoint returns everyone, at a cost of one credit.
+    """
+    work = _get("works/{}".format(short_id(work_id)), {"select": "id,authorships"}, mailto)
+    return work.get("authorships") or []
+
 def authors_by_ids(author_ids, mailto):
     """Look up author records in bulk. Returns {id: {...}} for those that exist.
 

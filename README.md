@@ -217,8 +217,13 @@ tweak the styling) without re-querying the API.
   article. These are merged by title plus shared authorship, keeping the
   journal version and noting that a preprint exists. `--no-collapse` turns
   this off.
-- Records that are clearly not publications (peer review reports, grants,
-  errata, front matter) are filtered out; see `NOISE_TYPES` in `fetch_pubs.py`.
+- Records that are clearly not publications (datasets, peer review reports,
+  grants, errata, front matter) are filtered out; see `NOISE_TYPES` in
+  `fetch_pubs.py`. Datasets matter most: facility repositories such as PNNL's
+  EMSL deposit monthly records listing every facility user as an author.
+- OpenAlex list results show at most 100 authors per work. When a work matches
+  but no department member is among those 100, the full author list is fetched
+  (one extra call), so people deep in large consortium papers still count.
 - Very recent papers can take a few weeks to appear in OpenAlex.
 - `publication_date` is OpenAlex's best guess and sometimes reflects the online
   date rather than the issue date.

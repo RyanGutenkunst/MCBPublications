@@ -30,6 +30,9 @@ NOISE_TYPES = {
     "reference-entry",
     "other",
     "supplementary-materials",
+    # Data deposits, not papers. Facility repositories (e.g. PNNL's EMSL) file
+    # a monthly record listing every facility user as an author.
+    "dataset",
 }
 
 # How far back to look when no --since is given. This is a rolling window
@@ -190,6 +193,15 @@ def collapse_versions(publications):
     return sorted(merged, key=lambda w: (w["date"], w["title"]), reverse=True)
 
 
+def _attribute(record, authorships, owner):
+    """Tag record with every roster member found in authorships."""
+    for authorship in authorships or []:
+        author_id = openalex.short_id((authorship.get("author") or {}).get("id"))
+        name = owner.get(author_id)
+        if name and name not in record["faculty"]:
+            record["faculty"].append(name)
+
+
 def collect(
     people,
     mailto,
@@ -240,11 +252,7 @@ def collect(
 
             # A batched query returns the union, so work out who it belongs to
             # by looking for roster IDs among the authors.
-            for authorship in work.get("authorships") or []:
-                author_id = openalex.short_id((authorship.get("author") or {}).get("id"))
-                name = owner.get(author_id)
-                if name and name not in record["faculty"]:
-                    record["faculty"].append(name)
+            _attribute(record, work.get("authorships"), owner)
     except openalex.RateLimitError:
         # Partial results are worse than none here: the page would silently
         # lose whoever came last, so stop and let the caller report it.
@@ -254,6 +262,25 @@ def collect(
         errors.append(str(exc))
         if verbose:
             print("  ! {}".format(exc), file=sys.stderr)
+
+    # A work the query matched but where no roster member was found must have
+    # had its author list truncated (list responses stop at 100 authors).
+    # Fetch the full list for just those; drop any that still don't match.
+    unattributed = [r for r in by_work.values() if not r["faculty"]]
+    for record in unattributed:
+        try:
+            authorships = openalex.full_authorships(record["id"], mailto)
+            requests[0] += 1
+        except openalex.RateLimitError:
+            raise
+        except openalex.OpenAlexError as exc:
+            errors.append(str(exc))
+            authorships = []
+        _attribute(record, authorships, owner)
+        if not record["faculty"]:
+            del by_work[record["id"]]
+    if verbose and unattributed:
+        print("  looked up full author lists for {} large-team work(s)".format(len(unattributed)))
 
     for record in by_work.values():
         for name in record["faculty"]:
