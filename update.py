@@ -25,6 +25,7 @@ def main(argv=None):
     parser.add_argument("--all", action="store_true", help="no date limit")
     parser.add_argument("--no-preprints", action="store_true", help="exclude preprints")
     parser.add_argument("--keep-abstracts", action="store_true", help="include conference/meeting abstracts")
+    parser.add_argument("--no-promote", action="store_true", help="skip journal-version lookup")
     parser.add_argument("--no-collapse", action="store_true", help="list preprint and published versions separately")
     parser.add_argument("--title", default="MCB Recent Publications", help="page heading")
     parser.add_argument("--api-key", default=os.environ.get("OPENALEX_API_KEY", ""),
@@ -45,6 +46,8 @@ def main(argv=None):
         fetch_argv.append("--keep-abstracts")
     if args.no_collapse:
         fetch_argv.append("--no-collapse")
+    if args.no_promote:
+        fetch_argv.append("--no-promote")
     if args.api_key:
         fetch_argv += ["--api-key", args.api_key]
     if args.mailto:

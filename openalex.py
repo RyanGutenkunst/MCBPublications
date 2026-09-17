@@ -210,6 +210,24 @@ def works_by_authors(author_ids, mailto, from_date=None, pause=0.2, on_request=N
                 time.sleep(pause)
 
 
+def works_by_title(title, mailto, per_page=10):
+    """Search works by title. Used to find the journal version of a preprint.
+
+    Commas and colons are stripped because they are filter syntax in OpenAlex,
+    and only the first words are kept: title.search is a text search, so a long
+    exact string matches no better than its distinctive opening.
+    """
+    cleaned = " ".join(title.replace(",", " ").replace(":", " ").split()[:14])
+    if not cleaned:
+        return []
+    page = _get(
+        "works",
+        {"filter": "title.search:{}".format(cleaned), "per-page": per_page,
+         "select": ",".join(WORK_FIELDS)},
+        mailto,
+    )
+    return page.get("results", [])
+
 def full_authorships(work_id, mailto):
     """Complete author list for one work.
 

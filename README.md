@@ -217,6 +217,14 @@ tweak the styling) without re-querying the API.
   article. These are merged by title plus shared authorship, keeping the
   journal version and noting that a preprint exists. `--no-collapse` turns
   this off.
+- The journal article is always preferred. Merging alone cannot guarantee that,
+  because the journal version is often missing from the author query: it may
+  predate the window, or OpenAlex may not credit the department member on it.
+  So every non-journal record is looked up by title, and replaced if a journal
+  version turns up. If that journal version predates the window, the entry is
+  dropped — the paper was published earlier and only a late repository deposit
+  made it look recent. `--no-promote` turns this off; it costs one search per
+  non-journal record.
 - Records that are clearly not publications (datasets, peer review reports,
   grants, errata, front matter) are filtered out; see `NOISE_TYPES` in
   `fetch_pubs.py`. Datasets matter most: facility repositories such as PNNL's

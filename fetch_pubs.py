@@ -193,6 +193,75 @@ def collapse_versions(publications):
     return sorted(merged, key=lambda w: (w["date"], w["title"]), reverse=True)
 
 
+def promote_journal_versions(publications, mailto, since=None, verbose=True, on_request=None):
+    """Replace preprint/repository records with the journal article, if one exists.
+
+    collapse_versions() can only choose among records the author query returned,
+    and the journal version is often missing from that set: it may predate the
+    window (a repository deposit years later drags the old paper back in), or
+    OpenAlex may not credit the department member on it. So for every record
+    that is not already from a journal, search by title for one that is.
+
+    A match must have the same normalized title and share an author, which keeps
+    same-titled but unrelated papers apart. If the journal version turns out to
+    predate the window, the entry is dropped: the paper was published earlier
+    and only a late deposit made it look recent.
+    """
+    promoted = dropped = 0
+    out = []
+    for pub in publications:
+        if pub["source_type"] == "journal":
+            out.append(pub)
+            continue
+
+        try:
+            if on_request:
+                on_request()
+            candidates = openalex.works_by_title(pub["title"], mailto)
+        except openalex.RateLimitError:
+            raise
+        except openalex.OpenAlexError:
+            out.append(pub)
+            continue
+
+        key = _title_key(pub["title"])
+        mine = {a["id"] for a in pub["authors"] if a["id"]}
+        best = None
+        for cand in candidates:
+            if cand.get("type") in NOISE_TYPES or cand.get("type") == "preprint":
+                continue
+            record = normalize(cand)
+            if record["source_type"] != "journal" or _title_key(record["title"]) != key:
+                continue
+            if mine and not (mine & {a["id"] for a in record["authors"] if a["id"]}):
+                continue
+            if best is None or record["citations"] > best["citations"]:
+                best = record
+        if best is None:
+            out.append(pub)
+            continue
+
+        if since and best["date"] < since:
+            # Published before the window; the recent-looking record was only a
+            # later deposit of the same paper.
+            dropped += 1
+            continue
+
+        best["faculty"] = list(pub["faculty"])
+        best["citations"] = max(best["citations"], pub["citations"])
+        best["is_oa"] = best["is_oa"] or pub["is_oa"]
+        best["has_preprint"] = pub["has_preprint"] or pub["type"] == "preprint"
+        out.append(best)
+        promoted += 1
+
+    if verbose and (promoted or dropped):
+        print("  promoted {} record(s) to the journal version"
+              "{}".format(promoted,
+                          "; dropped {} already published before the window".format(dropped)
+                          if dropped else ""))
+    return sorted(out, key=lambda w: (w["date"], w["title"]), reverse=True)
+
+
 def _attribute(record, authorships, owner):
     """Tag record with every roster member found in authorships."""
     for authorship in authorships or []:
@@ -209,6 +278,7 @@ def collect(
     keep_preprints=True,
     keep_abstracts=False,
     collapse=True,
+    promote=True,
     verbose=True,
 ):
     """Fetch every roster member's works and merge them into one deduped list.
@@ -324,6 +394,11 @@ def collect(
     for pub in publications:
         pub["faculty"].sort()
 
+    if promote:
+        publications = promote_journal_versions(
+            publications, mailto, since=since, verbose=verbose, on_request=count_request
+        )
+
     if collapse:
         before = len(publications)
         publications = collapse_versions(publications)
@@ -344,6 +419,12 @@ def main(argv=None):
     parser.add_argument("--all", action="store_true", help="fetch every publication, no date limit")
     parser.add_argument("--no-preprints", action="store_true", help="exclude preprints (bioRxiv etc.)")
     parser.add_argument("--keep-abstracts", action="store_true", help="include conference/meeting abstracts")
+    parser.add_argument(
+        "--no-promote",
+        action="store_true",
+        help="keep preprint/repository records as-is instead of looking up the "
+             "journal version of each (saves one call per such record)",
+    )
     parser.add_argument(
         "--no-collapse",
         action="store_true",

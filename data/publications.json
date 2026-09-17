@@ -1,6 +1,6 @@
 {
- "generated": "2026-09-16T20:14:39",
- "since": "2025-09-16",
+ "generated": "2026-09-17T13:30:32",
+ "since": "2025-09-17",
  "faculty": [
   "Ross Buchan",
   "Gail Burd",
@@ -511,7 +511,7 @@
    "faculty": [
     "Keith Maggert"
    ],
-   "has_preprint": true
+   "has_preprint": false
   },
   {
    "id": "W7169842833",
@@ -875,73 +875,6 @@
    "has_preprint": true
   },
   {
-   "id": "W7160378674",
-   "title": "Viral and host network analysis of the human cytomegalovirus transcriptome in latency.",
-   "date": "2026-05-06",
-   "year": 2026,
-   "type": "article",
-   "journal": "UNC Libraries",
-   "source_type": "repository",
-   "volume": "",
-   "issue": "",
-   "pages": "",
-   "doi": "https://doi.org/10.17615/hjqx-zv56",
-   "url": "https://doi.org/10.17615/hjqx-zv56",
-   "is_oa": true,
-   "oa_url": "https://doi.org/10.17615/hjqx-zv56",
-   "citations": 0,
-   "authors": [
-    {
-     "id": "A5135447247",
-     "name": "Nathaniel J Moorman"
-    },
-    {
-     "id": "A5028947843",
-     "name": "David R. McKinzey"
-    },
-    {
-     "id": "A5057903275",
-     "name": "Megha Padi"
-    },
-    {
-     "id": "A5135431007",
-     "name": "Diogo De Oliveira Pessoa"
-    },
-    {
-     "id": "A5125390998",
-     "name": "Michael Daily"
-    },
-    {
-     "id": "A5135520674",
-     "name": "Kristen Zarrella"
-    },
-    {
-     "id": "A5045201171",
-     "name": "Christopher J. Parkins"
-    },
-    {
-     "id": "A5006646838",
-     "name": "Jeremy P. Kamil"
-    },
-    {
-     "id": "A5135441285",
-     "name": "Donna Collins-McMillen"
-    },
-    {
-     "id": "A5060181765",
-     "name": "Patrizia Caposio"
-    },
-    {
-     "id": "A5065542116",
-     "name": "Felicia Goodrum"
-    }
-   ],
-   "faculty": [
-    "Megha Padi"
-   ],
-   "has_preprint": false
-  },
-  {
    "id": "W7155559116",
    "title": "Cross-Attention Over RNA And Protein Sequences Enables Generalizable Interaction Prediction",
    "date": "2026-04-23",
@@ -1228,25 +1161,25 @@
    "has_preprint": false
   },
   {
-   "id": "W7131867172",
+   "id": "W7131892516",
    "title": "Helping people navigate and make sense of cancer information: challenges and perspectives",
    "date": "2026-02-27",
    "year": 2026,
    "type": "article",
-   "journal": "Figshare",
-   "source_type": "repository",
-   "volume": "",
-   "issue": "",
-   "pages": "",
-   "doi": "https://doi.org/10.6084/m9.figshare.31430083.v1",
-   "url": "https://doi.org/10.6084/m9.figshare.31430083.v1",
+   "journal": "Future Oncology",
+   "source_type": "journal",
+   "volume": "22",
+   "issue": "6",
+   "pages": "617-623",
+   "doi": "https://doi.org/10.1080/14796694.2026.2628969",
+   "url": "https://doi.org/10.1080/14796694.2026.2628969",
    "is_oa": true,
-   "oa_url": "https://doi.org/10.6084/m9.figshare.31430083.v1",
+   "oa_url": "https://www.tandfonline.com/doi/pdf/10.1080/14796694.2026.2628969?needAccess=true",
    "citations": 0,
    "authors": [
     {
-     "id": "A5113678115",
-     "name": "Lisa F. Rezende"
+     "id": "A5047637525",
+     "name": "LF Rezende"
     },
     {
      "id": "A5099142258",
@@ -1359,7 +1292,7 @@
    "faculty": [
     "Abhinav Sur"
    ],
-   "has_preprint": true
+   "has_preprint": false
   },
   {
    "id": "W7128684401",
