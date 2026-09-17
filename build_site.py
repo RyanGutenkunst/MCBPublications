@@ -203,10 +203,6 @@ TEMPLATE = r"""<!doctype html>
     if (p.type === "preprint") badges += '<span class="badge preprint">preprint</span>';
     else if (p.has_preprint) badges += '<span class="badge">preprint posted earlier</span>';
     if (p.is_oa) badges += '<span class="badge oa">open access</span>';
-    if (p.citations > 0) {
-      badges += '<span class="badge">' + p.citations +
-                (p.citations === 1 ? " citation" : " citations") + "</span>";
-    }
 
     var link = p.url || ("https://openalex.org/" + p.id);
     return '<li class="pub">' +
