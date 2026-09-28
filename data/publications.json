@@ -1,6 +1,6 @@
 {
- "generated": "2026-09-21T10:40:20",
- "since": "2025-09-21",
+ "generated": "2026-09-28T11:40:16",
+ "since": "2025-09-28",
  "faculty": [
   "Ross Buchan",
   "Gail Burd",
@@ -137,15 +137,15 @@
   "Solange Duhamel": 5,
   "Lisa Elfring": 0,
   "Corin Gray": 0,
-  "Ryan Gutenkunst": 9,
+  "Ryan Gutenkunst": 8,
   "Susan Hester": 1,
   "Nancy Horton": 1,
   "Nicole Leitner": 0,
   "Keith Maggert": 2,
-  "Claire McWhite": 5,
+  "Claire McWhite": 11,
   "Lisa Nagy": 0,
-  "Megha Padi": 5,
-  "Andrew Paek": 2,
+  "Megha Padi": 6,
+  "Andrew Paek": 1,
   "Chad Park": 0,
   "Angel Pimentel": 0,
   "Lisa Rezende": 1,
@@ -156,7 +156,7 @@
   "George Sutphin": 3,
   "Frans Tax": 1,
   "Ted Weinert": 0,
-  "Guang Yao": 6
+  "Guang Yao": 5
  },
  "errors": [],
  "publications": [
@@ -182,8 +182,8 @@
      "name": "Stefana A. Costan"
     },
     {
-     "id": "A5150889805",
-     "name": "Kira M. Hallerbach"
+     "id": "A5117848070",
+     "name": "Kira Hallerbach"
     },
     {
      "id": "A5150957546",
@@ -199,7 +199,7 @@
     },
     {
      "id": "A5019814011",
-     "name": "Ingmar H. Riedel\u2010Kruse"
+     "name": "Ingmar Hans Riedel-Kruse"
     }
    ],
    "faculty": [
@@ -265,7 +265,7 @@
     },
     {
      "id": "A5019814011",
-     "name": "Ingmar H. Riedel\u2010Kruse"
+     "name": "Ingmar Hans Riedel-Kruse"
     },
     {
      "id": "A5085394549",
@@ -300,7 +300,7 @@
     },
     {
      "id": "A5035956049",
-     "name": "E. Segal"
+     "name": "Ella X. Segal"
     },
     {
      "id": "A5119937506",
@@ -308,11 +308,11 @@
     },
     {
      "id": "A5003467686",
-     "name": "Jason Sinclair"
+     "name": "Jason W. Sinclair"
     },
     {
      "id": "A5031605507",
-     "name": "Morgan Prochaska"
+     "name": "Morgan Kathleen Prochaska"
     },
     {
      "id": "A5014845998",
@@ -323,8 +323,8 @@
      "name": "Yalan Wu"
     },
     {
-     "id": "A5145998220",
-     "name": "Liezhen Fu"
+     "id": "A5112954447",
+     "name": "LIEZHEN FU"
     },
     {
      "id": "A5038200182",
@@ -382,7 +382,7 @@
      "name": "Jason Yu"
     },
     {
-     "id": "A5144146320",
+     "id": "A5051652467",
      "name": "Arthur McClelland"
     },
     {
@@ -390,8 +390,8 @@
      "name": "Nicholas S. Colella"
     },
     {
-     "id": "A5124293349",
-     "name": "Ryan S. Jakubek"
+     "id": "A5058470660",
+     "name": "Ryan Scott Jakubek"
     },
     {
      "id": "A5144169319",
@@ -399,7 +399,7 @@
     },
     {
      "id": "A5019579681",
-     "name": "L. E. Mayhew"
+     "name": "Lisa E. Mayhew"
     },
     {
      "id": "A5059742751",
@@ -411,7 +411,7 @@
     },
     {
      "id": "A5059033107",
-     "name": "Heather V. Graham"
+     "name": "Heather Valeah Graham"
     },
     {
      "id": "A5055364462",
@@ -419,7 +419,7 @@
     },
     {
      "id": "A5048106882",
-     "name": "Jeffrey Marlow"
+     "name": "Jeffrey J. Marlow"
     }
    ],
    "faculty": [
@@ -446,7 +446,7 @@
    "authors": [
     {
      "id": "A5015593307",
-     "name": "Emily M. Waggoner"
+     "name": "Emily Marie Waggoner"
     },
     {
      "id": "A5076126339",
@@ -488,7 +488,7 @@
      "name": "Mengmeng Liu"
     },
     {
-     "id": "A5103621198",
+     "id": "",
      "name": "Xiao Li"
     },
     {
@@ -582,8 +582,8 @@
      "name": "Andres Rivero-Gamez"
     },
     {
-     "id": "A5140182520",
-     "name": "Timothy C Strutzenberg"
+     "id": "A5066732409",
+     "name": "Timothy S. Strutzenberg"
     },
     {
      "id": "A5077915889",
@@ -633,7 +633,7 @@
      "name": "Y. Taguchi"
     },
     {
-     "id": "A5139915296",
+     "id": "A5054515144",
      "name": "Wataru Koshibae"
     },
     {
@@ -686,6 +686,53 @@
    "has_preprint": false
   },
   {
+   "id": "W7166449658",
+   "title": "Probabilistic network modeling identifies RBPJ as a driver of stemness in Merkel cell carcinoma",
+   "date": "2026-06-27",
+   "year": 2026,
+   "type": "preprint",
+   "journal": "bioRxiv (Cold Spring Harbor Laboratory)",
+   "source_type": "repository",
+   "volume": "",
+   "issue": "",
+   "pages": "",
+   "doi": "https://doi.org/10.64898/2026.06.26.734761",
+   "url": "https://doi.org/10.64898/2026.06.26.734761",
+   "is_oa": true,
+   "oa_url": "https://doi.org/10.64898/2026.06.26.734761",
+   "citations": 0,
+   "authors": [
+    {
+     "id": "A5137046660",
+     "name": "Waldo Guzman Barrientos"
+    },
+    {
+     "id": "A5066030750",
+     "name": "Mireya Herrera-Herrera"
+    },
+    {
+     "id": "A5139512729",
+     "name": "Hannah Majors"
+    },
+    {
+     "id": "A5093242293",
+     "name": "Rodrigo De La Vega Gomar"
+    },
+    {
+     "id": "A5009827064",
+     "name": "Bar\u0131\u015f Kerimo\u011flu"
+    },
+    {
+     "id": "A5057903275",
+     "name": "Megha Padi"
+    }
+   ],
+   "faculty": [
+    "Megha Padi"
+   ],
+   "has_preprint": false
+  },
+  {
    "id": "W7164383900",
    "title": "Immunoediting restricts clonal neoantigens in primary, treatment-naive human tumors",
    "date": "2026-06-11",
@@ -724,10 +771,10 @@
     },
     {
      "id": "A5099073597",
-     "name": "A. Stockard"
+     "name": "Alyssa Stockard"
     },
     {
-     "id": "A5138408020",
+     "id": "A5066987253",
      "name": "Anirudh Choudhary"
     },
     {
@@ -739,7 +786,7 @@
      "name": "Xing Li"
     },
     {
-     "id": "A5135136503",
+     "id": "A5071053605",
      "name": "Aaron R. Mangold"
     },
     {
@@ -748,11 +795,11 @@
     },
     {
      "id": "A5018589877",
-     "name": "Bonnie LaFleur"
+     "name": "BONNIE J. LAFLEUR"
     },
     {
      "id": "A5062241915",
-     "name": "K.H. Buetow"
+     "name": "Kenneth H. Buetow"
     },
     {
      "id": "A5009607763",
@@ -845,11 +892,11 @@
      "name": "Ruchira Mitra"
     },
     {
-     "id": "A5135788655",
-     "name": "Rodolfo Garc\u00eda-Contreras"
+     "id": "A5024219837",
+     "name": "Rodolfo Garc\u00eda\u2010Contreras"
     },
     {
-     "id": "A5093026044",
+     "id": "A5135784613",
      "name": "Ilke Gurgan"
     },
     {
@@ -857,22 +904,215 @@
      "name": "Vanesa Angarita-Zapata"
     },
     {
-     "id": "A5135839578",
-     "name": "Viviana Sanchez-Torres"
+     "id": "A5085097324",
+     "name": "Viviana S\u00e1nchez-Torres"
     },
     {
      "id": "A5019814011",
-     "name": "Ingmar H. Riedel\u2010Kruse"
+     "name": "Ingmar Hans Riedel-Kruse"
     },
     {
      "id": "A5082173877",
-     "name": "Thomas K. Wood"
+     "name": "Thomas Keith Wood"
     }
    ],
    "faculty": [
     "Ingmar Riedel-Kruse"
    ],
    "has_preprint": true
+  },
+  {
+   "id": "W7163558424",
+   "title": "A cross-vertebrate brain protein interaction map identifies conserved neural and non-neural complexes",
+   "date": "2026-06-01",
+   "year": 2026,
+   "type": "article",
+   "journal": "Cell Reports",
+   "source_type": "journal",
+   "volume": "45",
+   "issue": "6",
+   "pages": "117422-117422",
+   "doi": "https://doi.org/10.1016/j.celrep.2026.117422",
+   "url": "https://doi.org/10.1016/j.celrep.2026.117422",
+   "is_oa": true,
+   "oa_url": "https://doi.org/10.1016/j.celrep.2026.117422",
+   "citations": 0,
+   "authors": [
+    {
+     "id": "A5101876891",
+     "name": "Vy T. H. Dang"
+    },
+    {
+     "id": "A5081538789",
+     "name": "Brittney Voigt"
+    },
+    {
+     "id": "A5137162271",
+     "name": "David Yang"
+    },
+    {
+     "id": "A5002031090",
+     "name": "Gabriel Hoogerbrugge"
+    },
+    {
+     "id": "A5016390830",
+     "name": "Muyoung Lee"
+    },
+    {
+     "id": "A5037690893",
+     "name": "Rachael M. Cox"
+    },
+    {
+     "id": "A5058271316",
+     "name": "Ophelia Papoulas"
+    },
+    {
+     "id": "A5041221517",
+     "name": "Claire D. McWhite"
+    },
+    {
+     "id": "A5137892684",
+     "name": "Raksha Pradeep"
+    },
+    {
+     "id": "A5037584115",
+     "name": "Janelle C. Leggere"
+    },
+    {
+     "id": "A5028983911",
+     "name": "Benjamin A. Neely"
+    },
+    {
+     "id": "A5023546937",
+     "name": "Ryan S. Gray"
+    },
+    {
+     "id": "A5079751395",
+     "name": "Edward M. Marcotte"
+    }
+   ],
+   "faculty": [
+    "Claire McWhite"
+   ],
+   "has_preprint": false
+  },
+  {
+   "id": "W7162518870",
+   "title": "A protein interactome for the last eukaryotic common ancestor illuminates the biochemical basis of modern genetic diseases",
+   "date": "2026-05-27",
+   "year": 2026,
+   "type": "article",
+   "journal": "Cell Genomics",
+   "source_type": "journal",
+   "volume": "6",
+   "issue": "6",
+   "pages": "101254-101254",
+   "doi": "https://doi.org/10.1016/j.xgen.2026.101254",
+   "url": "https://doi.org/10.1016/j.xgen.2026.101254",
+   "is_oa": true,
+   "oa_url": "https://doi.org/10.1016/j.xgen.2026.101254",
+   "citations": 1,
+   "authors": [
+    {
+     "id": "A5037690893",
+     "name": "Rachael M. Cox"
+    },
+    {
+     "id": "A5058271316",
+     "name": "Ophelia Papoulas"
+    },
+    {
+     "id": "A5067435038",
+     "name": "Shirlee Shril"
+    },
+    {
+     "id": "A5102989476",
+     "name": "Chanjae Lee"
+    },
+    {
+     "id": "A5109726176",
+     "name": "Tynan Gardner"
+    },
+    {
+     "id": "A5137099590",
+     "name": "Zoya T. Ansari"
+    },
+    {
+     "id": "A5026836258",
+     "name": "Anna M. Battenhouse"
+    },
+    {
+     "id": "A5016390830",
+     "name": "Muyoung Lee"
+    },
+    {
+     "id": "A5037097646",
+     "name": "Kevin Drew"
+    },
+    {
+     "id": "A5041221517",
+     "name": "Claire D. McWhite"
+    },
+    {
+     "id": "A5137162271",
+     "name": "David Yang"
+    },
+    {
+     "id": "A5037584115",
+     "name": "Janelle C. Leggere"
+    },
+    {
+     "id": "A5030066238",
+     "name": "Dannie Durand"
+    },
+    {
+     "id": "A5079173500",
+     "name": "Friedhelm Hildebrandt"
+    },
+    {
+     "id": "A5054294894",
+     "name": "John B. Wallingford"
+    },
+    {
+     "id": "A5079751395",
+     "name": "Edward M. Marcotte"
+    }
+   ],
+   "faculty": [
+    "Claire McWhite"
+   ],
+   "has_preprint": false
+  },
+  {
+   "id": "W7155367188",
+   "title": "marcottelab/protein_complex_maps: April 2026 release v1.1",
+   "date": "2026-04-23",
+   "year": 2026,
+   "type": "software",
+   "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+   "source_type": "repository",
+   "volume": "",
+   "issue": "",
+   "pages": "",
+   "doi": "https://doi.org/10.5281/zenodo.19701815",
+   "url": "https://doi.org/10.5281/zenodo.19701815",
+   "is_oa": true,
+   "oa_url": "https://doi.org/10.5281/zenodo.19701815",
+   "citations": 0,
+   "authors": [
+    {
+     "id": "A5037097646",
+     "name": "Kevin Drew"
+    },
+    {
+     "id": "A5041221517",
+     "name": "Claire D. McWhite"
+    }
+   ],
+   "faculty": [
+    "Claire McWhite"
+   ],
+   "has_preprint": false
   },
   {
    "id": "W7155559116",
@@ -908,20 +1148,79 @@
      "name": "Romina Appierdo"
     },
     {
-     "id": "A5134475570",
-     "name": "Claire McWhite"
+     "id": "A5041221517",
+     "name": "Claire D. McWhite"
     },
     {
      "id": "A5091418042",
      "name": "Giorgio Gambosi"
     },
     {
-     "id": "A5124219500",
-     "name": "Manuela Helmer Citterich"
+     "id": "A5076766422",
+     "name": "Mauro Helmer Citterich"
     },
     {
-     "id": "A5144226147",
-     "name": "PierFederico Gherardini"
+     "id": "A5052205775",
+     "name": "Pier Federico Gherardini"
+    }
+   ],
+   "faculty": [
+    "Claire McWhite"
+   ],
+   "has_preprint": false
+  },
+  {
+   "id": "W7155180141",
+   "title": "marcottelab/MSblender: v1.1",
+   "date": "2026-04-22",
+   "year": 2026,
+   "type": "software",
+   "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+   "source_type": "repository",
+   "volume": "",
+   "issue": "",
+   "pages": "",
+   "doi": "https://doi.org/10.5281/zenodo.19698770",
+   "url": "https://doi.org/10.5281/zenodo.19698770",
+   "is_oa": true,
+   "oa_url": "https://doi.org/10.5281/zenodo.19698770",
+   "citations": 0,
+   "authors": [
+    {
+     "id": "A5037690893",
+     "name": "Rachael M. Cox"
+    },
+    {
+     "id": "A5112010428",
+     "name": "Blake Borgeson"
+    },
+    {
+     "id": "A5134271958",
+     "name": "TaejoonKwon"
+    },
+    {
+     "id": "A5134345855",
+     "name": "aphorton"
+    },
+    {
+     "id": "A5041221517",
+     "name": "Claire D. McWhite"
+    },
+    {
+     "id": "A5037097646",
+     "name": "Kevin Drew"
+    },
+    {
+     "id": "A5134273614",
+     "name": "jrhouser"
+    },
+    {
+     "id": "A5134334229",
+     "name": "abattenhouse"
+    },
+    {
+     "id": "A5109726176",
+     "name": "Tynan Gardner"
     }
    ],
    "faculty": [
@@ -968,7 +1267,7 @@
     },
     {
      "id": "A5048106882",
-     "name": "Jeffrey Marlow"
+     "name": "Jeffrey J. Marlow"
     }
    ],
    "faculty": [
@@ -1007,7 +1306,7 @@
     },
     {
      "id": "A5034474325",
-     "name": "Molly Bolger"
+     "name": "Molly S. Bolger"
     }
    ],
    "faculty": [
@@ -1042,10 +1341,10 @@
     },
     {
      "id": "A5074648516",
-     "name": "Austin Thompson"
+     "name": "Austin D. Thompson"
     },
     {
-     "id": "A5146934303",
+     "id": "A5103615267",
      "name": "Jaroslav Janda"
     },
     {
@@ -1061,7 +1360,7 @@
      "name": "George L. Sutphin"
     },
     {
-     "id": "A5130348238",
+     "id": "A5004628839",
      "name": "Rick G. Schnellmann"
     }
    ],
@@ -1104,8 +1403,8 @@
      "name": "Federica Calabrese"
     },
     {
-     "id": "A5128769621",
-     "name": "Jeffery Marlow"
+     "id": "A5048106882",
+     "name": "Jeffrey J. Marlow"
     },
     {
      "id": "A5059742751",
@@ -1187,7 +1486,7 @@
     },
     {
      "id": "A5021557317",
-     "name": "Eric K. Singhi"
+     "name": "Eric Kumar Singhi"
     }
    ],
    "faculty": [
@@ -1217,7 +1516,7 @@
      "name": "Billie E. Davies"
     },
     {
-     "id": "A5146857667",
+     "id": "A5065256910",
      "name": "Paul Gonzalez"
     },
     {
@@ -1245,16 +1544,16 @@
      "name": "Kero Guynes"
     },
     {
-     "id": "A5126663593",
+     "id": "A5021117435",
      "name": "Yan Liang"
     },
     {
      "id": "A5085990407",
-     "name": "Rory D. Donnellan"
+     "name": "Rory Daniel Donnellan"
     },
     {
-     "id": "A5126689708",
-     "name": "R Travis Moreland"
+     "id": "A5006800257",
+     "name": "R. Travis Moreland"
     },
     {
      "id": "A5109241038",
@@ -1273,12 +1572,12 @@
      "name": "Tyra G. Wolfsberg"
     },
     {
-     "id": "A5122281298",
+     "id": "A5025073823",
      "name": "N\u00e9va P. Meyer"
     },
     {
-     "id": "A5126673402",
-     "name": "Elaine C Seaver"
+     "id": "A5003330079",
+     "name": "Elaine C. Seaver"
     },
     {
      "id": "A5086263364",
@@ -1286,7 +1585,7 @@
     },
     {
      "id": "A5046495620",
-     "name": "Jos\u00e9 M. Mart\u00edn\u2010Dur\u00e1n"
+     "name": "Jos\u00e9 Mar\u00eda Mart\u00edn-Dur\u00e1n"
     }
    ],
    "faculty": [
@@ -1329,7 +1628,7 @@
     },
     {
      "id": "A5110831004",
-     "name": "Hope Dang"
+     "name": "Hope T. L. Dang"
     },
     {
      "id": "A5125686195",
@@ -1337,7 +1636,7 @@
     },
     {
      "id": "A5012129184",
-     "name": "Luis Espejo"
+     "name": "Luis S. Espejo"
     },
     {
      "id": "A5014588741",
@@ -1411,14 +1710,14 @@
    "url": "https://doi.org/10.1038/s42003-025-09487-6",
    "is_oa": true,
    "oa_url": "https://doi.org/10.1038/s42003-025-09487-6",
-   "citations": 1,
+   "citations": 2,
    "authors": [
     {
-     "id": "A5124283249",
+     "id": "A5017843413",
      "name": "Sophia Hu"
     },
     {
-     "id": "A5100625796",
+     "id": "",
      "name": "Yong Lu"
     },
     {
@@ -1474,19 +1773,19 @@
    "url": "https://doi.org/10.1038/s41416-025-03323-8",
    "is_oa": true,
    "oa_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12960840/",
-   "citations": 0,
+   "citations": 1,
    "authors": [
     {
      "id": "A5025975072",
-     "name": "J. Yang"
+     "name": "Jiawen Yang"
     },
     {
      "id": "A5021853691",
      "name": "John M. Ryniawec"
     },
     {
-     "id": "A5122229371",
-     "name": "Diogo de Oliveira Pessoa"
+     "id": "A5004434437",
+     "name": "Diogo de Oliveira Pess\u00f4a"
     },
     {
      "id": "A5057004565",
@@ -1552,16 +1851,16 @@
      "name": "Hyeon-Ji Hwang"
     },
     {
-     "id": "A5138507229",
+     "id": "A5135731565",
      "name": "Yunjeong Choi"
     },
     {
      "id": "A5019814011",
-     "name": "Ingmar H. Riedel\u2010Kruse"
+     "name": "Ingmar Hans Riedel-Kruse"
     },
     {
      "id": "A5082173877",
-     "name": "Thomas K. Wood"
+     "name": "Thomas Keith Wood"
     }
    ],
    "faculty": [
@@ -1592,19 +1891,19 @@
     },
     {
      "id": "A5035956049",
-     "name": "E. Segal"
+     "name": "Ella X. Segal"
     },
     {
      "id": "A5119937506",
      "name": "Michael P. Nunneley"
     },
     {
-     "id": "A5120906640",
+     "id": "A5003467686",
      "name": "Jason W. Sinclair"
     },
     {
      "id": "A5031605507",
-     "name": "Morgan Prochaska"
+     "name": "Morgan Kathleen Prochaska"
     },
     {
      "id": "A5014845998",
@@ -1689,7 +1988,7 @@
    "citations": 2,
    "authors": [
     {
-     "id": "A5103154827",
+     "id": "",
      "name": "Jong S. Park"
     },
     {
@@ -1796,12 +2095,12 @@
      "name": "Guang Yao"
     },
     {
-     "id": "A5100450114",
+     "id": "",
      "name": "Xiaolei Zhang"
     },
     {
-     "id": "A5074069807",
-     "name": "Yu Hu"
+     "id": "",
+     "name": "YiYing Hu"
     },
     {
      "id": "A5100320738",
@@ -2043,7 +2342,7 @@
     },
     {
      "id": "A5018589877",
-     "name": "Bonnie LaFleur"
+     "name": "BONNIE J. LAFLEUR"
     },
     {
      "id": "A5014704347",
@@ -2051,7 +2350,7 @@
     },
     {
      "id": "A5100782724",
-     "name": "Melissa Wilson"
+     "name": "Melissa Ann Wilson"
     },
     {
      "id": "A5072750353",
@@ -2141,7 +2440,7 @@
     },
     {
      "id": "A5044597921",
-     "name": "Austin Daigle"
+     "name": "Austin T. Daigle"
     },
     {
      "id": "A5059483109",
@@ -2193,7 +2492,7 @@
     },
     {
      "id": "A5061240989",
-     "name": "Adam Siepel"
+     "name": "Adam C. Siepel"
     },
     {
      "id": "A5056381387",
@@ -2224,7 +2523,7 @@
    "authors": [
     {
      "id": "A5065382562",
-     "name": "Aaron Byrd"
+     "name": "Aaron T. Byrd"
     },
     {
      "id": "A5066847122",
@@ -2235,7 +2534,7 @@
      "name": "Sophia Marcinowski"
     },
     {
-     "id": "A5100008629",
+     "id": "A5104152258",
      "name": "Megan M. Dykstra"
     },
     {
@@ -2295,7 +2594,7 @@
     },
     {
      "id": "A5047564266",
-     "name": "Yuan Lin"
+     "name": "Yuan Chang Lin"
     }
    ],
    "faculty": [
@@ -2386,14 +2685,14 @@
     },
     {
      "id": "A5024679845",
-     "name": "Y. Xiao"
+     "name": "Yuting Xiao"
     },
     {
      "id": "A5087747590",
-     "name": "Edward L. Braun"
+     "name": "Edward Louis Braun"
     },
     {
-     "id": "A5109576030",
+     "id": "A5050068380",
      "name": "Christophe Dessimoz"
     },
     {
@@ -2409,7 +2708,7 @@
      "name": "Gang Fang"
     },
     {
-     "id": "A5108136189",
+     "id": "A5102726331",
      "name": "Toni Gabald\u00f3n"
     },
     {
@@ -2520,7 +2819,7 @@
     },
     {
      "id": "A5054782849",
-     "name": "Katherine H. Shutta"
+     "name": "Katherine Hoff Shutta"
     },
     {
      "id": "A5057903275",
@@ -2532,7 +2831,7 @@
     },
     {
      "id": "A5051093934",
-     "name": "Dawn L. DeMeo"
+     "name": "Dawn Lisa DeMeo"
     },
     {
      "id": "A5024467494",
@@ -2545,189 +2844,6 @@
    ],
    "faculty": [
     "Megha Padi"
-   ],
-   "has_preprint": false
-  },
-  {
-   "id": "W4414493396",
-   "title": "Quiescence Induction Triggers Acute Accumulation of DNA Double-Strand Breaks That Drive Quiescence Heterogeneity",
-   "date": "2025-09-25",
-   "year": 2025,
-   "type": "preprint",
-   "journal": "bioRxiv (Cold Spring Harbor Laboratory)",
-   "source_type": "repository",
-   "volume": "",
-   "issue": "",
-   "pages": "",
-   "doi": "https://doi.org/10.1101/2025.09.24.678365",
-   "url": "https://doi.org/10.1101/2025.09.24.678365",
-   "is_oa": true,
-   "oa_url": "https://www.biorxiv.org/content/biorxiv/early/2025/09/25/2025.09.24.678365.full.pdf",
-   "citations": 0,
-   "authors": [
-    {
-     "id": "A5046073720",
-     "name": "Kotaro Fujimaki"
-    },
-    {
-     "id": "A5054257493",
-     "name": "Andrew L. Paek"
-    },
-    {
-     "id": "A5103474506",
-     "name": "Guang Yao"
-    }
-   ],
-   "faculty": [
-    "Andrew Paek",
-    "Guang Yao"
-   ],
-   "has_preprint": false
-  },
-  {
-   "id": "W4414487805",
-   "title": "Accessible, Realistic Genome Simulation with Selection Using stdpopsim",
-   "date": "2025-09-25",
-   "year": 2025,
-   "type": "article",
-   "journal": "Molecular Biology and Evolution",
-   "source_type": "journal",
-   "volume": "42",
-   "issue": "11",
-   "pages": "",
-   "doi": "https://doi.org/10.1093/molbev/msaf236",
-   "url": "https://doi.org/10.1093/molbev/msaf236",
-   "is_oa": true,
-   "oa_url": "https://academic.oup.com/mbe/advance-article-pdf/doi/10.1093/molbev/msaf236/64378016/msaf236.pdf",
-   "citations": 7,
-   "authors": [
-    {
-     "id": "A5047340843",
-     "name": "Graham Gower"
-    },
-    {
-     "id": "A5081716110",
-     "name": "Nathaniel S. Pope"
-    },
-    {
-     "id": "A5077440899",
-     "name": "Murillo F. Rodrigues"
-    },
-    {
-     "id": "A5048773744",
-     "name": "Silas Tittes"
-    },
-    {
-     "id": "",
-     "name": "Linh N Tran"
-    },
-    {
-     "id": "A5043060037",
-     "name": "Ornob Alam"
-    },
-    {
-     "id": "A5082225594",
-     "name": "Maria Izabel A. Cavassim"
-    },
-    {
-     "id": "A5089322945",
-     "name": "Peter D. Fields"
-    },
-    {
-     "id": "A5003864505",
-     "name": "Benjamin C. Haller"
-    },
-    {
-     "id": "A5088612516",
-     "name": "Xin Huang"
-    },
-    {
-     "id": "A5057549841",
-     "name": "Ben Jeffery"
-    },
-    {
-     "id": "A5051766459",
-     "name": "Kevin Korfmann"
-    },
-    {
-     "id": "A5047695608",
-     "name": "Christopher C. Kyriazis"
-    },
-    {
-     "id": "A5030681637",
-     "name": "Jiseon Min"
-    },
-    {
-     "id": "A5053896987",
-     "name": "In\u00e9s Rebollo"
-    },
-    {
-     "id": "A5092494472",
-     "name": "Clara T. Rehmann"
-    },
-    {
-     "id": "A5068578768",
-     "name": "Scott T. Small"
-    },
-    {
-     "id": "A5066466932",
-     "name": "Chris C. R. Smith"
-    },
-    {
-     "id": "A5015947494",
-     "name": "Georgia Tsambos"
-    },
-    {
-     "id": "A5001950615",
-     "name": "Yan Wong"
-    },
-    {
-     "id": "A5104275802",
-     "name": "Yu Zhang"
-    },
-    {
-     "id": "A5019533423",
-     "name": "Christian D. Huber"
-    },
-    {
-     "id": "A5045309070",
-     "name": "Gregor Gorjanc"
-    },
-    {
-     "id": "A5000274356",
-     "name": "Aaron P. Ragsdale"
-    },
-    {
-     "id": "A5018334027",
-     "name": "Ilan Gronau"
-    },
-    {
-     "id": "A5056381387",
-     "name": "Ryan N. Gutenkunst"
-    },
-    {
-     "id": "A5002091138",
-     "name": "Jerome Kelleher"
-    },
-    {
-     "id": "A5066467126",
-     "name": "Kirk E. Lohmueller"
-    },
-    {
-     "id": "A5075221740",
-     "name": "Daniel R. Schrider"
-    },
-    {
-     "id": "A5021950882",
-     "name": "Peter L. Ralph"
-    },
-    {
-     "id": "A5005571919",
-     "name": "Andrew D. Kern"
-    }
-   ],
-   "faculty": [
-    "Ryan Gutenkunst"
    ],
    "has_preprint": false
   }
