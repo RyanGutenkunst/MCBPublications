@@ -1,6 +1,6 @@
 {
- "generated": "2026-09-28T11:40:16",
- "since": "2025-09-28",
+ "generated": "2026-10-05T12:14:49",
+ "since": "2025-10-05",
  "faculty": [
   "Ross Buchan",
   "Gail Burd",
@@ -134,17 +134,17 @@
   "Stephanie Capaldi": 0,
   "Pascale Charest": 0,
   "Carol Dieckmann": 1,
-  "Solange Duhamel": 5,
+  "Solange Duhamel": 6,
   "Lisa Elfring": 0,
   "Corin Gray": 0,
-  "Ryan Gutenkunst": 8,
+  "Ryan Gutenkunst": 7,
   "Susan Hester": 1,
   "Nancy Horton": 1,
   "Nicole Leitner": 0,
   "Keith Maggert": 2,
   "Claire McWhite": 11,
   "Lisa Nagy": 0,
-  "Megha Padi": 6,
+  "Megha Padi": 5,
   "Andrew Paek": 1,
   "Chad Park": 0,
   "Angel Pimentel": 0,
@@ -161,16 +161,407 @@
  "errors": [],
  "publications": [
   {
-   "id": "W7212020193",
-   "title": "Controlling viscoelastic behavior and microstructural organization in engineered living materials using synthetic adhesins and rheometry",
-   "date": "2026-09-01",
+   "id": "W7215783160",
+   "title": "Global compilation of in situ particulate organic carbon, nitrogen, and phosphorus concentrations in coastal and open ocean waters",
+   "date": "2026-10-02",
    "year": 2026,
-   "type": "article",
-   "journal": "Acta Biomaterialia",
+   "type": "data-paper",
+   "journal": "Scientific Data",
    "source_type": "journal",
    "volume": "",
    "issue": "",
    "pages": "",
+   "doi": "https://doi.org/10.1038/s41597-026-08413-7",
+   "url": "https://doi.org/10.1038/s41597-026-08413-7",
+   "is_oa": true,
+   "oa_url": "https://www.nature.com/articles/s41597-026-08413-7_reference.pdf",
+   "citations": 0,
+   "authors": [
+    {
+     "id": "A5014295091",
+     "name": "Alain Fumenia"
+    },
+    {
+     "id": "A5110938300",
+     "name": "Hubert Loisel"
+    },
+    {
+     "id": "A5012082846",
+     "name": "Thierry Moutin"
+    },
+    {
+     "id": "A5046036085",
+     "name": "Jamee C. Adams"
+    },
+    {
+     "id": "A5154330757",
+     "name": "H\u00e9l\u00e8ne Agogu\u00e9"
+    },
+    {
+     "id": "A5085429879",
+     "name": "Lihini I. Aluwihare"
+    },
+    {
+     "id": "A5037033232",
+     "name": "Kevin Robert Arrigo"
+    },
+    {
+     "id": "A5155308263",
+     "name": "Marcel Babin"
+    },
+    {
+     "id": "A5006979192",
+     "name": "Nicholas Baetge"
+    },
+    {
+     "id": "A5067712605",
+     "name": "William M. Balch"
+    },
+    {
+     "id": "A5156048517",
+     "name": "Nicholas R. Bates"
+    },
+    {
+     "id": "A5087545421",
+     "name": "Karin M. Bj\u00f6rkman"
+    },
+    {
+     "id": "A5084185011",
+     "name": "Alexander Boris Bochdansky"
+    },
+    {
+     "id": "A5156211466",
+     "name": "Sophie Bonnet"
+    },
+    {
+     "id": "A5156313520",
+     "name": "Yann Bozec"
+    },
+    {
+     "id": "A5078443087",
+     "name": "Raffaela Cattaneo"
+    },
+    {
+     "id": "A5071468838",
+     "name": "Arnaud Cauvin"
+    },
+    {
+     "id": "A5028610218",
+     "name": "Joaqu\u00edn Chaves"
+    },
+    {
+     "id": "A5005960855",
+     "name": "Matthew J. Church"
+    },
+    {
+     "id": "A5089828533",
+     "name": "Pascal Claquin"
+    },
+    {
+     "id": "A5071959201",
+     "name": "Olivier Crispi"
+    },
+    {
+     "id": "A5084646888",
+     "name": "Muriel Crouvoisier"
+    },
+    {
+     "id": "A5085786264",
+     "name": "Yolanda Del Amo"
+    },
+    {
+     "id": "A5080401509",
+     "name": "Emmanuel Devred"
+    },
+    {
+     "id": "A5000455929",
+     "name": "Julia M. Diaz"
+    },
+    {
+     "id": "A5065506119",
+     "name": "Kahina Djaoudi"
+    },
+    {
+     "id": "A5071962623",
+     "name": "David T. Drapeau"
+    },
+    {
+     "id": "A5059742751",
+     "name": "Solange Duhamel"
+    },
+    {
+     "id": "A5066878589",
+     "name": "Andrea J. Fassbender"
+    },
+    {
+     "id": "A5146756117",
+     "name": "Catherine Garcia"
+    },
+    {
+     "id": "A5155173557",
+     "name": "L\u00e9a Giannecchini"
+    },
+    {
+     "id": "A5016940116",
+     "name": "Miguel A. Go\u00f1i"
+    },
+    {
+     "id": "A5152984094",
+     "name": "Eric Grabowski"
+    },
+    {
+     "id": "A5155057818",
+     "name": "G\u00e9rald Gr\u00e9gori"
+    },
+    {
+     "id": "A5046169349",
+     "name": "Olivier Grosso"
+    },
+    {
+     "id": "A5155428225",
+     "name": "Emilie Grossteffan"
+    },
+    {
+     "id": "A5155635578",
+     "name": "C\u00e9cile Guieu"
+    },
+    {
+     "id": "A5044525205",
+     "name": "Ga\u00ebl Guillou"
+    },
+    {
+     "id": "A5073034839",
+     "name": "Sophia C. Johannessen"
+    },
+    {
+     "id": "A5023928728",
+     "name": "Rodney J. Johnson"
+    },
+    {
+     "id": "A5082759317",
+     "name": "Orianne Jolly"
+    },
+    {
+     "id": "A5038125696",
+     "name": "Andrew R. Juhl"
+    },
+    {
+     "id": "A5156122674",
+     "name": "David M. Karl"
+    },
+    {
+     "id": "A5046633037",
+     "name": "Irina Koester"
+    },
+    {
+     "id": "A5051256932",
+     "name": "Florian Koch"
+    },
+    {
+     "id": "A5154681323",
+     "name": "Bernd Krock"
+    },
+    {
+     "id": "A5005802415",
+     "name": "Nathalie Labourdette"
+    },
+    {
+     "id": "A5037771642",
+     "name": "V\u00e9ronique Lagadec"
+    },
+    {
+     "id": "A5061728587",
+     "name": "Michael R. Landry"
+    },
+    {
+     "id": "A5154464884",
+     "name": "Karine Leblanc"
+    },
+    {
+     "id": "A5055612006",
+     "name": "Beno\u00eet Lebreton"
+    },
+    {
+     "id": "A5155855700",
+     "name": "C\u00e9dric Leroux"
+    },
+    {
+     "id": "A5068978723",
+     "name": "Aude Leynaert"
+    },
+    {
+     "id": "A5100340638",
+     "name": "Qian Li"
+    },
+    {
+     "id": "A5030612901",
+     "name": "Fabrice Lizon"
+    },
+    {
+     "id": "A5087722654",
+     "name": "Michael William Lomas"
+    },
+    {
+     "id": "A5146849712",
+     "name": "Antonio Mannino"
+    },
+    {
+     "id": "A5089627064",
+     "name": "Barbara Marie"
+    },
+    {
+     "id": "A5022027315",
+     "name": "Adam Camillo Martiny"
+    },
+    {
+     "id": "A5155694131",
+     "name": "S\u00e9bastien Mas"
+    },
+    {
+     "id": "A5020015241",
+     "name": "Dennis J. McGillicuddy"
+    },
+    {
+     "id": "A5107431800",
+     "name": "Xavier M\u00e9riaux"
+    },
+    {
+     "id": "A5074557968",
+     "name": "Matthew M. Mills"
+    },
+    {
+     "id": "A5027092443",
+     "name": "Emilie Moisez"
+    },
+    {
+     "id": "A5085651651",
+     "name": "Behzad Mostajir"
+    },
+    {
+     "id": "A5070097000",
+     "name": "Laure Mousseau"
+    },
+    {
+     "id": "A5003163628",
+     "name": "Craig E. Nelson"
+    },
+    {
+     "id": "A5135952949",
+     "name": "Sandra Nunige"
+    },
+    {
+     "id": "A5063379789",
+     "name": "D. Pecqueur"
+    },
+    {
+     "id": "A5063904719",
+     "name": "Philippe Pineau"
+    },
+    {
+     "id": "A5058797144",
+     "name": "Mireille Pujo\u2010Pay"
+    },
+    {
+     "id": "A5154782481",
+     "name": "Elvira Pulido"
+    },
+    {
+     "id": "A5154465305",
+     "name": "Clare E. Reimers"
+    },
+    {
+     "id": "A5000021785",
+     "name": "Rick Allen Reynolds"
+    },
+    {
+     "id": "A5155394768",
+     "name": "Peggy Rimmelin-Maury"
+    },
+    {
+     "id": "A5093464297",
+     "name": "Eesha Sachdev"
+    },
+    {
+     "id": "A5035748109",
+     "name": "Nicolas Savoye"
+    },
+    {
+     "id": "A5155726491",
+     "name": "Robert M. Sherrell"
+    },
+    {
+     "id": "A5007478348",
+     "name": "Deborah K. Steinberg"
+    },
+    {
+     "id": "A5004366602",
+     "name": "Dariusz Stramski"
+    },
+    {
+     "id": "A5018218083",
+     "name": "Peter G. Strutton"
+    },
+    {
+     "id": "A5069474079",
+     "name": "Michael R. Stukel"
+    },
+    {
+     "id": "A5022537700",
+     "name": "Ajit Subramaniam"
+    },
+    {
+     "id": "A5108707510",
+     "name": "\u00c9mmanuelle Sultan"
+    },
+    {
+     "id": "A5156128673",
+     "name": "Maria Tzortziou"
+    },
+    {
+     "id": "A5077254525",
+     "name": "Kendra A. Turk\u2010Kubo"
+    },
+    {
+     "id": "A5054154582",
+     "name": "Patricia Lynn Yager"
+    },
+    {
+     "id": "A5154366345",
+     "name": "Gert van Dijken"
+    },
+    {
+     "id": "A5106448309",
+     "name": "Vincent Vantrepotte"
+    },
+    {
+     "id": "A5147470505",
+     "name": "Francesca Vidussi"
+    },
+    {
+     "id": "A5015593307",
+     "name": "Emily Marie Waggoner"
+    },
+    {
+     "id": "A5026032554",
+     "name": "Linda Wegley Kelly"
+    }
+   ],
+   "faculty": [
+    "Solange Duhamel"
+   ],
+   "has_preprint": false
+  },
+  {
+   "id": "W7212020193",
+   "title": "Controlling viscoelastic behavior and microstructural organization in engineered living materials using synthetic adhesins and rheometry",
+   "date": "2026-09-09",
+   "year": 2026,
+   "type": "article",
+   "journal": "Acta Biomaterialia",
+   "source_type": "journal",
+   "volume": "223",
+   "issue": "",
+   "pages": "376-386",
    "doi": "https://doi.org/10.1016/j.actbio.2026.08.044",
    "url": "https://doi.org/10.1016/j.actbio.2026.08.044",
    "is_oa": true,
@@ -299,7 +690,7 @@
      "name": "Abhinav Sur"
     },
     {
-     "id": "A5035956049",
+     "id": "",
      "name": "Ella X. Segal"
     },
     {
@@ -386,8 +777,8 @@
      "name": "Arthur McClelland"
     },
     {
-     "id": "A5069642528",
-     "name": "Nicholas S. Colella"
+     "id": "",
+     "name": "Nicholas Colella"
     },
     {
      "id": "A5058470660",
@@ -830,7 +1221,7 @@
    "url": "https://doi.org/10.64898/2026.06.09.731149",
    "is_oa": true,
    "oa_url": "https://doi.org/10.64898/2026.06.09.731149",
-   "citations": 3,
+   "citations": 4,
    "authors": [
     {
      "id": "A5065750826",
@@ -940,7 +1331,7 @@
    "authors": [
     {
      "id": "A5101876891",
-     "name": "Vy T. H. Dang"
+     "name": "Vy Dang"
     },
     {
      "id": "A5081538789",
@@ -1011,7 +1402,7 @@
    "url": "https://doi.org/10.1016/j.xgen.2026.101254",
    "is_oa": true,
    "oa_url": "https://doi.org/10.1016/j.xgen.2026.101254",
-   "citations": 1,
+   "citations": 2,
    "authors": [
     {
      "id": "A5037690893",
@@ -1031,7 +1422,7 @@
     },
     {
      "id": "A5109726176",
-     "name": "Tynan Gardner"
+     "name": "Tynan P. Gardner"
     },
     {
      "id": "A5137099590",
@@ -1132,7 +1523,7 @@
    "citations": 0,
    "authors": [
     {
-     "id": "A5041910783",
+     "id": "",
      "name": "Mario Catalano"
     },
     {
@@ -1220,7 +1611,7 @@
     },
     {
      "id": "A5109726176",
-     "name": "Tynan Gardner"
+     "name": "Tynan P. Gardner"
     }
    ],
    "faculty": [
@@ -1516,7 +1907,7 @@
      "name": "Billie E. Davies"
     },
     {
-     "id": "A5065256910",
+     "id": "",
      "name": "Paul Gonzalez"
     },
     {
@@ -1623,8 +2014,8 @@
      "name": "Ra\u00fal Castro-Portuguez"
     },
     {
-     "id": "A5074082609",
-     "name": "Robert M. Railey"
+     "id": "",
+     "name": "Robert Railey"
     },
     {
      "id": "A5110831004",
@@ -1890,7 +2281,7 @@
      "name": "Abhinav Sur"
     },
     {
-     "id": "A5035956049",
+     "id": "",
      "name": "Ella X. Segal"
     },
     {
@@ -2278,8 +2669,8 @@
    "citations": 13,
    "authors": [
     {
-     "id": "A5108483152",
-     "name": "Robert M. Shaw"
+     "id": "",
+     "name": "Robert Shaw"
     },
     {
      "id": "A5019784513",
@@ -2459,8 +2850,8 @@
      "name": "Svetlana Antonets"
     },
     {
-     "id": "A5068831906",
-     "name": "E. S. Alekseevskaya"
+     "id": "",
+     "name": "Elizaveta Alekseevskaya"
     },
     {
      "id": "A5017934786",
@@ -2617,7 +3008,7 @@
    "url": "https://doi.org/10.1007/s00239-025-10272-6",
    "is_oa": true,
    "oa_url": "https://link.springer.com/content/pdf/10.1007/s00239-025-10272-6.pdf",
-   "citations": 7,
+   "citations": 8,
    "authors": [
     {
      "id": "A5007701873",
@@ -2742,108 +3133,6 @@
    ],
    "faculty": [
     "Claire McWhite"
-   ],
-   "has_preprint": false
-  },
-  {
-   "id": "W4414872234",
-   "title": "Interpreting Supervised Machine Learning Inferences in Population Genomics Using Haplotype Matrix Permutations",
-   "date": "2025-10-01",
-   "year": 2025,
-   "type": "article",
-   "journal": "Molecular Biology and Evolution",
-   "source_type": "journal",
-   "volume": "42",
-   "issue": "10",
-   "pages": "",
-   "doi": "https://doi.org/10.1093/molbev/msaf250",
-   "url": "https://doi.org/10.1093/molbev/msaf250",
-   "is_oa": true,
-   "oa_url": "https://academic.oup.com/mbe/advance-article-pdf/doi/10.1093/molbev/msaf250/64522333/msaf250.pdf",
-   "citations": 6,
-   "authors": [
-    {
-     "id": "A5003286107",
-     "name": "Linh N. Tran"
-    },
-    {
-     "id": "A5024480613",
-     "name": "David Castellano"
-    },
-    {
-     "id": "A5056381387",
-     "name": "Ryan N. Gutenkunst"
-    }
-   ],
-   "faculty": [
-    "Ryan Gutenkunst"
-   ],
-   "has_preprint": false
-  },
-  {
-   "id": "W4414607933",
-   "title": "Multi-omics protein signaling networks identify sex-specific therapeutic candidates in lung adenocarcinoma",
-   "date": "2025-09-29",
-   "year": 2025,
-   "type": "article",
-   "journal": "Biology of Sex Differences",
-   "source_type": "journal",
-   "volume": "16",
-   "issue": "1",
-   "pages": "71-71",
-   "doi": "https://doi.org/10.1186/s13293-025-00752-1",
-   "url": "https://doi.org/10.1186/s13293-025-00752-1",
-   "is_oa": true,
-   "oa_url": "https://bsd.biomedcentral.com/counter/pdf/10.1186/s13293-025-00752-1",
-   "citations": 2,
-   "authors": [
-    {
-     "id": "A5109199470",
-     "name": "Chen Chen"
-    },
-    {
-     "id": "A5018639463",
-     "name": "Enakshi Saha"
-    },
-    {
-     "id": "A5101449901",
-     "name": "Jonas Fischer"
-    },
-    {
-     "id": "A5087387706",
-     "name": "Marouen Ben Guebila"
-    },
-    {
-     "id": "A5036980166",
-     "name": "Viola Fanfani"
-    },
-    {
-     "id": "A5054782849",
-     "name": "Katherine Hoff Shutta"
-    },
-    {
-     "id": "A5057903275",
-     "name": "Megha Padi"
-    },
-    {
-     "id": "A5075746488",
-     "name": "Kimberly Glass"
-    },
-    {
-     "id": "A5051093934",
-     "name": "Dawn Lisa DeMeo"
-    },
-    {
-     "id": "A5024467494",
-     "name": "Camila M. Lopes\u2010Ramos"
-    },
-    {
-     "id": "A5084245470",
-     "name": "John Quackenbush"
-    }
-   ],
-   "faculty": [
-    "Megha Padi"
    ],
    "has_preprint": false
   }
