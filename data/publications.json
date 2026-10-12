@@ -1,6 +1,6 @@
 {
- "generated": "2026-10-05T12:14:49",
- "since": "2025-10-05",
+ "generated": "2026-10-12T13:07:25",
+ "since": "2025-10-12",
  "faculty": [
   "Ross Buchan",
   "Gail Burd",
@@ -142,17 +142,17 @@
   "Nancy Horton": 1,
   "Nicole Leitner": 0,
   "Keith Maggert": 2,
-  "Claire McWhite": 11,
+  "Claire McWhite": 9,
   "Lisa Nagy": 0,
   "Megha Padi": 5,
   "Andrew Paek": 1,
   "Chad Park": 0,
   "Angel Pimentel": 0,
-  "Lisa Rezende": 1,
+  "Lisa Rezende": 0,
   "Ingmar Riedel-Kruse": 6,
   "Joyce Schroeder": 0,
   "Daryn Stover": 0,
-  "Abhinav Sur": 5,
+  "Abhinav Sur": 4,
   "George Sutphin": 3,
   "Frans Tax": 1,
   "Ted Weinert": 0,
@@ -298,7 +298,7 @@
      "name": "Catherine Garcia"
     },
     {
-     "id": "A5155173557",
+     "id": "A5093231942",
      "name": "L\u00e9a Giannecchini"
     },
     {
@@ -306,11 +306,11 @@
      "name": "Miguel A. Go\u00f1i"
     },
     {
-     "id": "A5152984094",
+     "id": "A5064812080",
      "name": "Eric Grabowski"
     },
     {
-     "id": "A5155057818",
+     "id": "A5091756586",
      "name": "G\u00e9rald Gr\u00e9gori"
     },
     {
@@ -318,7 +318,7 @@
      "name": "Olivier Grosso"
     },
     {
-     "id": "A5155428225",
+     "id": "A5008525548",
      "name": "Emilie Grossteffan"
     },
     {
@@ -358,7 +358,7 @@
      "name": "Florian Koch"
     },
     {
-     "id": "A5154681323",
+     "id": "A5035818452",
      "name": "Bernd Krock"
     },
     {
@@ -374,7 +374,7 @@
      "name": "Michael R. Landry"
     },
     {
-     "id": "A5154464884",
+     "id": "A5083470429",
      "name": "Karine Leblanc"
     },
     {
@@ -402,7 +402,7 @@
      "name": "Michael William Lomas"
     },
     {
-     "id": "A5146849712",
+     "id": "A5072896011",
      "name": "Antonio Mannino"
     },
     {
@@ -414,7 +414,7 @@
      "name": "Adam Camillo Martiny"
     },
     {
-     "id": "A5155694131",
+     "id": "A5059733781",
      "name": "S\u00e9bastien Mas"
     },
     {
@@ -446,7 +446,7 @@
      "name": "Craig E. Nelson"
     },
     {
-     "id": "A5135952949",
+     "id": "A5047866331",
      "name": "Sandra Nunige"
     },
     {
@@ -466,15 +466,15 @@
      "name": "Elvira Pulido"
     },
     {
-     "id": "A5154465305",
+     "id": "A5003598030",
      "name": "Clare E. Reimers"
     },
     {
      "id": "A5000021785",
-     "name": "Rick Allen Reynolds"
+     "name": "Rick A. Reynolds"
     },
     {
-     "id": "A5155394768",
+     "id": "A5112214507",
      "name": "Peggy Rimmelin-Maury"
     },
     {
@@ -486,7 +486,7 @@
      "name": "Nicolas Savoye"
     },
     {
-     "id": "A5155726491",
+     "id": "A5081423319",
      "name": "Robert M. Sherrell"
     },
     {
@@ -526,8 +526,8 @@
      "name": "Patricia Lynn Yager"
     },
     {
-     "id": "A5154366345",
-     "name": "Gert van Dijken"
+     "id": "A5048891153",
+     "name": "Gert L. van Dijken"
     },
     {
      "id": "A5106448309",
@@ -539,7 +539,7 @@
     },
     {
      "id": "A5015593307",
-     "name": "Emily Marie Waggoner"
+     "name": "Emily M. Waggoner"
     },
     {
      "id": "A5026032554",
@@ -683,14 +683,14 @@
    "url": "https://doi.org/10.1101/gad.353662.126",
    "is_oa": true,
    "oa_url": "https://doi.org/10.1101/gad.353662.126",
-   "citations": 0,
+   "citations": 1,
    "authors": [
     {
      "id": "A5037763610",
      "name": "Abhinav Sur"
     },
     {
-     "id": "",
+     "id": "A5035956049",
      "name": "Ella X. Segal"
     },
     {
@@ -782,7 +782,7 @@
     },
     {
      "id": "A5058470660",
-     "name": "Ryan Scott Jakubek"
+     "name": "Ryan S. Jakubek"
     },
     {
      "id": "A5144169319",
@@ -837,7 +837,7 @@
    "authors": [
     {
      "id": "A5015593307",
-     "name": "Emily Marie Waggoner"
+     "name": "Emily M. Waggoner"
     },
     {
      "id": "A5076126339",
@@ -867,7 +867,7 @@
    "doi": "https://doi.org/10.1093/genetics/iyag183",
    "url": "https://doi.org/10.1093/genetics/iyag183",
    "is_oa": true,
-   "oa_url": "https://pubmed.ncbi.nlm.nih.gov/42460457/",
+   "oa_url": "https://doi.org/10.64898/2026.05.22.727268",
    "citations": 0,
    "authors": [
     {
@@ -1145,7 +1145,7 @@
      "name": "Elizabeth S. Borden"
     },
     {
-     "id": "A5138406825",
+     "id": "A5024480613",
      "name": "David Castellano"
     },
     {
@@ -1161,8 +1161,8 @@
      "name": "Zachary Leibovit\u2010Reiben"
     },
     {
-     "id": "A5099073597",
-     "name": "Alyssa Stockard"
+     "id": "A5114635744",
+     "name": "Alyssa L. Stockard"
     },
     {
      "id": "A5066987253",
@@ -1181,7 +1181,7 @@
      "name": "Aaron R. Mangold"
     },
     {
-     "id": "A5138474539",
+     "id": "A5056381387",
      "name": "Ryan N. Gutenkunst"
     },
     {
@@ -1402,7 +1402,7 @@
    "url": "https://doi.org/10.1016/j.xgen.2026.101254",
    "is_oa": true,
    "oa_url": "https://doi.org/10.1016/j.xgen.2026.101254",
-   "citations": 2,
+   "citations": 6,
    "authors": [
     {
      "id": "A5037690893",
@@ -1561,7 +1561,7 @@
    "has_preprint": false
   },
   {
-   "id": "W7155180141",
+   "id": "W7155185594",
    "title": "marcottelab/MSblender: v1.1",
    "date": "2026-04-22",
    "year": 2026,
@@ -1571,10 +1571,10 @@
    "volume": "",
    "issue": "",
    "pages": "",
-   "doi": "https://doi.org/10.5281/zenodo.19698770",
-   "url": "https://doi.org/10.5281/zenodo.19698770",
+   "doi": "https://doi.org/10.5281/zenodo.19698769",
+   "url": "https://doi.org/10.5281/zenodo.19698769",
    "is_oa": true,
-   "oa_url": "https://doi.org/10.5281/zenodo.19698770",
+   "oa_url": "https://doi.org/10.5281/zenodo.19698769",
    "citations": 0,
    "authors": [
     {
@@ -1634,7 +1634,7 @@
    "url": "https://doi.org/10.1128/aem.02391-25",
    "is_oa": true,
    "oa_url": "https://doi.org/10.1128/aem.02391-25",
-   "citations": 0,
+   "citations": 1,
    "authors": [
     {
      "id": "A5082978585",
@@ -1851,41 +1851,6 @@
    "has_preprint": false
   },
   {
-   "id": "W7131892516",
-   "title": "Helping people navigate and make sense of cancer information: challenges and perspectives",
-   "date": "2026-02-27",
-   "year": 2026,
-   "type": "article",
-   "journal": "Future Oncology",
-   "source_type": "journal",
-   "volume": "22",
-   "issue": "6",
-   "pages": "617-623",
-   "doi": "https://doi.org/10.1080/14796694.2026.2628969",
-   "url": "https://doi.org/10.1080/14796694.2026.2628969",
-   "is_oa": true,
-   "oa_url": "https://www.tandfonline.com/doi/pdf/10.1080/14796694.2026.2628969?needAccess=true",
-   "citations": 0,
-   "authors": [
-    {
-     "id": "A5047637525",
-     "name": "LF Rezende"
-    },
-    {
-     "id": "A5099142258",
-     "name": "Gissoo DeCotiis"
-    },
-    {
-     "id": "A5021557317",
-     "name": "Eric Kumar Singhi"
-    }
-   ],
-   "faculty": [
-    "Lisa Rezende"
-   ],
-   "has_preprint": false
-  },
-  {
    "id": "W7131264302",
    "title": "A Chromosome-level Assembly and Functional Genomic Resources for the Model Annelid Capitella teleta",
    "date": "2026-02-24",
@@ -1940,7 +1905,7 @@
     },
     {
      "id": "A5085990407",
-     "name": "Rory Daniel Donnellan"
+     "name": "Rory D. Donnellan"
     },
     {
      "id": "A5006800257",
@@ -2101,14 +2066,14 @@
    "url": "https://doi.org/10.1038/s42003-025-09487-6",
    "is_oa": true,
    "oa_url": "https://doi.org/10.1038/s42003-025-09487-6",
-   "citations": 2,
+   "citations": 6,
    "authors": [
     {
      "id": "A5017843413",
      "name": "Sophia Hu"
     },
     {
-     "id": "",
+     "id": "A5157759823",
      "name": "Yong Lu"
     },
     {
@@ -2163,8 +2128,8 @@
    "doi": "https://doi.org/10.1038/s41416-025-03323-8",
    "url": "https://doi.org/10.1038/s41416-025-03323-8",
    "is_oa": true,
-   "oa_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12960840/",
-   "citations": 1,
+   "oa_url": "https://www.biorxiv.org/content/biorxiv/early/2025/05/12/2025.05.10.653266.full.pdf",
+   "citations": 3,
    "authors": [
     {
      "id": "A5025975072",
@@ -2666,7 +2631,7 @@
    "url": "https://doi.org/10.1007/s00239-025-10282-4",
    "is_oa": true,
    "oa_url": "https://link.springer.com/content/pdf/10.1007/s00239-025-10282-4.pdf",
-   "citations": 13,
+   "citations": 12,
    "authors": [
     {
      "id": "",
@@ -2831,7 +2796,7 @@
     },
     {
      "id": "A5044597921",
-     "name": "Austin T. Daigle"
+     "name": "Austin Daigle"
     },
     {
      "id": "A5059483109",
@@ -2910,7 +2875,7 @@
    "url": "https://doi.org/10.1083/jcb.202212064",
    "is_oa": true,
    "oa_url": "https://doi.org/10.1083/jcb.202212064",
-   "citations": 2,
+   "citations": 5,
    "authors": [
     {
      "id": "A5065382562",
@@ -3047,7 +3012,7 @@
      "name": "Salvatore Cosentino"
     },
     {
-     "id": "A5112344688",
+     "id": "A5064227397",
      "name": "Ingo Ebersberger"
     },
     {
@@ -3123,7 +3088,7 @@
      "name": "Paul D. Thomas"
     },
     {
-     "id": "A5108127313",
+     "id": "A5004463624",
      "name": "A\u00efda Ouangraoua"
     },
     {
