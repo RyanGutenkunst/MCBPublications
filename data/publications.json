@@ -1,6 +1,6 @@
 {
- "generated": "2026-10-12T13:07:25",
- "since": "2025-10-12",
+ "generated": "2026-10-19T10:43:37",
+ "since": "2025-10-19",
  "faculty": [
   "Ross Buchan",
   "Gail Burd",
@@ -137,11 +137,11 @@
   "Solange Duhamel": 6,
   "Lisa Elfring": 0,
   "Corin Gray": 0,
-  "Ryan Gutenkunst": 7,
+  "Ryan Gutenkunst": 6,
   "Susan Hester": 1,
-  "Nancy Horton": 1,
+  "Nancy Horton": 2,
   "Nicole Leitner": 0,
-  "Keith Maggert": 2,
+  "Keith Maggert": 1,
   "Claire McWhite": 9,
   "Lisa Nagy": 0,
   "Megha Padi": 5,
@@ -149,17 +149,75 @@
   "Chad Park": 0,
   "Angel Pimentel": 0,
   "Lisa Rezende": 0,
-  "Ingmar Riedel-Kruse": 6,
+  "Ingmar Riedel-Kruse": 9,
   "Joyce Schroeder": 0,
   "Daryn Stover": 0,
   "Abhinav Sur": 4,
   "George Sutphin": 3,
   "Frans Tax": 1,
   "Ted Weinert": 0,
-  "Guang Yao": 5
+  "Guang Yao": 4
  },
  "errors": [],
  "publications": [
+  {
+   "id": "W7222358990",
+   "title": "Stacking Up: The Expanding Catalog of Filament-Forming Enzymes",
+   "date": "2026-10-15",
+   "year": 2026,
+   "type": "article",
+   "journal": "Biochemistry",
+   "source_type": "journal",
+   "volume": "",
+   "issue": "",
+   "pages": "",
+   "doi": "https://doi.org/10.1021/acs.biochem.6c00586",
+   "url": "https://doi.org/10.1021/acs.biochem.6c00586",
+   "is_oa": false,
+   "oa_url": "",
+   "citations": 0,
+   "authors": [
+    {
+     "id": "A5054751436",
+     "name": "Nancy C. Horton"
+    }
+   ],
+   "faculty": [
+    "Nancy Horton"
+   ],
+   "has_preprint": false
+  },
+  {
+   "id": "W7221553272",
+   "title": "Representing biological concepts as directions in foundation model embeddings",
+   "date": "2026-10-12",
+   "year": 2026,
+   "type": "preprint",
+   "journal": "bioRxiv (Cold Spring Harbor Laboratory)",
+   "source_type": "repository",
+   "volume": "",
+   "issue": "",
+   "pages": "",
+   "doi": "https://doi.org/10.64898/2026.10.10.758204",
+   "url": "https://doi.org/10.64898/2026.10.10.758204",
+   "is_oa": true,
+   "oa_url": "https://www.biorxiv.org/content/biorxiv/early/2026/10/12/2026.10.10.758204.full.pdf",
+   "citations": 0,
+   "authors": [
+    {
+     "id": "A5120078011",
+     "name": "Ahmad Shamail"
+    },
+    {
+     "id": "A5041221517",
+     "name": "Claire D. McWhite"
+    }
+   ],
+   "faculty": [
+    "Claire McWhite"
+   ],
+   "has_preprint": false
+  },
   {
    "id": "W7215783160",
    "title": "Global compilation of in situ particulate organic carbon, nitrogen, and phosphorus concentrations in coastal and open ocean waters",
@@ -527,7 +585,7 @@
     },
     {
      "id": "A5048891153",
-     "name": "Gert L. van Dijken"
+     "name": "Gert L. Van Dijken A"
     },
     {
      "id": "A5106448309",
@@ -548,6 +606,65 @@
    ],
    "faculty": [
     "Solange Duhamel"
+   ],
+   "has_preprint": false
+  },
+  {
+   "id": "W7213909313",
+   "title": "Enhancing reverse methanogenesis using antisense RNA-mediated silencing",
+   "date": "2026-09-21",
+   "year": 2026,
+   "type": "article",
+   "journal": "Chemical Engineering Journal",
+   "source_type": "journal",
+   "volume": "549",
+   "issue": "",
+   "pages": "182219-182219",
+   "doi": "https://doi.org/10.1016/j.cej.2026.182219",
+   "url": "https://doi.org/10.1016/j.cej.2026.182219",
+   "is_oa": false,
+   "oa_url": "",
+   "citations": 0,
+   "authors": [
+    {
+     "id": "A5075484521",
+     "name": "Hyeon\u2010Ji Hwang"
+    },
+    {
+     "id": "A5040539007",
+     "name": "Ruchira Mitra"
+    },
+    {
+     "id": "A5024219837",
+     "name": "Rodolfo Garc\u00eda\u2010Contreras"
+    },
+    {
+     "id": "A5135784613",
+     "name": "Ilke Gurgan"
+    },
+    {
+     "id": "A5054450703",
+     "name": "Vanesa Angarita-Zapata"
+    },
+    {
+     "id": "A5139577750",
+     "name": "Mrugesh Parasa"
+    },
+    {
+     "id": "A5085097324",
+     "name": "Viviana S\u00e1nchez-Torres"
+    },
+    {
+     "id": "A5019814011",
+     "name": "Ingmar Hans Riedel-Kruse"
+    },
+    {
+     "id": "A5082173877",
+     "name": "Thomas Keith Wood"
+    }
+   ],
+   "faculty": [
+    "Ingmar Riedel-Kruse"
    ],
    "has_preprint": false
   },
@@ -798,7 +915,7 @@
     },
     {
      "id": "A5043555621",
-     "name": "Douglas E. LaRowe"
+     "name": "Douglas Edward LaRowe"
     },
     {
      "id": "A5059033107",
@@ -958,7 +1075,7 @@
    "url": "https://doi.org/10.64898/2026.07.06.736867",
    "is_oa": true,
    "oa_url": "https://doi.org/10.64898/2026.07.06.736867",
-   "citations": 0,
+   "citations": 1,
    "authors": [
     {
      "id": "A5041161369",
@@ -1068,7 +1185,7 @@
     },
     {
      "id": "A5084245470",
-     "name": "John Quackenbush"
+     "name": "John F Quackenbush"
     }
    ],
    "faculty": [
@@ -1120,6 +1237,57 @@
    ],
    "faculty": [
     "Megha Padi"
+   ],
+   "has_preprint": false
+  },
+  {
+   "id": "W7166586959",
+   "title": "Engineering Methyl-Coenzyme M Reductase for Enhanced Methane and Carbon Dioxide Capture through Biofilm Growth",
+   "date": "2026-06-27",
+   "year": 2026,
+   "type": "preprint",
+   "journal": "bioRxiv (Cold Spring Harbor Laboratory)",
+   "source_type": "repository",
+   "volume": "",
+   "issue": "",
+   "pages": "",
+   "doi": "https://doi.org/10.64898/2026.06.26.734734",
+   "url": "https://doi.org/10.64898/2026.06.26.734734",
+   "is_oa": true,
+   "oa_url": "https://www.biorxiv.org/content/biorxiv/early/2026/06/27/2026.06.26.734734.full.pdf",
+   "citations": 0,
+   "authors": [
+    {
+     "id": "A5075484521",
+     "name": "Hyeon\u2010Ji Hwang"
+    },
+    {
+     "id": "A5139577750",
+     "name": "Mrugesh Parasa"
+    },
+    {
+     "id": "A5040539007",
+     "name": "Ruchira Mitra"
+    },
+    {
+     "id": "A5024219837",
+     "name": "Rodolfo Garc\u00eda\u2010Contreras"
+    },
+    {
+     "id": "A5054450703",
+     "name": "Vanesa Angarita-Zapata"
+    },
+    {
+     "id": "A5019814011",
+     "name": "Ingmar Hans Riedel-Kruse"
+    },
+    {
+     "id": "A5082173877",
+     "name": "Thomas Keith Wood"
+    }
+   ],
+   "faculty": [
+    "Ingmar Riedel-Kruse"
    ],
    "has_preprint": false
   },
@@ -1186,7 +1354,7 @@
     },
     {
      "id": "A5018589877",
-     "name": "BONNIE J. LAFLEUR"
+     "name": "Bonnie LaFleur"
     },
     {
      "id": "A5062241915",
@@ -1402,7 +1570,7 @@
    "url": "https://doi.org/10.1016/j.xgen.2026.101254",
    "is_oa": true,
    "oa_url": "https://doi.org/10.1016/j.xgen.2026.101254",
-   "citations": 6,
+   "citations": 5,
    "authors": [
     {
      "id": "A5037690893",
@@ -1471,6 +1639,65 @@
    ],
    "faculty": [
     "Claire McWhite"
+   ],
+   "has_preprint": false
+  },
+  {
+   "id": "W7160712079",
+   "title": "Reversing methanogenesis to produce ethanol",
+   "date": "2026-05-09",
+   "year": 2026,
+   "type": "article",
+   "journal": "Communications Earth & Environment",
+   "source_type": "journal",
+   "volume": "7",
+   "issue": "1",
+   "pages": "",
+   "doi": "https://doi.org/10.1038/s43247-026-03601-0",
+   "url": "https://doi.org/10.1038/s43247-026-03601-0",
+   "is_oa": true,
+   "oa_url": "https://www.nature.com/articles/s43247-026-03601-0_reference.pdf",
+   "citations": 3,
+   "authors": [
+    {
+     "id": "A5040539007",
+     "name": "Ruchira Mitra"
+    },
+    {
+     "id": "A5135731565",
+     "name": "Yunjeong Choi"
+    },
+    {
+     "id": "A5135759710",
+     "name": "Hyeon-Ji Hwang"
+    },
+    {
+     "id": "A5024219837",
+     "name": "Rodolfo Garc\u00eda\u2010Contreras"
+    },
+    {
+     "id": "A5054450703",
+     "name": "Vanesa Angarita-Zapata"
+    },
+    {
+     "id": "A5016701581",
+     "name": "Shotaro Toya"
+    },
+    {
+     "id": "A5135784613",
+     "name": "Ilke Gurgan"
+    },
+    {
+     "id": "A5019814011",
+     "name": "Ingmar Hans Riedel-Kruse"
+    },
+    {
+     "id": "A5082173877",
+     "name": "Thomas Keith Wood"
+    }
+   ],
+   "faculty": [
+    "Ingmar Riedel-Kruse"
    ],
    "has_preprint": false
   },
@@ -1634,7 +1861,7 @@
    "url": "https://doi.org/10.1128/aem.02391-25",
    "is_oa": true,
    "oa_url": "https://doi.org/10.1128/aem.02391-25",
-   "citations": 1,
+   "citations": 2,
    "authors": [
     {
      "id": "A5082978585",
@@ -2160,7 +2387,7 @@
      "name": "Mengdie Wang"
     },
     {
-     "id": "A5100418548",
+     "id": "",
      "name": "Chen Chen"
     },
     {
@@ -2521,7 +2748,7 @@
    "citations": 2,
    "authors": [
     {
-     "id": "A5077958899",
+     "id": "",
      "name": "Cristina M. Padilla"
     },
     {
@@ -2698,7 +2925,7 @@
     },
     {
      "id": "A5018589877",
-     "name": "BONNIE J. LAFLEUR"
+     "name": "Bonnie LaFleur"
     },
     {
      "id": "A5014704347",
@@ -2908,196 +3135,6 @@
    ],
    "faculty": [
     "Ross Buchan"
-   ],
-   "has_preprint": false
-  },
-  {
-   "id": "W4415297402",
-   "title": "A Stretchable and Transparent Electrode for Visual Electrophysiological Acquisition",
-   "date": "2025-10-17",
-   "year": 2025,
-   "type": "article",
-   "journal": "Biosensors",
-   "source_type": "journal",
-   "volume": "15",
-   "issue": "10",
-   "pages": "701-701",
-   "doi": "https://doi.org/10.3390/bios15100701",
-   "url": "https://doi.org/10.3390/bios15100701",
-   "is_oa": true,
-   "oa_url": "https://www.mdpi.com/2079-6374/15/10/701/pdf?version=1760693116",
-   "citations": 1,
-   "authors": [
-    {
-     "id": "A5068478411",
-     "name": "Qiwei Dong"
-    },
-    {
-     "id": "A5055581241",
-     "name": "Maowen Xie"
-    },
-    {
-     "id": "A5048237467",
-     "name": "Mengyao Yuan"
-    },
-    {
-     "id": "A5002529947",
-     "name": "Wenhao Lou"
-    },
-    {
-     "id": "A5041753886",
-     "name": "Guang Yao"
-    },
-    {
-     "id": "A5047564266",
-     "name": "Yuan Chang Lin"
-    }
-   ],
-   "faculty": [
-    "Guang Yao"
-   ],
-   "has_preprint": false
-  },
-  {
-   "id": "W4415156865",
-   "title": "Quest for Orthologs in the era of Data Deluge and AI: Challenges and Innovations in Orthology Prediction and Data Integration",
-   "date": "2025-10-14",
-   "year": 2025,
-   "type": "article",
-   "journal": "Journal of Molecular Evolution",
-   "source_type": "journal",
-   "volume": "93",
-   "issue": "6",
-   "pages": "702-719",
-   "doi": "https://doi.org/10.1007/s00239-025-10272-6",
-   "url": "https://doi.org/10.1007/s00239-025-10272-6",
-   "is_oa": true,
-   "oa_url": "https://link.springer.com/content/pdf/10.1007/s00239-025-10272-6.pdf",
-   "citations": 8,
-   "authors": [
-    {
-     "id": "A5007701873",
-     "name": "Sina Majidian"
-    },
-    {
-     "id": "A5065762157",
-     "name": "Armin Hadziahmetovic"
-    },
-    {
-     "id": "A5024619104",
-     "name": "Felix Langschied"
-    },
-    {
-     "id": "A5035742538",
-     "name": "Stefano Pascarelli"
-    },
-    {
-     "id": "A5113472212",
-     "name": "Silvia Prieto-Ba\u00f1os"
-    },
-    {
-     "id": "A5067937248",
-     "name": "Jorge Rojas-Vargas"
-    },
-    {
-     "id": "A5062941325",
-     "name": "Lars Arvestad"
-    },
-    {
-     "id": "A5108726813",
-     "name": "Jitender Cheema"
-    },
-    {
-     "id": "A5100723453",
-     "name": "Salvatore Cosentino"
-    },
-    {
-     "id": "A5064227397",
-     "name": "Ingo Ebersberger"
-    },
-    {
-     "id": "A5082094219",
-     "name": "Elena Kuzmin"
-    },
-    {
-     "id": "A5040939380",
-     "name": "Yannis Nevers"
-    },
-    {
-     "id": "A5091169485",
-     "name": "Nikolai Romashchenko"
-    },
-    {
-     "id": "A5022587628",
-     "name": "Maureen Stolzer"
-    },
-    {
-     "id": "A5043306513",
-     "name": "Yan Wang"
-    },
-    {
-     "id": "A5049323096",
-     "name": "Alex Warwick Vesztrocy"
-    },
-    {
-     "id": "A5024679845",
-     "name": "Yuting Xiao"
-    },
-    {
-     "id": "A5087747590",
-     "name": "Edward Louis Braun"
-    },
-    {
-     "id": "A5050068380",
-     "name": "Christophe Dessimoz"
-    },
-    {
-     "id": "A5061553529",
-     "name": "Abdoulaye Banir\u00e9 Diallo"
-    },
-    {
-     "id": "A5030066238",
-     "name": "Dannie Durand"
-    },
-    {
-     "id": "A5071245512",
-     "name": "Gang Fang"
-    },
-    {
-     "id": "A5102726331",
-     "name": "Toni Gabald\u00f3n"
-    },
-    {
-     "id": "A5089216831",
-     "name": "Natasha Glover"
-    },
-    {
-     "id": "A5075418921",
-     "name": "David A. Liberles"
-    },
-    {
-     "id": "A5041221517",
-     "name": "Claire D. McWhite"
-    },
-    {
-     "id": "A5032432650",
-     "name": "Erik L. L. Sonnhammer"
-    },
-    {
-     "id": "A5016853551",
-     "name": "Paul D. Thomas"
-    },
-    {
-     "id": "A5004463624",
-     "name": "A\u00efda Ouangraoua"
-    },
-    {
-     "id": "A5016314158",
-     "name": "Irene Julca"
-    }
-   ],
-   "faculty": [
-    "Claire McWhite"
    ],
    "has_preprint": false
   }
