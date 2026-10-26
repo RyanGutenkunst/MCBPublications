@@ -1,6 +1,6 @@
 {
- "generated": "2026-10-19T10:43:37",
- "since": "2025-10-19",
+ "generated": "2026-10-26T11:03:01",
+ "since": "2025-10-26",
  "faculty": [
   "Ross Buchan",
   "Gail Burd",
@@ -128,7 +128,7 @@
   ]
  },
  "counts": {
-  "Ross Buchan": 1,
+  "Ross Buchan": 0,
   "Gail Burd": 0,
   "Andrew Capaldi": 1,
   "Stephanie Capaldi": 0,
@@ -2718,7 +2718,7 @@
    "url": "https://doi.org/10.1093/geroni/igaf122.1852",
    "is_oa": true,
    "oa_url": "https://academic.oup.com/innovateage/article-pdf/9/Supplement_2/igaf122.1852/66245512/igaf122.1852.pdf",
-   "citations": 0,
+   "citations": 1,
    "authors": [
     {
      "id": "A5064932278",
@@ -3084,57 +3084,6 @@
    ],
    "faculty": [
     "Ryan Gutenkunst"
-   ],
-   "has_preprint": false
-  },
-  {
-   "id": "W7118804795",
-   "title": "Rsp5/NEDD4 and ESCRT regulate TDP-43 toxicity and turnover via an endolysosomal clearance mechanism",
-   "date": "2025-10-25",
-   "year": 2025,
-   "type": "article",
-   "journal": "The Journal of Cell Biology",
-   "source_type": "journal",
-   "volume": "225",
-   "issue": "2",
-   "pages": "",
-   "doi": "https://doi.org/10.1083/jcb.202212064",
-   "url": "https://doi.org/10.1083/jcb.202212064",
-   "is_oa": true,
-   "oa_url": "https://doi.org/10.1083/jcb.202212064",
-   "citations": 5,
-   "authors": [
-    {
-     "id": "A5065382562",
-     "name": "Aaron T. Byrd"
-    },
-    {
-     "id": "A5066847122",
-     "name": "Lucas J. Marmorale"
-    },
-    {
-     "id": "A5030329380",
-     "name": "Sophia Marcinowski"
-    },
-    {
-     "id": "A5104152258",
-     "name": "Megan M. Dykstra"
-    },
-    {
-     "id": "A5071146433",
-     "name": "Vanessa Addison"
-    },
-    {
-     "id": "A5069883153",
-     "name": "Sami J. Barmada"
-    },
-    {
-     "id": "A5021452315",
-     "name": "J. Ross Buchan"
-    }
-   ],
-   "faculty": [
-    "Ross Buchan"
    ],
    "has_preprint": false
   }
