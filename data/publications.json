@@ -1,6 +1,6 @@
 {
- "generated": "2026-10-26T11:03:01",
- "since": "2025-10-26",
+ "generated": "2026-11-02T13:27:43",
+ "since": "2025-11-02",
  "faculty": [
   "Ross Buchan",
   "Gail Burd",
@@ -137,14 +137,14 @@
   "Solange Duhamel": 6,
   "Lisa Elfring": 0,
   "Corin Gray": 0,
-  "Ryan Gutenkunst": 6,
+  "Ryan Gutenkunst": 3,
   "Susan Hester": 1,
   "Nancy Horton": 2,
   "Nicole Leitner": 0,
   "Keith Maggert": 1,
   "Claire McWhite": 9,
   "Lisa Nagy": 0,
-  "Megha Padi": 5,
+  "Megha Padi": 4,
   "Andrew Paek": 1,
   "Chad Park": 0,
   "Angel Pimentel": 0,
@@ -798,8 +798,8 @@
    "pages": "1553-1574",
    "doi": "https://doi.org/10.1101/gad.353662.126",
    "url": "https://doi.org/10.1101/gad.353662.126",
-   "is_oa": true,
-   "oa_url": "https://doi.org/10.1101/gad.353662.126",
+   "is_oa": false,
+   "oa_url": "",
    "citations": 1,
    "authors": [
     {
@@ -894,7 +894,7 @@
      "name": "Arthur McClelland"
     },
     {
-     "id": "",
+     "id": "A5159891987",
      "name": "Nicholas Colella"
     },
     {
@@ -1388,7 +1388,7 @@
    "doi": "https://doi.org/10.64898/2026.06.09.731149",
    "url": "https://doi.org/10.64898/2026.06.09.731149",
    "is_oa": true,
-   "oa_url": "https://doi.org/10.64898/2026.06.09.731149",
+   "oa_url": "https://www.biorxiv.org/content/biorxiv/early/2026/06/10/2026.06.09.731149.full.pdf",
    "citations": 4,
    "authors": [
     {
@@ -1750,7 +1750,7 @@
    "citations": 0,
    "authors": [
     {
-     "id": "",
+     "id": "A5041910783",
      "name": "Mario Catalano"
     },
     {
@@ -2092,7 +2092,7 @@
    "url": "https://doi.org/10.1093/gbe/evag041",
    "is_oa": true,
    "oa_url": "https://doi.org/10.1093/gbe/evag041",
-   "citations": 2,
+   "citations": 3,
    "authors": [
     {
      "id": "A5013315931",
@@ -2206,7 +2206,7 @@
      "name": "Ra\u00fal Castro-Portuguez"
     },
     {
-     "id": "",
+     "id": "A5159985518",
      "name": "Robert Railey"
     },
     {
@@ -2473,7 +2473,7 @@
      "name": "Abhinav Sur"
     },
     {
-     "id": "",
+     "id": "A5035956049",
      "name": "Ella X. Segal"
     },
     {
@@ -2875,215 +2875,6 @@
    ],
    "faculty": [
     "Claire McWhite"
-   ],
-   "has_preprint": false
-  },
-  {
-   "id": "W4416446270",
-   "title": "Immunoediting restricts clonal neoantigens in primary human tumors 2606",
-   "date": "2025-11-01",
-   "year": 2025,
-   "type": "article",
-   "journal": "The Journal of Immunology",
-   "source_type": "journal",
-   "volume": "214",
-   "issue": "Supplement_1",
-   "pages": "",
-   "doi": "https://doi.org/10.1093/jimmun/vkaf283.507",
-   "url": "https://doi.org/10.1093/jimmun/vkaf283.507",
-   "is_oa": true,
-   "oa_url": "https://academic.oup.com/jimmunol/article-pdf/214/Supplement_1/vkaf283.507/65411625/vkaf283.507.pdf",
-   "citations": 0,
-   "authors": [
-    {
-     "id": "A5046674028",
-     "name": "Elizabeth S. Borden"
-    },
-    {
-     "id": "A5024480613",
-     "name": "David Castellano"
-    },
-    {
-     "id": "A5060530515",
-     "name": "Alysia Hughes"
-    },
-    {
-     "id": "A5115592173",
-     "name": "Tao Ma"
-    },
-    {
-     "id": "A5100358683",
-     "name": "Xing Li"
-    },
-    {
-     "id": "A5071053605",
-     "name": "Aaron R. Mangold"
-    },
-    {
-     "id": "A5056381387",
-     "name": "Ryan N. Gutenkunst"
-    },
-    {
-     "id": "A5018589877",
-     "name": "Bonnie LaFleur"
-    },
-    {
-     "id": "A5014704347",
-     "name": "Kenneth H. Buetow"
-    },
-    {
-     "id": "A5100782724",
-     "name": "Melissa Ann Wilson"
-    },
-    {
-     "id": "A5072750353",
-     "name": "Karen Taraszka Hastings"
-    }
-   ],
-   "faculty": [
-    "Ryan Gutenkunst"
-   ],
-   "has_preprint": false
-  },
-  {
-   "id": "W4415700047",
-   "title": "MmuPV1 E7 promotes phenotypes associated with \u201chigh-risk\u201d HPV infection in mouse keratinocytes",
-   "date": "2025-10-30",
-   "year": 2025,
-   "type": "article",
-   "journal": "Journal of Virology",
-   "source_type": "journal",
-   "volume": "99",
-   "issue": "11",
-   "pages": "e0109725-e0109725",
-   "doi": "https://doi.org/10.1128/jvi.01097-25",
-   "url": "https://doi.org/10.1128/jvi.01097-25",
-   "is_oa": true,
-   "oa_url": "https://journals.asm.org/doi/pdf/10.1128/jvi.01097-25?download=true",
-   "citations": 1,
-   "authors": [
-    {
-     "id": "A5120189852",
-     "name": "Kayla R. Duxbury"
-    },
-    {
-     "id": "A5070974924",
-     "name": "Liyan Zhang"
-    },
-    {
-     "id": "A5120189853",
-     "name": "Laura K. Muelhbauer"
-    },
-    {
-     "id": "A5026213371",
-     "name": "Mitchell Hayes"
-    },
-    {
-     "id": "A5086840789",
-     "name": "Joshua J. Coon"
-    },
-    {
-     "id": "A5057903275",
-     "name": "Megha Padi"
-    },
-    {
-     "id": "A5013916954",
-     "name": "James C. Romero-Masters"
-    }
-   ],
-   "faculty": [
-    "Megha Padi"
-   ],
-   "has_preprint": false
-  },
-  {
-   "id": "W4415958822",
-   "title": "GHIST 2024: The First Genomic History Inference Strategies Tournament",
-   "date": "2025-10-29",
-   "year": 2025,
-   "type": "article",
-   "journal": "Molecular Biology and Evolution",
-   "source_type": "journal",
-   "volume": "42",
-   "issue": "11",
-   "pages": "",
-   "doi": "https://doi.org/10.1093/molbev/msaf257",
-   "url": "https://doi.org/10.1093/molbev/msaf257",
-   "is_oa": true,
-   "oa_url": "https://doi.org/10.1093/molbev/msaf257",
-   "citations": 2,
-   "authors": [
-    {
-     "id": "A5077990872",
-     "name": "Travis J. Struck"
-    },
-    {
-     "id": "A5075407148",
-     "name": "Andrew H. Vaughn"
-    },
-    {
-     "id": "A5044597921",
-     "name": "Austin Daigle"
-    },
-    {
-     "id": "A5059483109",
-     "name": "Dylan D. Ray"
-    },
-    {
-     "id": "A5074914078",
-     "name": "Ekaterina Noskova"
-    },
-    {
-     "id": "A5086473982",
-     "name": "Jaison Jeevan Sequeira"
-    },
-    {
-     "id": "A5119288263",
-     "name": "Svetlana Antonets"
-    },
-    {
-     "id": "",
-     "name": "Elizaveta Alekseevskaya"
-    },
-    {
-     "id": "A5017934786",
-     "name": "Elizaveta Grigoreva"
-    },
-    {
-     "id": "A5062770417",
-     "name": "Evgenii Raines"
-    },
-    {
-     "id": "A5099018808",
-     "name": "Eilish S. McMaster"
-    },
-    {
-     "id": "A5023778523",
-     "name": "Toby G. L. Kovacs"
-    },
-    {
-     "id": "A5000274356",
-     "name": "Aaron P. Ragsdale"
-    },
-    {
-     "id": "A5087718113",
-     "name": "Andr\u00e9s Moreno\u2010Estrada"
-    },
-    {
-     "id": "A5040130605",
-     "name": "Katie E. Lotterhos"
-    },
-    {
-     "id": "A5061240989",
-     "name": "Adam C. Siepel"
-    },
-    {
-     "id": "A5056381387",
-     "name": "Ryan N. Gutenkunst"
-    }
-   ],
-   "faculty": [
-    "Ryan Gutenkunst"
    ],
    "has_preprint": false
   }
