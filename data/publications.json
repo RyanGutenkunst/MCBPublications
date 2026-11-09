@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-02T13:27:43",
- "since": "2025-11-02",
+ "generated": "2026-11-09T13:51:26",
+ "since": "2025-11-09",
  "faculty": [
   "Ross Buchan",
   "Gail Burd",
@@ -137,14 +137,14 @@
   "Solange Duhamel": 6,
   "Lisa Elfring": 0,
   "Corin Gray": 0,
-  "Ryan Gutenkunst": 3,
+  "Ryan Gutenkunst": 2,
   "Susan Hester": 1,
   "Nancy Horton": 2,
   "Nicole Leitner": 0,
   "Keith Maggert": 1,
   "Claire McWhite": 9,
   "Lisa Nagy": 0,
-  "Megha Padi": 4,
+  "Megha Padi": 5,
   "Andrew Paek": 1,
   "Chad Park": 0,
   "Angel Pimentel": 0,
@@ -165,12 +165,12 @@
    "title": "Stacking Up: The Expanding Catalog of Filament-Forming Enzymes",
    "date": "2026-10-15",
    "year": 2026,
-   "type": "article",
+   "type": "review",
    "journal": "Biochemistry",
    "source_type": "journal",
-   "volume": "",
-   "issue": "",
-   "pages": "",
+   "volume": "65",
+   "issue": "21",
+   "pages": "3322-3348",
    "doi": "https://doi.org/10.1021/acs.biochem.6c00586",
    "url": "https://doi.org/10.1021/acs.biochem.6c00586",
    "is_oa": false,
@@ -457,7 +457,7 @@
     },
     {
      "id": "A5087722654",
-     "name": "Michael William Lomas"
+     "name": "Michael W. Lomas"
     },
     {
      "id": "A5072896011",
@@ -1306,7 +1306,7 @@
    "url": "https://doi.org/10.1016/j.immuni.2026.05.005",
    "is_oa": true,
    "oa_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13428410/",
-   "citations": 1,
+   "citations": 2,
    "authors": [
     {
      "id": "A5046674028",
@@ -1495,7 +1495,7 @@
    "url": "https://doi.org/10.1016/j.celrep.2026.117422",
    "is_oa": true,
    "oa_url": "https://doi.org/10.1016/j.celrep.2026.117422",
-   "citations": 0,
+   "citations": 1,
    "authors": [
     {
      "id": "A5101876891",
@@ -1552,6 +1552,81 @@
    ],
    "faculty": [
     "Claire McWhite"
+   ],
+   "has_preprint": false
+  },
+  {
+   "id": "W7162666108",
+   "title": "High-throughput phenotypic profiling of patient-derived colon cancer organoids to reveal a chemoresistant, AKT-driven tumor subpopulation and treatment strategy.",
+   "date": "2026-05-28",
+   "year": 2026,
+   "type": "article",
+   "journal": "Journal of Clinical Oncology",
+   "source_type": "journal",
+   "volume": "44",
+   "issue": "16_suppl",
+   "pages": "",
+   "doi": "https://doi.org/10.1200/jco.2026.44.16_suppl.e15073",
+   "url": "https://doi.org/10.1200/jco.2026.44.16_suppl.e15073",
+   "is_oa": false,
+   "oa_url": "",
+   "citations": 0,
+   "authors": [
+    {
+     "id": "A5002977060",
+     "name": "Julia M. Morris"
+    },
+    {
+     "id": "A5137265481",
+     "name": "Pearl Wichaidit"
+    },
+    {
+     "id": "A5113540385",
+     "name": "Katharine Johnson"
+    },
+    {
+     "id": "A5133026303",
+     "name": "Lauren Riede"
+    },
+    {
+     "id": "A5025451190",
+     "name": "Reeba P. Varghese"
+    },
+    {
+     "id": "A5003280685",
+     "name": "Dante Bellomo"
+    },
+    {
+     "id": "A5009827064",
+     "name": "Bar\u0131\u015f Kerimo\u011flu"
+    },
+    {
+     "id": "A5073772553",
+     "name": "Mary K. Yagle"
+    },
+    {
+     "id": "A5057903275",
+     "name": "Megha Padi"
+    },
+    {
+     "id": "A5068793498",
+     "name": "Kelvin W. Pond"
+    },
+    {
+     "id": "A5054189237",
+     "name": "Nathan A. Ellis"
+    },
+    {
+     "id": "A5025510544",
+     "name": "Aaron James Scott"
+    },
+    {
+     "id": "A5041069157",
+     "name": "Curtis A. Thorne"
+    }
+   ],
+   "faculty": [
+    "Megha Padi"
    ],
    "has_preprint": false
   },
@@ -1747,7 +1822,7 @@
    "url": "https://doi.org/10.64898/2026.04.22.720174",
    "is_oa": true,
    "oa_url": "https://doi.org/10.64898/2026.04.22.720174",
-   "citations": 0,
+   "citations": 1,
    "authors": [
     {
      "id": "A5041910783",
@@ -1861,7 +1936,7 @@
    "url": "https://doi.org/10.1128/aem.02391-25",
    "is_oa": true,
    "oa_url": "https://doi.org/10.1128/aem.02391-25",
-   "citations": 2,
+   "citations": 3,
    "authors": [
     {
      "id": "A5082978585",
@@ -1908,7 +1983,7 @@
    "url": "https://doi.org/10.1186/s40594-026-00608-z",
    "is_oa": true,
    "oa_url": "https://doi.org/10.1186/s40594-026-00608-z",
-   "citations": 0,
+   "citations": 1,
    "authors": [
     {
      "id": "A5132979482",
@@ -2002,7 +2077,7 @@
    "url": "https://doi.org/10.1016/j.scitotenv.2026.181659",
    "is_oa": false,
    "oa_url": "",
-   "citations": 0,
+   "citations": 2,
    "authors": [
     {
      "id": "A5036893351",
@@ -2356,7 +2431,7 @@
    "url": "https://doi.org/10.1038/s41416-025-03323-8",
    "is_oa": true,
    "oa_url": "https://www.biorxiv.org/content/biorxiv/early/2025/05/12/2025.05.10.653266.full.pdf",
-   "citations": 3,
+   "citations": 4,
    "authors": [
     {
      "id": "A5025975072",
@@ -2414,15 +2489,15 @@
    "date": "2026-01-01",
    "year": 2026,
    "type": "preprint",
-   "journal": "SSRN Electronic Journal",
+   "journal": "bioRxiv (Cold Spring Harbor Laboratory)",
    "source_type": "repository",
    "volume": "",
    "issue": "",
    "pages": "",
-   "doi": "https://doi.org/10.2139/ssrn.6926469",
-   "url": "https://doi.org/10.2139/ssrn.6926469",
+   "doi": "https://doi.org/10.64898/2026.07.07.736952",
+   "url": "https://doi.org/10.64898/2026.07.07.736952",
    "is_oa": true,
-   "oa_url": "https://doi.org/10.2139/ssrn.6926469",
+   "oa_url": "https://www.biorxiv.org/content/biorxiv/early/2026/07/07/2026.07.07.736952.full.pdf",
    "citations": 0,
    "authors": [
     {
@@ -2819,7 +2894,7 @@
    "url": "https://doi.org/10.1038/s42003-025-09044-1",
    "is_oa": true,
    "oa_url": "https://www.nature.com/articles/s42003-025-09044-1.pdf",
-   "citations": 3,
+   "citations": 4,
    "authors": [
     {
      "id": "A5036893351",
