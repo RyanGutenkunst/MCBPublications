@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-09T13:51:26",
- "since": "2025-11-09",
+ "generated": "2026-11-16T13:35:48",
+ "since": "2025-11-16",
  "faculty": [
   "Ross Buchan",
   "Gail Burd",
@@ -144,7 +144,7 @@
   "Keith Maggert": 1,
   "Claire McWhite": 9,
   "Lisa Nagy": 0,
-  "Megha Padi": 5,
+  "Megha Padi": 4,
   "Andrew Paek": 1,
   "Chad Park": 0,
   "Angel Pimentel": 0,
@@ -624,7 +624,7 @@
    "url": "https://doi.org/10.1016/j.cej.2026.182219",
    "is_oa": false,
    "oa_url": "",
-   "citations": 0,
+   "citations": 1,
    "authors": [
     {
      "id": "A5075484521",
@@ -943,8 +943,8 @@
    "type": "data-paper",
    "journal": "Scientific Data",
    "source_type": "journal",
-   "volume": "",
-   "issue": "",
+   "volume": "13",
+   "issue": "1",
    "pages": "",
    "doi": "https://doi.org/10.1038/s41597-026-07868-y",
    "url": "https://doi.org/10.1038/s41597-026-07868-y",
@@ -1255,7 +1255,7 @@
    "url": "https://doi.org/10.64898/2026.06.26.734734",
    "is_oa": true,
    "oa_url": "https://www.biorxiv.org/content/biorxiv/early/2026/06/27/2026.06.26.734734.full.pdf",
-   "citations": 0,
+   "citations": 1,
    "authors": [
     {
      "id": "A5075484521",
@@ -1645,7 +1645,7 @@
    "url": "https://doi.org/10.1016/j.xgen.2026.101254",
    "is_oa": true,
    "oa_url": "https://doi.org/10.1016/j.xgen.2026.101254",
-   "citations": 5,
+   "citations": 7,
    "authors": [
     {
      "id": "A5037690893",
@@ -1732,7 +1732,7 @@
    "url": "https://doi.org/10.1038/s43247-026-03601-0",
    "is_oa": true,
    "oa_url": "https://www.nature.com/articles/s43247-026-03601-0_reference.pdf",
-   "citations": 3,
+   "citations": 4,
    "authors": [
     {
      "id": "A5040539007",
@@ -1936,7 +1936,7 @@
    "url": "https://doi.org/10.1128/aem.02391-25",
    "is_oa": true,
    "oa_url": "https://doi.org/10.1128/aem.02391-25",
-   "citations": 3,
+   "citations": 4,
    "authors": [
     {
      "id": "A5082978585",
@@ -2022,7 +2022,7 @@
    "url": "https://doi.org/10.1016/j.jpet.2026.104321",
    "is_oa": false,
    "oa_url": "",
-   "citations": 0,
+   "citations": 1,
    "authors": [
     {
      "id": "A5114433120",
@@ -2368,7 +2368,7 @@
    "url": "https://doi.org/10.1038/s42003-025-09487-6",
    "is_oa": true,
    "oa_url": "https://doi.org/10.1038/s42003-025-09487-6",
-   "citations": 6,
+   "citations": 7,
    "authors": [
     {
      "id": "A5017843413",
@@ -2541,7 +2541,7 @@
    "url": "https://doi.org/10.64898/2025.12.17.694935",
    "is_oa": true,
    "oa_url": "https://doi.org/10.64898/2025.12.17.694935",
-   "citations": 1,
+   "citations": 2,
    "authors": [
     {
      "id": "A5037763610",
@@ -2933,7 +2933,7 @@
    "url": "https://doi.org/10.1007/s00239-025-10282-4",
    "is_oa": true,
    "oa_url": "https://link.springer.com/content/pdf/10.1007/s00239-025-10282-4.pdf",
-   "citations": 12,
+   "citations": 13,
    "authors": [
     {
      "id": "",
